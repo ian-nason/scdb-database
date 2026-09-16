@@ -33,10 +33,11 @@ con.sql("""
 ```
 
 ```sql
--- how often each current justice is in the majority, 2020 term onward
-SELECT k.label AS justice, COUNT(*) AS votes, ROUND(AVG(j.majority = 2) * 100, 1) AS pct_in_majority
+-- share of votes in the majority for every justice who voted in the 2020 term or later
+-- (includes justices who have since left the Court, e.g. Breyer)
+SELECT k.label AS justice, COUNT(*) AS votes, ROUND(AVG((j.majority = 2)::INTEGER) * 100, 1) AS pct_in_majority
 FROM justice_votes j JOIN codes k ON k.variable = 'justice' AND k.code = j.justice::VARCHAR
-WHERE j.term >= 2020 GROUP BY 1 ORDER BY 3 DESC;
+WHERE j.term >= 2020 AND j.majority IS NOT NULL GROUP BY 1 ORDER BY 3 DESC;
 ```
 
 ## Researcher caveats

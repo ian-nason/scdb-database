@@ -3,6 +3,8 @@
 # http://scdb.wustl.edu/data.php  -- CSV zips, one per unit of analysis.
 set -uo pipefail
 cd "$(dirname "$0")"
+mkdir -p data/raw
+failed=0
 REL=${SCDB_RELEASE:-2026_01}
 LEG=${SCDB_LEGACY:-Legacy_07}
 for unit in caseCentered_Citation caseCentered_Docket caseCentered_LegalProvision caseCentered_Vote \
@@ -10,7 +12,8 @@ for unit in caseCentered_Citation caseCentered_Docket caseCentered_LegalProvisio
   for ver in "$REL" "$LEG"; do
     f="data/raw/SCDB_${ver}_${unit}.csv.zip"
     [[ -s "$f" ]] && continue
-    curl -L --retry 5 -sS -A "Mozilla/5.0 (datapond-maintenance)" -o "$f.part" "http://scdb.wustl.edu/_brickFiles/${ver}/SCDB_${ver}_${unit}.csv.zip" \
-      && python3 -c "import zipfile,sys; sys.exit(0 if zipfile.is_zipfile('$f.part') else 1)" && mv "$f.part" "$f" && echo "ok $f $(stat -c %s "$f")" || { rm -f "$f.part"; echo "FAIL $f"; }
+    curl --fail -L --retry 5 -sS -A "Mozilla/5.0 (datapond-maintenance)" -o "$f.part" "http://scdb.wustl.edu/_brickFiles/${ver}/SCDB_${ver}_${unit}.csv.zip" \
+      && python3 -c "import zipfile,sys; sys.exit(0 if zipfile.is_zipfile('$f.part') else 1)" && mv "$f.part" "$f" && echo "ok $f $(stat -c %s "$f")" || { rm -f "$f.part"; echo "FAIL $f" >&2; failed=$((failed + 1)); }
   done
 done
+if [[ $failed -gt 0 ]]; then echo "$failed download(s) failed" >&2; exit 1; fi
