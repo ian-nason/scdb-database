@@ -1,0 +1,20 @@
+repo: Nason/scdb-database
+file: scdb.duckdb
+pretty_name: The Supreme Court Database (SCDB), 1791-present, case- and justice-level with the code book
+title: Supreme Court Database (SCDB)
+license: cc-by-nc-3.0
+tags: [supreme-court, courts, judicial-politics, scdb, law, duckdb, datapond]
+size_category: 100K<n<1M
+alias: scdb
+table_columns: [description, row_count, column_count]
+intro: |
+  Every U.S. Supreme Court decision 1791-present from Washington University's Supreme Court
+  Database: the modern (1946-, release 2026_01) and Legacy (1791-1945) databases at the case
+  and justice level, all four units of analysis, plus the complete online code book as a
+  `codes` table so every integer code decodes in SQL. `v_cases` is pre-decoded.
+quick_start_sql: |
+  SELECT term, decision_direction, COUNT(*) AS n
+  FROM scdb.v_cases WHERE term >= 2015 GROUP BY 1, 2 ORDER BY 1, 2;
+footer: |
+  Build pipeline and caveats: https://github.com/ian-nason/scdb-database
+  Source: http://scdb.wustl.edu (Spaeth, Epstein et al.; CC BY-NC 3.0 - cite the SCDB).

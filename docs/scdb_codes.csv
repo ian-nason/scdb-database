@@ -1,0 +1,2950 @@
+variable,code,label,extra
+adminAction,1,Army and Air Force Exchange Service,
+adminAction,2,Atomic Energy Commission,
+adminAction,3,Secretary or administrative unit or personnel of the U.S. Air Force,
+adminAction,4,Department or Secretary of Agriculture,
+adminAction,5,Alien Property Custodian,
+adminAction,6,Secretary or administrative unit or personnel of the U.S. Army,
+adminAction,7,Board of Immigration Appeals,
+adminAction,8,Bureau of Indian Affairs,
+adminAction,9,Bureau of Prisons,
+adminAction,10,Bonneville Power Administration,
+adminAction,11,Benefits Review Board,
+adminAction,12,Civil Aeronautics Board,
+adminAction,13,Bureau of the Census,
+adminAction,14,Central Intelligence Agency,
+adminAction,15,Commodity Futures Trading Commission,
+adminAction,16,Department or Secretary of Commerce,
+adminAction,17,Comptroller of Currency,
+adminAction,18,Consumer Product Safety Commission,
+adminAction,19,Civil Rights Commission,
+adminAction,20,"Civil Service Commission, U.S.",
+adminAction,21,Customs Service or Commissioner or Collector of Customs,
+adminAction,22,Defense Base Closure and REalignment Commission,
+adminAction,23,Drug Enforcement Agency,
+adminAction,24,Department or Secretary of Defense (and Department or Secretary of War),
+adminAction,25,Department or Secretary of Energy,
+adminAction,26,Department or Secretary of the Interior,
+adminAction,27,Department of Justice or Attorney General,
+adminAction,28,Department or Secretary of State,
+adminAction,29,Department or Secretary of Transportation,
+adminAction,30,Department or Secretary of Education,
+adminAction,31,"U.S. Employees' Compensation Commission, or Commissioner",
+adminAction,32,Equal Employment Opportunity Commission,
+adminAction,33,Environmental Protection Agency or Administrator,
+adminAction,34,Federal Aviation Agency or Administration,
+adminAction,35,Federal Bureau of Investigation or Director,
+adminAction,36,Federal Bureau of Prisons,
+adminAction,37,Farm Credit Administration,
+adminAction,38,"Federal Communications Commission (including a predecessor, Federal Radio Commission)",
+adminAction,39,Federal Credit Union Administration,
+adminAction,40,Food and Drug Administration,
+adminAction,41,Federal Deposit Insurance Corporation,
+adminAction,42,Federal Energy Administration,
+adminAction,43,Federal Election Commission,
+adminAction,44,Federal Energy Regulatory Commission,
+adminAction,45,Federal Housing Administration,
+adminAction,46,Federal Home Loan Bank Board,
+adminAction,47,Federal Labor Relations Authority,
+adminAction,48,Federal Maritime Board,
+adminAction,49,Federal Maritime Commission,
+adminAction,50,Farmers Home Administration,
+adminAction,51,Federal Parole Board,
+adminAction,52,Federal Power Commission,
+adminAction,53,Federal Railroad Administration,
+adminAction,54,Federal Reserve Board of Governors,
+adminAction,55,Federal Reserve System,
+adminAction,56,Federal Savings and Loan Insurance Corporation,
+adminAction,57,Federal Trade Commission,
+adminAction,58,"Federal Works Administration, or Administrator",
+adminAction,59,General Accounting Office,
+adminAction,60,Comptroller General,
+adminAction,61,General Services Administration,
+adminAction,62,"Department or Secretary of Health, Education and Welfare",
+adminAction,63,Department or Secretary of Health and Human Services,
+adminAction,64,Department or Secretary of Housing and Urban Development,
+adminAction,65,Administrative agency established under an interstate compact (except for the MTC),
+adminAction,66,Interstate Commerce Commission,
+adminAction,67,Indian Claims Commission,
+adminAction,68,"Immigration and Naturalization Service, or Director of, or District Director of, or Immigration and Naturalization Enforcement",
+adminAction,69,"Internal Revenue Service, Collector, Commissioner, or District Director of",
+adminAction,70,Information Security Oversight Office,
+adminAction,71,Department or Secretary of Labor,
+adminAction,72,Loyalty Review Board,
+adminAction,73,Legal Services Corporation,
+adminAction,74,Merit Systems Protection Board,
+adminAction,75,Multistate Tax Commission,
+adminAction,76,National Aeronautics and Space Administration,
+adminAction,77,Secretary or administrative unit or personnel of the U.S. Navy,
+adminAction,78,National Credit Union Administration,
+adminAction,79,National Endowment for the Arts,
+adminAction,80,National Enforcement Commission,
+adminAction,81,National Highway Traffic Safety Administration,
+adminAction,82,"National Labor Relations Board, or regional office or officer",
+adminAction,83,National Mediation Board,
+adminAction,84,National Railroad Adjustment Board,
+adminAction,85,Nuclear Regulatory Commission,
+adminAction,86,National Security Agency,
+adminAction,87,Office of Economic Opportunity,
+adminAction,88,Office of Management and Budget,
+adminAction,89,"Office of Price Administration, or Price Administrator",
+adminAction,90,Office of Personnel Management,
+adminAction,91,Occupational Safety and Health Administration,
+adminAction,92,Occupational Safety and Health Review Commission,
+adminAction,93,Office of Workers' Compensation Programs,
+adminAction,94,"Patent Office, or Commissioner of, or Board of Appeals of",
+adminAction,95,Pay Board (established under the Economic Stabilization Act of 1970),
+adminAction,96,Pension Benefit Guaranty Corporation,
+adminAction,97,U.S. Public Health Service,
+adminAction,98,Postal Rate Commission,
+adminAction,99,Provider Reimbursement Review Board,
+adminAction,100,Renegotiation Board,
+adminAction,101,Railroad Adjustment Board,
+adminAction,102,Railroad Retirement Board,
+adminAction,103,Subversive Activities Control Board,
+adminAction,104,Small Business Administration,
+adminAction,105,Securities and Exchange Commission,
+adminAction,106,Social Security Administration or Commissioner,
+adminAction,107,Selective Service System,
+adminAction,108,Department or Secretary of the Treasury,
+adminAction,109,Tennessee Valley Authority,
+adminAction,110,United States Forest Service,
+adminAction,111,United States Parole Commission,
+adminAction,112,"Postal Service and Post Office, or Postmaster General, or Postmaster",
+adminAction,113,United States Sentencing Commission,
+adminAction,114,Veterans' Administration or Board of Veterans' Appeals,
+adminAction,115,War Production Board,
+adminAction,116,Wage Stabilization Board,
+adminAction,117,State Agency,
+adminAction,118,Unidentifiable,
+adminAction,119,Office of Thrift Supervision,
+adminAction,120,Department of Homeland Security,
+adminAction,121,Board of General Appraisers,
+adminAction,122,Board of Tax Appeals,
+adminAction,123,General Land Office or Commissioners,
+adminAction,124,NO Admin Action,
+adminAction,125,Processing Tax Board of Review,
+adminActionState,1,Alabama,
+adminActionState,2,Alaska,
+adminActionState,3,American Samoa,
+adminActionState,4,Arizona,
+adminActionState,5,Arkansas,
+adminActionState,6,California,
+adminActionState,7,Colorado,
+adminActionState,8,Connecticut,
+adminActionState,9,Delaware,
+adminActionState,10,District of Columbia,
+adminActionState,11,Federated States of Micronesia,
+adminActionState,12,Florida,
+adminActionState,13,Georgia,
+adminActionState,14,Guam,
+adminActionState,15,Hawaii,
+adminActionState,16,Idaho,
+adminActionState,17,Illinois,
+adminActionState,18,Indiana,
+adminActionState,19,Iowa,
+adminActionState,20,Kansas,
+adminActionState,21,Kentucky,
+adminActionState,22,Louisiana,
+adminActionState,23,Maine,
+adminActionState,24,Marshall Islands,
+adminActionState,25,Maryland,
+adminActionState,26,Massachusetts,
+adminActionState,27,Michigan,
+adminActionState,28,Minnesota,
+adminActionState,29,Mississippi,
+adminActionState,30,Missouri,
+adminActionState,31,Montana,
+adminActionState,32,Nebraska,
+adminActionState,33,Nevada,
+adminActionState,34,New Hampshire,
+adminActionState,35,New Jersey,
+adminActionState,36,New Mexico,
+adminActionState,37,New York,
+adminActionState,38,North Carolina,
+adminActionState,39,North Dakota,
+adminActionState,40,Northern Mariana Islands,
+adminActionState,41,Ohio,
+adminActionState,42,Oklahoma,
+adminActionState,43,Oregon,
+adminActionState,44,Palau,
+adminActionState,45,Pennsylvania,
+adminActionState,46,Puerto Rico,
+adminActionState,47,Rhode Island,
+adminActionState,48,South Carolina,
+adminActionState,49,South Dakota,
+adminActionState,50,Tennessee,
+adminActionState,51,Texas,
+adminActionState,52,Utah,
+adminActionState,53,Vermont,
+adminActionState,54,Virgin Islands,
+adminActionState,55,Virginia,
+adminActionState,56,Washington,
+adminActionState,57,West Virginia,
+adminActionState,58,Wisconsin,
+adminActionState,59,Wyoming,
+adminActionState,60,United States,
+adminActionState,61,Interstate Compact,
+adminActionState,62,Philippines,
+adminActionState,63,Indian,
+adminActionState,64,Dakota,
+authorityDecision1,1,judicial review (national level),
+authorityDecision1,2,judicial review (state level),
+authorityDecision1,3,Supreme Court supervision of lower federal or state courts or original jurisdiction,
+authorityDecision1,4,statutory construction,
+authorityDecision1,5,"interpretation of administrative regulation or rule, or executive order",
+authorityDecision1,6,diversity jurisdiction,
+authorityDecision1,7,federal common law,
+authorityDecision2,1,judicial review (national level),
+authorityDecision2,2,judicial review (state level),
+authorityDecision2,3,Supreme Court supervision of lower federal or state courts or original jurisdiction,
+authorityDecision2,4,statutory construction,
+authorityDecision2,5,"interpretation of administrative regulation or rule, or executive order",
+authorityDecision2,6,diversity jurisdiction,
+authorityDecision2,7,federal common law,
+caseDisposition,1,"stay, petition, or motion granted",
+caseDisposition,2,affirmed (includes modified),
+caseDisposition,3,reversed,
+caseDisposition,4,reversed and remanded,
+caseDisposition,5,vacated and remanded,
+caseDisposition,6,affirmed and reversed (or vacated) in part,
+caseDisposition,7,affirmed and reversed (or vacated) in part and remanded,
+caseDisposition,8,vacated,
+caseDisposition,9,petition denied or appeal dismissed,
+caseDisposition,10,certification to or from a lower court,
+caseDisposition,11,no disposition,
+caseDispositionUnusual,0,no unusual disposition specified,
+caseDispositionUnusual,1,unusual disposition,
+caseOrigin,1,U.S. Court of Customs and Patent Appeals,
+caseOrigin,2,U.S. Court of International Trade,
+caseOrigin,3,"U.S. Court of Claims, Court of Federal Claims",
+caseOrigin,4,"U.S. Court of Military Appeals, renamed as Court of Appeals for the Armed Forces",
+caseOrigin,5,U.S. Court of Military Review,
+caseOrigin,6,U.S. Court of Veterans Appeals,
+caseOrigin,7,U.S. Customs Court,
+caseOrigin,8,"U.S. Court of Appeals, Federal Circuit",
+caseOrigin,9,U.S. Tax Court,
+caseOrigin,10,Temporary Emergency U.S. Court of Appeals,
+caseOrigin,12,U.S. Court for China,
+caseOrigin,13,U.S. Consular Courts,
+caseOrigin,14,U.S. Commerce Court,
+caseOrigin,15,Territorial Supreme Court,
+caseOrigin,16,Territorial Appellate Court,
+caseOrigin,17,Territorial Trial Court,
+caseOrigin,18,Emergency Court of Appeals,
+caseOrigin,19,Supreme Court of the District of Columbia,
+caseOrigin,20,Bankruptcy Court,
+caseOrigin,21,"U.S. Court of Appeals, First Circuit",
+caseOrigin,22,"U.S. Court of Appeals, Second Circuit",
+caseOrigin,23,"U.S. Court of Appeals, Third Circuit",
+caseOrigin,24,"U.S. Court of Appeals, Fourth Circuit",
+caseOrigin,25,"U.S. Court of Appeals, Fifth Circuit",
+caseOrigin,26,"U.S. Court of Appeals, Sixth Circuit",
+caseOrigin,27,"U.S. Court of Appeals, Seventh Circuit",
+caseOrigin,28,"U.S. Court of Appeals, Eighth Circuit",
+caseOrigin,29,"U.S. Court of Appeals, Ninth Circuit",
+caseOrigin,30,"U.S. Court of Appeals, Tenth Circuit",
+caseOrigin,31,"U.S. Court of Appeals, Eleventh Circuit",
+caseOrigin,32,"U.S. Court of Appeals, District of Columbia Circuit (includes the Court of Appeals for the District of Columbia but not the District of Columbia Court of Appeals, which has local jurisdiction)",
+caseOrigin,41,Alabama Middle U.S. District Court,
+caseOrigin,42,Alabama Northern U.S. District Court,
+caseOrigin,43,Alabama Southern U.S. District Court,
+caseOrigin,44,Alaska U.S. District Court,
+caseOrigin,45,Arizona U.S. District Court,
+caseOrigin,46,Arkansas Eastern U.S. District Court,
+caseOrigin,47,Arkansas Western U.S. District Court,
+caseOrigin,48,California Central U.S. District Court,
+caseOrigin,49,California Eastern U.S. District Court,
+caseOrigin,50,California Northern U.S. District Court,
+caseOrigin,51,California Southern U.S. District Court,
+caseOrigin,52,Colorado U.S. District Court,
+caseOrigin,53,Connecticut U.S. District Court,
+caseOrigin,54,Delaware U.S. District Court,
+caseOrigin,55,District Of Columbia U.S. District Court,
+caseOrigin,56,Florida Middle U.S. District Court,
+caseOrigin,57,Florida Northern U.S. District Court,
+caseOrigin,58,Florida Southern U.S. District Court,
+caseOrigin,59,Georgia Middle U.S. District Court,
+caseOrigin,60,Georgia Northern U.S. District Court,
+caseOrigin,61,Georgia Southern U.S. District Court,
+caseOrigin,62,Guam U.S. District Court,
+caseOrigin,63,Hawaii U.S. District Court,
+caseOrigin,64,Idaho U.S. District Court,
+caseOrigin,65,Illinois Central U.S. District Court,
+caseOrigin,66,Illinois Northern U.S. District Court,
+caseOrigin,67,Illinois Southern U.S. District Court,
+caseOrigin,68,Indiana Northern U.S. District Court,
+caseOrigin,69,Indiana Southern U.S. District Court,
+caseOrigin,70,Iowa Northern U.S. District Court,
+caseOrigin,71,Iowa Southern U.S. District Court,
+caseOrigin,72,Kansas U.S. District Court,
+caseOrigin,73,Kentucky Eastern U.S. District Court,
+caseOrigin,74,Kentucky Western U.S. District Court,
+caseOrigin,75,Louisiana Eastern U.S. District Court,
+caseOrigin,76,Louisiana Middle U.S. District Court,
+caseOrigin,77,Louisiana Western U.S. District Court,
+caseOrigin,78,Maine U.S. District Court,
+caseOrigin,79,Maryland U.S. District Court,
+caseOrigin,80,Massachusetts U.S. District Court,
+caseOrigin,81,Michigan Eastern U.S. District Court,
+caseOrigin,82,Michigan Western U.S. District Court,
+caseOrigin,83,Minnesota U.S. District Court,
+caseOrigin,84,Mississippi Northern U.S. District Court,
+caseOrigin,85,Mississippi Southern U.S. District Court,
+caseOrigin,86,Missouri Eastern U.S. District Court,
+caseOrigin,87,Missouri Western U.S. District Court,
+caseOrigin,88,Montana U.S. District Court,
+caseOrigin,89,Nebraska U.S. District Court,
+caseOrigin,90,Nevada U.S. District Court,
+caseOrigin,91,New Hampshire U.S. District Court,
+caseOrigin,92,New Jersey U.S. District Court,
+caseOrigin,93,New Mexico U.S. District Court,
+caseOrigin,94,New York Eastern U.S. District Court,
+caseOrigin,95,New York Northern U.S. District Court,
+caseOrigin,96,New York Southern U.S. District Court,
+caseOrigin,97,New York Western U.S. District Court,
+caseOrigin,98,North Carolina Eastern U.S. District Court,
+caseOrigin,99,North Carolina Middle U.S. District Court,
+caseOrigin,100,North Carolina Western U.S. District Court,
+caseOrigin,101,North Dakota U.S. District Court,
+caseOrigin,102,Northern Mariana Islands U.S. District Court,
+caseOrigin,103,Ohio Northern U.S. District Court,
+caseOrigin,104,Ohio Southern U.S. District Court,
+caseOrigin,105,Oklahoma Eastern U.S. District Court,
+caseOrigin,106,Oklahoma Northern U.S. District Court,
+caseOrigin,107,Oklahoma Western U.S. District Court,
+caseOrigin,108,Oregon U.S. District Court,
+caseOrigin,109,Pennsylvania Eastern U.S. District Court,
+caseOrigin,110,Pennsylvania Middle U.S. District Court,
+caseOrigin,111,Pennsylvania Western U.S. District Court,
+caseOrigin,112,Puerto Rico U.S. District Court,
+caseOrigin,113,Rhode Island U.S. District Court,
+caseOrigin,114,South Carolina U.S. District Court,
+caseOrigin,115,South Dakota U.S. District Court,
+caseOrigin,116,Tennessee Eastern U.S. District Court,
+caseOrigin,117,Tennessee Middle U.S. District Court,
+caseOrigin,118,Tennessee Western U.S. District Court,
+caseOrigin,119,Texas Eastern U.S. District Court,
+caseOrigin,120,Texas Northern U.S. District Court,
+caseOrigin,121,Texas Southern U.S. District Court,
+caseOrigin,122,Texas Western U.S. District Court,
+caseOrigin,123,Utah U.S. District Court,
+caseOrigin,124,Vermont U.S. District Court,
+caseOrigin,125,Virgin Islands U.S. District Court,
+caseOrigin,126,Virginia Eastern U.S. District Court,
+caseOrigin,127,Virginia Western U.S. District Court,
+caseOrigin,128,Washington Eastern U.S. District Court,
+caseOrigin,129,Washington Western U.S. District Court,
+caseOrigin,130,West Virginia Northern U.S. District Court,
+caseOrigin,131,West Virginia Southern U.S. District Court,
+caseOrigin,132,Wisconsin Eastern U.S. District Court,
+caseOrigin,133,Wisconsin Western U.S. District Court,
+caseOrigin,134,Wyoming U.S. District Court,
+caseOrigin,150,Louisiana U.S. District Court,
+caseOrigin,151,Washington U.S. District Court,
+caseOrigin,152,West Virginia U.S. District Court,
+caseOrigin,153,Illinois Eastern U.S. District Court,
+caseOrigin,155,South Carolina Eastern U.S. District Court,
+caseOrigin,160,South Carolina Western U.S. District Court,
+caseOrigin,162,Alabama U.S. District Court,
+caseOrigin,163,U.S. District Court for the Canal Zone,
+caseOrigin,164,Georgia U.S. District Court,
+caseOrigin,165,Illinois U.S. District Court,
+caseOrigin,166,Indiana U.S. District Court,
+caseOrigin,167,Iowa U.S. District Court,
+caseOrigin,168,Michigan U.S. District Court,
+caseOrigin,169,Mississippi U.S. District Court,
+caseOrigin,170,Missouri U.S. District Court,
+caseOrigin,171,New Jersey Eastern U.S. District Court (East Jersey U.S. District Court),
+caseOrigin,172,New Jersey Western U.S. District Court (West Jersey U.S. District Court),
+caseOrigin,173,New York U.S. District Court,
+caseOrigin,174,North Carolina U.S. District Court,
+caseOrigin,175,Ohio U.S. District Court,
+caseOrigin,176,Pennsylvania U.S. District Court,
+caseOrigin,177,Tennessee U.S. District Court,
+caseOrigin,178,Texas U.S. District Court,
+caseOrigin,179,Virginia U.S. District Court,
+caseOrigin,180,Norfolk U.S. District Court,
+caseOrigin,181,Wisconsin U.S. District Court,
+caseOrigin,182,Kentucky U.S. Distrcrict Court,
+caseOrigin,183,New Jersey U.S. District Court,
+caseOrigin,184,California U.S. District Court,
+caseOrigin,185,Florida U.S. District Court,
+caseOrigin,186,Arkansas U.S. District Court,
+caseOrigin,187,District of Orleans U.S. District Court,
+caseOrigin,300,State Supreme Court,
+caseOrigin,301,State Appellate Court,
+caseOrigin,302,State Trial Court,
+caseOrigin,400,Eastern Circuit (of the United States),
+caseOrigin,401,Middle Circuit (of the United States),
+caseOrigin,402,Southern Circuit (of the United States),
+caseOrigin,403,Alabama U.S. Circuit Court for (all) District(s) of Alabama,
+caseOrigin,404,Arkansas U.S. Circuit Court for (all) District(s) of Arkansas,
+caseOrigin,405,California U.S. Circuit for (all) District(s) of California,
+caseOrigin,406,Connecticut U.S. Circuit for the District of Connecticut,
+caseOrigin,407,Delaware U.S. Circuit for the District of Delaware,
+caseOrigin,408,Florida U.S. Circuit for (all) District(s) of Florida,
+caseOrigin,409,Georgia U.S. Circuit for (all) District(s) of Georgia,
+caseOrigin,410,Illinois U.S. Circuit for (all) District(s) of Illinois,
+caseOrigin,411,Indiana U.S. Circuit for (all) District(s) of Indiana,
+caseOrigin,412,Iowa U.S. Circuit for (all) District(s) of Iowa,
+caseOrigin,413,Kansas U.S. Circuit for the District of Kansas,
+caseOrigin,414,Kentucky U.S. Circuit for (all) District(s) of Kentucky,
+caseOrigin,415,Louisiana U.S. Circuit for (all) District(s) of Louisiana,
+caseOrigin,416,Maine U.S. Circuit for the District of Maine,
+caseOrigin,417,Maryland U.S. Circuit for the District of Maryland,
+caseOrigin,418,Massachusetts U.S. Circuit for the District of Massachusetts,
+caseOrigin,419,Michigan U.S. Circuit for (all) District(s) of Michigan,
+caseOrigin,420,Minnesota U.S. Circuit for the District of Minnesota,
+caseOrigin,421,Mississippi U.S. Circuit for (all) District(s) of Mississippi,
+caseOrigin,422,Missouri U.S. Circuit for (all) District(s) of Missouri,
+caseOrigin,423,Nevada U.S. Circuit for the District of Nevada,
+caseOrigin,424,New Hampshire U.S. Circuit for the District of New Hampshire,
+caseOrigin,425,New Jersey U.S. Circuit for (all) District(s) of New Jersey,
+caseOrigin,426,New York U.S. Circuit for (all) District(s) of New York,
+caseOrigin,427,North Carolina U.S. Circuit for (all) District(s) of North Carolina,
+caseOrigin,428,Ohio U.S. Circuit for (all) District(s) of Ohio,
+caseOrigin,429,Oregon U.S. Circuit for the District of Oregon,
+caseOrigin,430,Pennsylvania U.S. Circuit for (all) District(s) of Pennsylvania,
+caseOrigin,431,Rhode Island U.S. Circuit for the District of Rhode Island,
+caseOrigin,432,South Carolina U.S. Circuit for the District of South Carolina,
+caseOrigin,433,Tennessee U.S. Circuit for (all) District(s) of Tennessee,
+caseOrigin,434,Texas U.S. Circuit for (all) District(s) of Texas,
+caseOrigin,435,Vermont U.S. Circuit for the District of Vermont,
+caseOrigin,436,Virginia U.S. Circuit for (all) District(s) of Virginia,
+caseOrigin,437,West Virginia U.S. Circuit for (all) District(s) of West Virginia,
+caseOrigin,438,Wisconsin U.S. Circuit for (all) District(s) of Wisconsin,
+caseOrigin,439,Wyoming U.S. Circuit for the District of Wyoming,
+caseOrigin,440,Circuit Court of the District of Columbia,
+caseOrigin,441,Nebraska U.S. Circuit for the District of Nebraska,
+caseOrigin,442,Colorado U.S. Circuit for the District of Colorado,
+caseOrigin,443,Washington U.S. Circuit for (all) District(s) of Washington,
+caseOrigin,444,Idaho U.S. Circuit Court for (all) District(s) of Idaho,
+caseOrigin,445,Montana U.S. Circuit Court for (all) District(s) of Montana,
+caseOrigin,446,Utah U.S. Circuit Court for (all) District(s) of Utah,
+caseOrigin,447,South Dakota U.S. Circuit Court for (all) District(s) of South Dakota,
+caseOrigin,448,North Dakota U.S. Circuit Court for (all) District(s) of North Dakota,
+caseOrigin,449,Oklahoma U.S. Circuit Court for (all) District(s) of Oklahoma,
+caseOrigin,601,Court of Private Land Claims,
+caseOriginState,1,Alabama,
+caseOriginState,2,Alaska,
+caseOriginState,3,American Samoa,
+caseOriginState,4,Arizona,
+caseOriginState,5,Arkansas,
+caseOriginState,6,California,
+caseOriginState,7,Colorado,
+caseOriginState,8,Connecticut,
+caseOriginState,9,Delaware,
+caseOriginState,10,District of Columbia,
+caseOriginState,11,Federated States of Micronesia,
+caseOriginState,12,Florida,
+caseOriginState,13,Georgia,
+caseOriginState,14,Guam,
+caseOriginState,15,Hawaii,
+caseOriginState,16,Idaho,
+caseOriginState,17,Illinois,
+caseOriginState,18,Indiana,
+caseOriginState,19,Iowa,
+caseOriginState,20,Kansas,
+caseOriginState,21,Kentucky,
+caseOriginState,22,Louisiana,
+caseOriginState,23,Maine,
+caseOriginState,24,Marshall Islands,
+caseOriginState,25,Maryland,
+caseOriginState,26,Massachusetts,
+caseOriginState,27,Michigan,
+caseOriginState,28,Minnesota,
+caseOriginState,29,Mississippi,
+caseOriginState,30,Missouri,
+caseOriginState,31,Montana,
+caseOriginState,32,Nebraska,
+caseOriginState,33,Nevada,
+caseOriginState,34,New Hampshire,
+caseOriginState,35,New Jersey,
+caseOriginState,36,New Mexico,
+caseOriginState,37,New York,
+caseOriginState,38,North Carolina,
+caseOriginState,39,North Dakota,
+caseOriginState,40,Northern Mariana Islands,
+caseOriginState,41,Ohio,
+caseOriginState,42,Oklahoma,
+caseOriginState,43,Oregon,
+caseOriginState,44,Palau,
+caseOriginState,45,Pennsylvania,
+caseOriginState,46,Puerto Rico,
+caseOriginState,47,Rhode Island,
+caseOriginState,48,South Carolina,
+caseOriginState,49,South Dakota,
+caseOriginState,50,Tennessee,
+caseOriginState,51,Texas,
+caseOriginState,52,Utah,
+caseOriginState,53,Vermont,
+caseOriginState,54,Virgin Islands,
+caseOriginState,55,Virginia,
+caseOriginState,56,Washington,
+caseOriginState,57,West Virginia,
+caseOriginState,58,Wisconsin,
+caseOriginState,59,Wyoming,
+caseOriginState,60,United States,
+caseOriginState,61,Interstate Compact,
+caseOriginState,62,Philippines,
+caseOriginState,63,Indian,
+caseOriginState,64,Dakota,
+caseSource,1,U.S. Court of Customs and Patent Appeals,
+caseSource,2,U.S. Court of International Trade,
+caseSource,3,"U.S. Court of Claims, Court of Federal Claims",
+caseSource,4,"U.S. Court of Military Appeals, renamed as Court of Appeals for the Armed Forces",
+caseSource,5,U.S. Court of Military Review,
+caseSource,6,U.S. Court of Veterans Appeals,
+caseSource,7,U.S. Customs Court,
+caseSource,8,"U.S. Court of Appeals, Federal Circuit",
+caseSource,9,U.S. Tax Court,
+caseSource,10,Temporary Emergency U.S. Court of Appeals,
+caseSource,12,U.S. Court for China,
+caseSource,13,U.S. Consular Courts,
+caseSource,14,U.S. Commerce Court,
+caseSource,15,Territorial Supreme Court,
+caseSource,16,Territorial Appellate Court,
+caseSource,17,Territorial Trial Court,
+caseSource,18,Emergency Court of Appeals,
+caseSource,19,Supreme Court of the District of Columbia,
+caseSource,20,Bankruptcy Court,
+caseSource,21,"U.S. Court of Appeals, First Circuit",
+caseSource,22,"U.S. Court of Appeals, Second Circuit",
+caseSource,23,"U.S. Court of Appeals, Third Circuit",
+caseSource,24,"U.S. Court of Appeals, Fourth Circuit",
+caseSource,25,"U.S. Court of Appeals, Fifth Circuit",
+caseSource,26,"U.S. Court of Appeals, Sixth Circuit",
+caseSource,27,"U.S. Court of Appeals, Seventh Circuit",
+caseSource,28,"U.S. Court of Appeals, Eighth Circuit",
+caseSource,29,"U.S. Court of Appeals, Ninth Circuit",
+caseSource,30,"U.S. Court of Appeals, Tenth Circuit",
+caseSource,31,"U.S. Court of Appeals, Eleventh Circuit",
+caseSource,32,"U.S. Court of Appeals, District of Columbia Circuit (includes the Court of Appeals for the District of Columbia but not the District of Columbia Court of Appeals, which has local jurisdiction)",
+caseSource,41,Alabama Middle U.S. District Court,
+caseSource,42,Alabama Northern U.S. District Court,
+caseSource,43,Alabama Southern U.S. District Court,
+caseSource,44,Alaska U.S. District Court,
+caseSource,45,Arizona U.S. District Court,
+caseSource,46,Arkansas Eastern U.S. District Court,
+caseSource,47,Arkansas Western U.S. District Court,
+caseSource,48,California Central U.S. District Court,
+caseSource,49,California Eastern U.S. District Court,
+caseSource,50,California Northern U.S. District Court,
+caseSource,51,California Southern U.S. District Court,
+caseSource,52,Colorado U.S. District Court,
+caseSource,53,Connecticut U.S. District Court,
+caseSource,54,Delaware U.S. District Court,
+caseSource,55,District Of Columbia U.S. District Court,
+caseSource,56,Florida Middle U.S. District Court,
+caseSource,57,Florida Northern U.S. District Court,
+caseSource,58,Florida Southern U.S. District Court,
+caseSource,59,Georgia Middle U.S. District Court,
+caseSource,60,Georgia Northern U.S. District Court,
+caseSource,61,Georgia Southern U.S. District Court,
+caseSource,62,Guam U.S. District Court,
+caseSource,63,Hawaii U.S. District Court,
+caseSource,64,Idaho U.S. District Court,
+caseSource,65,Illinois Central U.S. District Court,
+caseSource,66,Illinois Northern U.S. District Court,
+caseSource,67,Illinois Southern U.S. District Court,
+caseSource,68,Indiana Northern U.S. District Court,
+caseSource,69,Indiana Southern U.S. District Court,
+caseSource,70,Iowa Northern U.S. District Court,
+caseSource,71,Iowa Southern U.S. District Court,
+caseSource,72,Kansas U.S. District Court,
+caseSource,73,Kentucky Eastern U.S. District Court,
+caseSource,74,Kentucky Western U.S. District Court,
+caseSource,75,Louisiana Eastern U.S. District Court,
+caseSource,76,Louisiana Middle U.S. District Court,
+caseSource,77,Louisiana Western U.S. District Court,
+caseSource,78,Maine U.S. District Court,
+caseSource,79,Maryland U.S. District Court,
+caseSource,80,Massachusetts U.S. District Court,
+caseSource,81,Michigan Eastern U.S. District Court,
+caseSource,82,Michigan Western U.S. District Court,
+caseSource,83,Minnesota U.S. District Court,
+caseSource,84,Mississippi Northern U.S. District Court,
+caseSource,85,Mississippi Southern U.S. District Court,
+caseSource,86,Missouri Eastern U.S. District Court,
+caseSource,87,Missouri Western U.S. District Court,
+caseSource,88,Montana U.S. District Court,
+caseSource,89,Nebraska U.S. District Court,
+caseSource,90,Nevada U.S. District Court,
+caseSource,91,New Hampshire U.S. District Court,
+caseSource,92,New Jersey U.S. District Court,
+caseSource,93,New Mexico U.S. District Court,
+caseSource,94,New York Eastern U.S. District Court,
+caseSource,95,New York Northern U.S. District Court,
+caseSource,96,New York Southern U.S. District Court,
+caseSource,97,New York Western U.S. District Court,
+caseSource,98,North Carolina Eastern U.S. District Court,
+caseSource,99,North Carolina Middle U.S. District Court,
+caseSource,100,North Carolina Western U.S. District Court,
+caseSource,101,North Dakota U.S. District Court,
+caseSource,102,Northern Mariana Islands U.S. District Court,
+caseSource,103,Ohio Northern U.S. District Court,
+caseSource,104,Ohio Southern U.S. District Court,
+caseSource,105,Oklahoma Eastern U.S. District Court,
+caseSource,106,Oklahoma Northern U.S. District Court,
+caseSource,107,Oklahoma Western U.S. District Court,
+caseSource,108,Oregon U.S. District Court,
+caseSource,109,Pennsylvania Eastern U.S. District Court,
+caseSource,110,Pennsylvania Middle U.S. District Court,
+caseSource,111,Pennsylvania Western U.S. District Court,
+caseSource,112,Puerto Rico U.S. District Court,
+caseSource,113,Rhode Island U.S. District Court,
+caseSource,114,South Carolina U.S. District Court,
+caseSource,115,South Dakota U.S. District Court,
+caseSource,116,Tennessee Eastern U.S. District Court,
+caseSource,117,Tennessee Middle U.S. District Court,
+caseSource,118,Tennessee Western U.S. District Court,
+caseSource,119,Texas Eastern U.S. District Court,
+caseSource,120,Texas Northern U.S. District Court,
+caseSource,121,Texas Southern U.S. District Court,
+caseSource,122,Texas Western U.S. District Court,
+caseSource,123,Utah U.S. District Court,
+caseSource,124,Vermont U.S. District Court,
+caseSource,125,Virgin Islands U.S. District Court,
+caseSource,126,Virginia Eastern U.S. District Court,
+caseSource,127,Virginia Western U.S. District Court,
+caseSource,128,Washington Eastern U.S. District Court,
+caseSource,129,Washington Western U.S. District Court,
+caseSource,130,West Virginia Northern U.S. District Court,
+caseSource,131,West Virginia Southern U.S. District Court,
+caseSource,132,Wisconsin Eastern U.S. District Court,
+caseSource,133,Wisconsin Western U.S. District Court,
+caseSource,134,Wyoming U.S. District Court,
+caseSource,150,Louisiana U.S. District Court,
+caseSource,151,Washington U.S. District Court,
+caseSource,152,West Virginia U.S. District Court,
+caseSource,153,Illinois Eastern U.S. District Court,
+caseSource,155,South Carolina Eastern U.S. District Court,
+caseSource,160,South Carolina Western U.S. District Court,
+caseSource,162,Alabama U.S. District Court,
+caseSource,163,U.S. District Court for the Canal Zone,
+caseSource,164,Georgia U.S. District Court,
+caseSource,165,Illinois U.S. District Court,
+caseSource,166,Indiana U.S. District Court,
+caseSource,167,Iowa U.S. District Court,
+caseSource,168,Michigan U.S. District Court,
+caseSource,169,Mississippi U.S. District Court,
+caseSource,170,Missouri U.S. District Court,
+caseSource,171,New Jersey Eastern U.S. District Court (East Jersey U.S. District Court),
+caseSource,172,New Jersey Western U.S. District Court (West Jersey U.S. District Court),
+caseSource,173,New York U.S. District Court,
+caseSource,174,North Carolina U.S. District Court,
+caseSource,175,Ohio U.S. District Court,
+caseSource,176,Pennsylvania U.S. District Court,
+caseSource,177,Tennessee U.S. District Court,
+caseSource,178,Texas U.S. District Court,
+caseSource,179,Virginia U.S. District Court,
+caseSource,180,Norfolk U.S. District Court,
+caseSource,181,Wisconsin U.S. District Court,
+caseSource,182,Kentucky U.S. Distrcrict Court,
+caseSource,183,New Jersey U.S. District Court,
+caseSource,184,California U.S. District Court,
+caseSource,185,Florida U.S. District Court,
+caseSource,186,Arkansas U.S. District Court,
+caseSource,187,District of Orleans U.S. District Court,
+caseSource,300,State Supreme Court,
+caseSource,301,State Appellate Court,
+caseSource,302,State Trial Court,
+caseSource,400,Eastern Circuit (of the United States),
+caseSource,401,Middle Circuit (of the United States),
+caseSource,402,Southern Circuit (of the United States),
+caseSource,403,Alabama U.S. Circuit Court for (all) District(s) of Alabama,
+caseSource,404,Arkansas U.S. Circuit Court for (all) District(s) of Arkansas,
+caseSource,405,California U.S. Circuit for (all) District(s) of California,
+caseSource,406,Connecticut U.S. Circuit for the District of Connecticut,
+caseSource,407,Delaware U.S. Circuit for the District of Delaware,
+caseSource,408,Florida U.S. Circuit for (all) District(s) of Florida,
+caseSource,409,Georgia U.S. Circuit for (all) District(s) of Georgia,
+caseSource,410,Illinois U.S. Circuit for (all) District(s) of Illinois,
+caseSource,411,Indiana U.S. Circuit for (all) District(s) of Indiana,
+caseSource,412,Iowa U.S. Circuit for (all) District(s) of Iowa,
+caseSource,413,Kansas U.S. Circuit for the District of Kansas,
+caseSource,414,Kentucky U.S. Circuit for (all) District(s) of Kentucky,
+caseSource,415,Louisiana U.S. Circuit for (all) District(s) of Louisiana,
+caseSource,416,Maine U.S. Circuit for the District of Maine,
+caseSource,417,Maryland U.S. Circuit for the District of Maryland,
+caseSource,418,Massachusetts U.S. Circuit for the District of Massachusetts,
+caseSource,419,Michigan U.S. Circuit for (all) District(s) of Michigan,
+caseSource,420,Minnesota U.S. Circuit for the District of Minnesota,
+caseSource,421,Mississippi U.S. Circuit for (all) District(s) of Mississippi,
+caseSource,422,Missouri U.S. Circuit for (all) District(s) of Missouri,
+caseSource,423,Nevada U.S. Circuit for the District of Nevada,
+caseSource,424,New Hampshire U.S. Circuit for the District of New Hampshire,
+caseSource,425,New Jersey U.S. Circuit for (all) District(s) of New Jersey,
+caseSource,426,New York U.S. Circuit for (all) District(s) of New York,
+caseSource,427,North Carolina U.S. Circuit for (all) District(s) of North Carolina,
+caseSource,428,Ohio U.S. Circuit for (all) District(s) of Ohio,
+caseSource,429,Oregon U.S. Circuit for the District of Oregon,
+caseSource,430,Pennsylvania U.S. Circuit for (all) District(s) of Pennsylvania,
+caseSource,431,Rhode Island U.S. Circuit for the District of Rhode Island,
+caseSource,432,South Carolina U.S. Circuit for the District of South Carolina,
+caseSource,433,Tennessee U.S. Circuit for (all) District(s) of Tennessee,
+caseSource,434,Texas U.S. Circuit for (all) District(s) of Texas,
+caseSource,435,Vermont U.S. Circuit for the District of Vermont,
+caseSource,436,Virginia U.S. Circuit for (all) District(s) of Virginia,
+caseSource,437,West Virginia U.S. Circuit for (all) District(s) of West Virginia,
+caseSource,438,Wisconsin U.S. Circuit for (all) District(s) of Wisconsin,
+caseSource,439,Wyoming U.S. Circuit for the District of Wyoming,
+caseSource,440,Circuit Court of the District of Columbia,
+caseSource,441,Nebraska U.S. Circuit for the District of Nebraska,
+caseSource,442,Colorado U.S. Circuit for the District of Colorado,
+caseSource,443,Washington U.S. Circuit for (all) District(s) of Washington,
+caseSource,444,Idaho U.S. Circuit Court for (all) District(s) of Idaho,
+caseSource,445,Montana U.S. Circuit Court for (all) District(s) of Montana,
+caseSource,446,Utah U.S. Circuit Court for (all) District(s) of Utah,
+caseSource,447,South Dakota U.S. Circuit Court for (all) District(s) of South Dakota,
+caseSource,448,North Dakota U.S. Circuit Court for (all) District(s) of North Dakota,
+caseSource,449,Oklahoma U.S. Circuit Court for (all) District(s) of Oklahoma,
+caseSource,601,Court of Private Land Claims,
+caseSourceState,1,Alabama,
+caseSourceState,2,Alaska,
+caseSourceState,3,American Samoa,
+caseSourceState,4,Arizona,
+caseSourceState,5,Arkansas,
+caseSourceState,6,California,
+caseSourceState,7,Colorado,
+caseSourceState,8,Connecticut,
+caseSourceState,9,Delaware,
+caseSourceState,10,District of Columbia,
+caseSourceState,11,Federated States of Micronesia,
+caseSourceState,12,Florida,
+caseSourceState,13,Georgia,
+caseSourceState,14,Guam,
+caseSourceState,15,Hawaii,
+caseSourceState,16,Idaho,
+caseSourceState,17,Illinois,
+caseSourceState,18,Indiana,
+caseSourceState,19,Iowa,
+caseSourceState,20,Kansas,
+caseSourceState,21,Kentucky,
+caseSourceState,22,Louisiana,
+caseSourceState,23,Maine,
+caseSourceState,24,Marshall Islands,
+caseSourceState,25,Maryland,
+caseSourceState,26,Massachusetts,
+caseSourceState,27,Michigan,
+caseSourceState,28,Minnesota,
+caseSourceState,29,Mississippi,
+caseSourceState,30,Missouri,
+caseSourceState,31,Montana,
+caseSourceState,32,Nebraska,
+caseSourceState,33,Nevada,
+caseSourceState,34,New Hampshire,
+caseSourceState,35,New Jersey,
+caseSourceState,36,New Mexico,
+caseSourceState,37,New York,
+caseSourceState,38,North Carolina,
+caseSourceState,39,North Dakota,
+caseSourceState,40,Northern Mariana Islands,
+caseSourceState,41,Ohio,
+caseSourceState,42,Oklahoma,
+caseSourceState,43,Oregon,
+caseSourceState,44,Palau,
+caseSourceState,45,Pennsylvania,
+caseSourceState,46,Puerto Rico,
+caseSourceState,47,Rhode Island,
+caseSourceState,48,South Carolina,
+caseSourceState,49,South Dakota,
+caseSourceState,50,Tennessee,
+caseSourceState,51,Texas,
+caseSourceState,52,Utah,
+caseSourceState,53,Vermont,
+caseSourceState,54,Virgin Islands,
+caseSourceState,55,Virginia,
+caseSourceState,56,Washington,
+caseSourceState,57,West Virginia,
+caseSourceState,58,Wisconsin,
+caseSourceState,59,Wyoming,
+caseSourceState,60,United States,
+caseSourceState,61,Interstate Compact,
+caseSourceState,62,Philippines,
+caseSourceState,63,Indian,
+caseSourceState,64,Dakota,
+certReason,1,case did not arise on cert or cert not granted,
+certReason,2,federal court conflict,
+certReason,3,federal court conflict and to resolve important or significant question,
+certReason,4,putative conflict,
+certReason,5,conflict between federal court and state court,
+certReason,6,state court conflict,
+certReason,7,federal court confusion or uncertainty,
+certReason,8,state court confusion or uncertainty,
+certReason,9,federal court and state court confusion or uncertainty,
+certReason,10,to resolve important or significant question,
+certReason,11,to resolve question presented,
+certReason,12,no reason given,
+certReason,13,other reason,
+chief,1,Jay,
+chief,2,Rutledge,
+chief,3,Ellsworth,
+chief,4,Marshall,
+chief,5,Taney,
+chief,6,Chase,
+chief,7,Waite,
+chief,8,Fuller,
+chief,9,White,
+chief,10,Taft,
+chief,11,Hughes,
+chief,12,Stone,
+chief,13,Vinson,
+chief,14,Warren,
+chief,15,Burger,
+chief,16,Rehnquist,
+chief,17,Roberts,
+decisionDirection,1,conservative,
+decisionDirection,2,liberal,
+decisionDirection,3,unspecifiable,
+decisionDirectionDissent,0,dissent in opposite direction,
+decisionDirectionDissent,1,majority and dissent in same direction,
+decisionType,1,opinion of the court (orally argued),
+decisionType,2,per curiam (no oral argument),
+decisionType,4,decrees,
+decisionType,5,equally divided vote,
+decisionType,6,per curiam (orally argued),
+decisionType,7,judgment of the Court (orally argued),
+decisionType,8,seriatim,
+declarationUncon,1,no declaration of unconstitutionality,
+declarationUncon,2,act of congress declared unconstitutional,
+declarationUncon,3,"state or territorial law, reg, or const provision unconstitutional",
+declarationUncon,4,municipal or other local ordinance unconstitutional,
+direction,1,conservative,
+direction,2,liberal,
+firstAgreement,1,JJay,"Jay, John ( 10/19/1789 - 06/29/1795 )"
+firstAgreement,2,JRutledge1,"Rutledge, John ( 02/15/1790 - 03/05/1791 )"
+firstAgreement,3,WCushing,"Cushing, William ( 02/02/1790 - 09/13/1810 )"
+firstAgreement,4,JWilson,"Wilson, James ( 10/05/1789 - 08/21/1798 )"
+firstAgreement,5,JBlair,"Blair, John ( 02/02/1790 - 01/27/1796 )"
+firstAgreement,6,JIredell,"Iredell, James ( 05/12/1790 - 10/20/1799 )"
+firstAgreement,7,TJohnson,"Johnson, Thomas ( 09/19/1791 - 02/22/1793 )"
+firstAgreement,8,WPaterson,"Paterson, William ( 03/11/1793 - 09/09/1806 )"
+firstAgreement,9,JRutledge2,"Rutledge, John ( 08/12/1795 - 12/15/1795 )"
+firstAgreement,10,SChase,"Chase, Samuel ( 02/04/1796 - 06/19/1811 )"
+firstAgreement,11,OEllsworth,"Ellsworth, Oliver ( 03/08/1796 - 12/15/1800 )"
+firstAgreement,12,BWashington,"Washington, Bushrod ( 11/09/1798 - 11/26/1829 )"
+firstAgreement,13,AMoore,"Moore, Alfred ( 04/21/1800 - 01/26/1804 )"
+firstAgreement,14,JMarshall,"Marshall, John ( 02/04/1801 - 07/06/1835 )"
+firstAgreement,15,WJohnson,"Johnson, William ( 05/07/1804 - 08/04/1834 )"
+firstAgreement,16,HBLivingston,"Livingston, Henry ( 01/20/1807 - 03/18/1823 )"
+firstAgreement,17,TTodd,"Todd, Thomas ( 05/04/1807 - 02/07/1826 )"
+firstAgreement,18,GDuvall,"Duvall, Gabriel ( 11/23/1811 - 01/14/1835 )"
+firstAgreement,19,JStory,"Story, Joseph ( 02/03/1812 - 09/10/1845 )"
+firstAgreement,20,SThompson,"Thompson, Smith ( 09/01/1823 - 12/18/1843 )"
+firstAgreement,21,RTrimble,"Trimble, Robert ( 06/16/1826 - 08/25/1828 )"
+firstAgreement,22,JMcLean,"McLean, John ( 01/11/1830 - 04/04/1861 )"
+firstAgreement,23,HBaldwin,"Baldwin, Henry ( 01/18/1830 - 04/21/1844 )"
+firstAgreement,24,JMWayne,"Wayne, James ( 01/14/1835 - 07/05/1867 )"
+firstAgreement,25,RBTaney,"Taney, Roger ( 03/28/1836 - 10/12/1864 )"
+firstAgreement,26,PPBarbour,"Barbour, Philip ( 05/12/1836 - 02/25/1841 )"
+firstAgreement,27,JCatron,"Catron, John ( 05/01/1837 - 05/30/1865 )"
+firstAgreement,28,JMcKinley,"McKinley, John ( 04/22/1837 - 07/19/1852 )"
+firstAgreement,29,PVDaniel,"Daniel, Peter ( 01/10/1842 - 05/31/1860 )"
+firstAgreement,30,SNelson,"Nelson, Samuel ( 02/27/1845 - 11/28/1872 )"
+firstAgreement,31,LWoodbury,"Woodbury, Levi ( 09/23/1845 - 09/04/1851 )"
+firstAgreement,32,RCGrier,"Grier, Robert ( 08/10/1846 - 01/31/1870 )"
+firstAgreement,33,BRCurtis,"Curtis, Benjamin ( 10/10/1851 - 09/30/1857 )"
+firstAgreement,34,JACampbell,"Campbell, John ( 04/11/1853 - 04/30/1861 )"
+firstAgreement,35,NClifford,"Clifford, Nathan ( 01/21/1858 - 07/25/1881 )"
+firstAgreement,36,NHSwayne,"Swayne, Noah ( 01/27/1862 - 01/24/1881 )"
+firstAgreement,37,SFMiller,"Miller, Samuel ( 07/21/1862 - 10/13/1890 )"
+firstAgreement,38,DDavis,"Davis, David ( 10/17/1862 - 03/04/1877 )"
+firstAgreement,39,SJField,"Field, Stephen ( 05/20/1863 - 12/01/1897 )"
+firstAgreement,40,SPChase,"Chase, Salmon ( 12/15/1864 - 05/07/1873 )"
+firstAgreement,41,WStrong,"Strong, William ( 03/14/1870 - 12/14/1880 )"
+firstAgreement,42,JPBradley,"Bradley, Joseph ( 03/21/1870 - 01/22/1892 )"
+firstAgreement,43,WHunt,"Hunt, Ward ( 01/09/1873 - 01/27/1882 )"
+firstAgreement,44,MRWaite,"Waite, Morrison ( 03/04/1874 - 04/03/1888 )"
+firstAgreement,45,JHarlan1,"Harlan, John ( 12/10/1877 - 10/14/1911 )"
+firstAgreement,46,WBWoods,"Woods, William ( 01/05/1881 - 05/14/1887 )"
+firstAgreement,47,SMatthews,"Matthews, Stanley ( 05/17/1881 - 03/22/1889 )"
+firstAgreement,48,HGray,"Gray, Horace ( 01/09/1882 - 09/15/1902 )"
+firstAgreement,49,SBlatchford,"Blatchford, Samuel ( 04/03/1882 - 07/07/1893 )"
+firstAgreement,50,LQLamar,"Lamar, Lucius ( 01/18/1888 - 01/23/1893 )"
+firstAgreement,51,MWFuller,"Fuller, Melville ( 10/08/1888 - 07/04/1910 )"
+firstAgreement,52,DJBrewer,"Brewer, David ( 01/06/1890 - 03/28/1910 )"
+firstAgreement,53,HBBrown,"Brown, Henry ( 01/05/1891 - 05/28/1906 )"
+firstAgreement,54,GShiras,"Shiras, George ( 10/10/1892 - 02/23/1903 )"
+firstAgreement,55,HEJackson,"Jackson, Howell ( 03/04/1893 - 08/08/1895 )"
+firstAgreement,56,EDEWhite,"White, Edward ( 03/12/1894 - 05/19/1921 )"
+firstAgreement,57,RWPeckham,"Peckham, Rufus ( 01/06/1896 - 10/24/1909 )"
+firstAgreement,58,JMcKenna,"McKenna, Joseph ( 01/26/1898 - 01/05/1925 )"
+firstAgreement,59,OWHolmes,"Holmes, Oliver ( 08/11/1902 - 01/12/1932 )"
+firstAgreement,60,WRDay,"Day, William ( 03/02/1903 - 11/13/1922 )"
+firstAgreement,61,WHMoody,"Moody, William ( 12/17/1906 - 11/20/1910 )"
+firstAgreement,62,HHLurton,"Lurton, Horace ( 01/03/1910 - 07/12/1914 )"
+firstAgreement,63,CEHughes1,"Hughes, Charles ( 10/10/1910 - 06/10/1916 )"
+firstAgreement,64,WVanDevanter,"Van Devanter, Willis ( 01/03/1911 - 06/02/1937 )"
+firstAgreement,65,JRLamar,"Lamar, Joseph ( 01/03/1911 - 01/02/1916 )"
+firstAgreement,66,MPitney,"Pitney, Mahlon ( 03/18/1912 - 12/31/1922 )"
+firstAgreement,67,JCMcReynolds,"McReynolds, James ( 10/12/1914 - 01/31/1941 )"
+firstAgreement,68,LDBrandeis,"Brandeis, Louis ( 06/05/1916 - 02/13/1939 )"
+firstAgreement,69,JHClarke,"Clarke, John ( 10/09/1916 - 09/18/1922 )"
+firstAgreement,70,WHTaft,"Taft, William ( 07/11/1921 - 02/03/1930 )"
+firstAgreement,71,GSutherland,"Sutherland, George ( 10/02/1922 - 01/17/1938 )"
+firstAgreement,72,PButler,"Butler, Pierce ( 01/02/1923 - 11/16/1939 )"
+firstAgreement,73,ETSanford,"Sanford, Edward ( 02/19/1923 - 03/08/1930 )"
+firstAgreement,74,HFStone,"Stone, Harlan ( 03/02/1925 - 04/22/1946 )"
+firstAgreement,75,CEHughes2,"Hughes, Charles ( 02/24/1930 - 07/01/1941 )"
+firstAgreement,76,OJRoberts,"Roberts, Owen ( 06/02/1930 - 07/31/1945 )"
+firstAgreement,77,BNCardozo,"Cardozo, Benjamin ( 03/14/1932 - 07/09/1938 )"
+firstAgreement,78,HLBlack,"Black, Hugo ( 08/19/1937 - 09/17/1971 )"
+firstAgreement,79,SFReed,"Reed, Stanley ( 01/31/1938 - 02/25/1957 )"
+firstAgreement,80,FFrankfurter,"Frankfurter, Felix ( 01/30/1939 - 08/28/1962 )"
+firstAgreement,81,WODouglas,"Douglas, William ( 04/17/1939 - 11/12/1975 )"
+firstAgreement,82,FMurphy,"Murphy, Francis ( 02/05/1940 - 07/19/1949 )"
+firstAgreement,83,JFByrnes,"Byrnes, James ( 07/08/1941 - 10/03/1942 )"
+firstAgreement,84,RHJackson,"Jackson, Robert ( 07/11/1941 - 10/09/1954 )"
+firstAgreement,85,WBRutledge,"Rutledge, Wiley ( 02/15/1943 - 09/10/1949 )"
+firstAgreement,86,HHBurton,"Burton, Harold ( 10/01/1945 - 10/13/1958 )"
+firstAgreement,87,FMVinson,"Vinson, Fred ( 06/24/1946 - 09/08/1953 )"
+firstAgreement,88,TCClark,"Clark, Tom ( 08/24/1949 - 06/12/1967 )"
+firstAgreement,89,SMinton,"Minton, Sherman ( 10/12/1949 - 10/15/1956 )"
+firstAgreement,90,EWarren,"Warren, Earl ( 10/05/1953 - 06/23/1969 )"
+firstAgreement,91,JHarlan2,"Harlan, John ( 03/28/1955 - 09/23/1971 )"
+firstAgreement,92,WJBrennan,"Brennan, William ( 10/16/1956 - 07/20/1990 )"
+firstAgreement,93,CEWhittaker,"Whittaker, Charles ( 03/25/1957 - 03/31/1962 )"
+firstAgreement,94,PStewart,"Stewart, Potter ( 10/14/1958 - 07/03/1981 )"
+firstAgreement,95,BRWhite,"White, Byron ( 04/16/1962 - 06/28/1993 )"
+firstAgreement,96,AJGoldberg,"Goldberg, Arthur ( 10/01/1962 - 07/25/1965 )"
+firstAgreement,97,AFortas,"Fortas, Abe ( 10/04/1965 - 05/14/1969 )"
+firstAgreement,98,TMarshall,"Marshall, Thurgood ( 10/02/1967 - 10/01/1991 )"
+firstAgreement,99,WEBurger,"Burger, Warren ( 06/23/1969 - 09/26/1986 )"
+firstAgreement,100,HABlackmun,"Blackmun, Harry ( 06/09/1970 - 08/03/1994 )"
+firstAgreement,101,LFPowell,"Powell, Lewis ( 01/07/1972 - 06/26/1987 )"
+firstAgreement,102,WHRehnquist,"Rehnquist, William ( 01/07/1972 - 09/03/2005 )"
+firstAgreement,103,JPStevens,"Stevens, John ( 12/19/1975 - 06/29/2010 )"
+firstAgreement,104,SDOConnor,"O'Connor, Sandra ( 09/25/1981 - 01/31/2006 )"
+firstAgreement,105,AScalia,"Scalia, Antonin ( 09/26/1986 - 02/13/2016 )"
+firstAgreement,106,AMKennedy,"Kennedy, Anthony ( 02/18/1988 - 07/31/2018 )"
+firstAgreement,107,DHSouter,"Souter, David ( 10/09/1990 - 06/29/2009 )"
+firstAgreement,108,CThomas,"Thomas, Clarence ( 10/23/1991 - 00/00/0000 )"
+firstAgreement,109,RBGinsburg,"Ginsburg, Ruth ( 08/10/1993 - 09/18/2020 )"
+firstAgreement,110,SGBreyer,"Breyer, Stephen ( 08/03/1994 - 06/30/2022 )"
+firstAgreement,111,JGRoberts,"Roberts, John ( 09/29/2005 - 00/00/0000 )"
+firstAgreement,112,SAAlito,"Alito, Samuel ( 01/31/2006 - 00/00/0000 )"
+firstAgreement,113,SSotomayor,"Sotomayor, Sonia ( 08/08/2009 - 00/00/0000 )"
+firstAgreement,114,EKagan,"Kagan, Elena ( 08/07/2010 - 00/00/0000 )"
+firstAgreement,115,NMGorsuch,"Gorsuch, Neil ( 04/08/2017 - 00/00/0000 )"
+firstAgreement,116,BMKavanaugh,"Kavanaugh, Brett ( 10/06/2018 - 00/00/0000 )"
+firstAgreement,117,ACBarrett,"Barrett, Amy ( 10/27/2020 - 00/00/0000 )"
+firstAgreement,118,KBJackson,"Jackson, Ketanji ( 06/30/2022 - 00/00/0000 )"
+issue,10010,involuntary confession,
+issue,10020,habeas corpus,
+issue,10030,plea bargaining: the constitutionality of and/or the circumstances of its exercise,
+issue,10040,retroactivity (of newly announced or newly enacted constitutional or statutory rights),
+issue,10050,search and seizure (other than as pertains to vehicles or Crime Control Act),
+issue,10060,"search and seizure, vehicles",
+issue,10070,"search and seizure, Crime Control Act",
+issue,10080,contempt of court or congress,
+issue,10090,self-incrimination (other than as pertains to Miranda or immunity from prosecution),
+issue,10100,Miranda warnings,
+issue,10110,"self-incrimination, immunity from prosecution",
+issue,10120,right to counsel (cf. indigents appointment of counsel or inadequate representation),
+issue,10130,"cruel and unusual punishment, death penalty (cf. extra legal jury influence, death penalty)",
+issue,10140,"cruel and unusual punishment, non-death penalty (cf. liability, civil rights acts)",
+issue,10150,"line-up Note: admissibility into evidence of identification obtained after accused was taken into custody, or after indictment or information",
+issue,10160,"discovery and inspection (in the context of criminal litigation only, otherwise Freedom of Information Act and related federal or state statutes or regulations)",
+issue,10170,double jeopardy,
+issue,10180,ex post facto (state),
+issue,10190,"extra-legal jury influences: miscellaneous Note: no question regarding the right to a jury trial or to a speedy trial (these belong in jury trial and speedy trial, respectively); the focus, rather, is on the fairness to the accused when jurors are exposed to the influences specified",
+issue,10200,extra-legal jury influences: prejudicial statements or evidence,
+issue,10210,extra-legal jury influences: contact with jurors outside courtroom,
+issue,10220,extra-legal jury influences: jury instructions (not necessarily in criminal cases),
+issue,10230,extra-legal jury influences: voir dire (not necessarily a criminal case),
+issue,10240,extra-legal jury influences: prison garb or appearance,
+issue,10250,extra-legal jury influences: jurors and death penalty (cf. cruel and unusual punishment),
+issue,10260,extra-legal jury influences: pretrial publicity,
+issue,10270,"confrontation (right to confront accuser, call and cross-examine witnesses)",
+issue,10280,"subconstitutional fair procedure: confession of error Note: nonsubstantive rules and procedures pertaining to the administration of justice that do not rise to the level of a constitutional matter. This is the residual category insofar as criminal procedure is concerned. Note that this issue need not necessarily pertain to a criminal action. If the case involves an indigent, consider indigent categories.",
+issue,10290,"subconstitutional fair procedure: conspiracy (cf. Federal Rules of Criminal Procedure: conspiracy) Note: nonsubstantive rules and procedures pertaining to the administration of justice that do not rise to the level of a constitutional matter. This is the residual category insofar as criminal procedure is concerned. Note that this issue need not necessarily pertain to a criminal action. If the case involves an indigent, consider indigent categories.",
+issue,10300,"subconstitutional fair procedure: entrapment Note: nonsubstantive rules and procedures pertaining to the administration of justice that do not rise to the level of a constitutional matter. This is the residual category insofar as criminal procedure is concerned. Note that this issue need not necessarily pertain to a criminal action. If the case involves an indigent, consider indigent categories.",
+issue,10310,"subconstitutional fair procedure: exhaustion of remedies Note: nonsubstantive rules and procedures pertaining to the administration of justice that do not rise to the level of a constitutional matter. This is the residual category insofar as criminal procedure is concerned. Note that this issue need not necessarily pertain to a criminal action. If the case involves an indigent, consider indigent categories.",
+issue,10320,"subconstitutional fair procedure: fugitive from justice Note: nonsubstantive rules and procedures pertaining to the administration of justice that do not rise to the level of a constitutional matter. This is the residual category insofar as criminal procedure is concerned. Note that this issue need not necessarily pertain to a criminal action. If the case involves an indigent, consider indigent categories.",
+issue,10330,"subconstitutional fair procedure: presentation, admissibility, or sufficiency of evidence (not necessarily a criminal case) Note: nonsubstantive rules and procedures pertaining to the administration of justice that do not rise to the level of a constitutional matter. This is the residual category insofar as criminal procedure is concerned. Note that this issue need not necessarily pertain to a criminal action. If the case involves an indigent, consider indigent categories.",
+issue,10340,"subconstitutional fair procedure: stay of execution Note: nonsubstantive rules and procedures pertaining to the administration of justice that do not rise to the level of a constitutional matter. This is the residual category insofar as criminal procedure is concerned. Note that this issue need not necessarily pertain to a criminal action. If the case involves an indigent, consider indigent categories.",
+issue,10350,"subconstitutional fair procedure: timeliness Note: nonsubstantive rules and procedures pertaining to the administration of justice that do not rise to the level of a constitutional matter. This is the residual category insofar as criminal procedure is concerned. Note that this issue need not necessarily pertain to a criminal action. If the case involves an indigent, consider indigent categories.",
+issue,10360,"subconstitutional fair procedure: miscellaneous Note: nonsubstantive rules and procedures pertaining to the administration of justice that do not rise to the level of a constitutional matter. This is the residual category insofar as criminal procedure is concerned. Note that this issue need not necessarily pertain to a criminal action. If the case involves an indigent, consider indigent categories.",
+issue,10370,Federal Rules of Criminal Procedure Note: including application of the Federal Rules of Evidence in criminal proceedings and criminal rules of a court of appeals or state supreme court,
+issue,10380,"statutory construction of criminal laws: assault Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10390,"statutory construction of criminal laws: bank robbery Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10400,"statutory construction of criminal laws: conspiracy (cf. subconstitutional fair procedure: conspiracy) Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10410,"statutory construction of criminal laws: escape from custody Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10420,"statutory construction of criminal laws: false statements (cf. statutory construction of criminal laws: perjury) Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10430,"statutory construction of criminal laws: financial (other than in fraud or internal revenue) Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10440,"statutory construction of criminal laws: firearms Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10450,"statutory construction of criminal laws: fraud Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10460,"statutory construction of criminal laws: gambling Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10470,"statutory construction of criminal laws: Hobbs Act; i.e., 18 USC 1951 Note: these codes, by definition exclude the constitutionality of these laws; not 28 USC 2341, the Administrative Orders Review Act",
+issue,10480,"statutory construction of criminal laws: immigration (cf. immigration and naturalization) Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10490,"statutory construction of criminal laws: internal revenue (cf. Federal Taxation) Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10500,"statutory construction of criminal laws: Mann Act and related statutes Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10510,"statutory construction of criminal laws: narcotics includes regulation and prohibition of alcohol Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10520,"statutory construction of criminal laws: obstruction of justice Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10530,"statutory construction of criminal laws: perjury (other than as pertains to statutory construction of criminal laws: false statements) Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10540,"statutory construction of criminal laws: Travel Act, 18 USC 1952 Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10550,"statutory construction of criminal laws: war crimes Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10560,"statutory construction of criminal laws: sentencing guidelines Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10570,"statutory construction of criminal laws: miscellaneous Note: these codes, by definition exclude the constitutionality of these laws",
+issue,10580,"jury trial (right to, as distinct from extra-legal jury influences)",
+issue,10590,speedy trial,
+issue,10600,"miscellaneous criminal procedure (cf. due process, prisoners' rights, comity: criminal procedure)",
+issue,20010,voting,
+issue,20020,"Voting Rights Act of 1965, plus amendments",
+issue,20030,ballot access (of candidates and political parties),
+issue,20040,"desegregation (other than as pertains to school desegregation, employment discrimination, and affirmative action)",
+issue,20050,"desegregation, schools",
+issue,20060,"employment discrimination: on basis of race, age, religion, illegitimacy, national origin, or working conditions. Note: Not alienage, which is employability of aliens, or gender, which is sex discrimination in employment.",
+issue,20070,affirmative action,
+issue,20075,slavery or indenture,
+issue,20080,sit-in demonstrations (protests against racial discrimination in places of public accommodation) Note: To be sharply distinguished from protests not involving racial discrimination. The latter are coded as protest demonstrations.,
+issue,20090,reapportionment: other than plans governed by the Voting Rights Act,
+issue,20100,debtors' rights,
+issue,20110,deportation (cf. immigration and naturalization),
+issue,20120,employability of aliens (cf. immigration and naturalization),
+issue,20130,sex discrimination (excluding sex discrimination in employment),
+issue,20140,sex discrimination in employment (cf. sex discrimination),
+issue,20150,Indians (other than pertains to state jurisdiction over),
+issue,20160,"Indians, state jurisdiction over",
+issue,20170,juveniles (cf. rights of illegitimates),
+issue,20180,"poverty law, constitutional Note: typically equal protection challenges over welfare benefits, including pension and medical benefits",
+issue,20190,"poverty law, statutory: welfare benefits, typically under some Social Security Act provision. Note: Excludes rights of illegitimates and rights of handicapped",
+issue,20200,"illegitimates, rights of (cf. juveniles): typically inheritance and survivor's benefits, and paternity suits",
+issue,20210,"handicapped, rights of: under Rehabilitation, Americans with Disabilities Act, and related statutes",
+issue,20220,"residency requirements: durational, plus discrimination against nonresidents",
+issue,20230,"military: draftee, or person subject to induction Note: cf. conscientious objectors and comity: military",
+issue,20240,military: active duty Note: cf. conscientious objectors and comity: military,
+issue,20250,military: veteran Note: cf. conscientious objectors and comity: military,
+issue,20260,"immigration and naturalization: permanent residence Note: cf. statutory construction of criminal laws: immigration, deportation, and employability of aliens",
+issue,20270,"immigration and naturalization: citizenship Note: cf. statutory construction of criminal laws: immigration, deportation, and employability of aliens",
+issue,20280,"immigration and naturalization: loss of citizenship, denaturalization Note: cf. statutory construction of criminal laws: immigration, deportation, and employability of aliens",
+issue,20290,"immigration and naturalization: access to public education Note: cf. statutory construction of criminal laws: immigration, deportation, and employability of aliens",
+issue,20300,"immigration and naturalization: welfare benefits Note: cf. statutory construction of criminal laws: immigration, deportation, and employability of aliens",
+issue,20310,"immigration and naturalization: miscellaneous Note: cf. statutory construction of criminal laws: immigration, deportation, and employability of aliens",
+issue,20320,"indigents: appointment of counsel (cf. right to counsel) Note: procedural protections for indigents because of their indigency. Typically in matters pertaining to criminal justice. cf. poverty law, constitutional and poverty law, statutory.",
+issue,20330,"indigents: inadequate representation by counsel (cf. right to counsel) Note: procedural protections for indigents because of their indigency. Typically in matters pertaining to criminal justice. cf. poverty law, constitutional and poverty law, statutory.",
+issue,20340,"indigents: payment of fine Note: procedural protections for indigents because of their indigency. Typically in matters pertaining to criminal justice. cf. poverty law, constitutional and poverty law, statutory.",
+issue,20350,"indigents: costs or filing fees Note: procedural protections for indigents because of their indigency. Typically in matters pertaining to criminal justice. cf. poverty law, constitutional and poverty law, statutory.",
+issue,20360,"indigents: U.S. Supreme Court docketing fee Note: procedural protections for indigents because of their indigency. Typically in matters pertaining to criminal justice. cf. poverty law, constitutional and poverty law, statutory.",
+issue,20370,"indigents: transcript Note: procedural protections for indigents because of their indigency. Typically in matters pertaining to criminal justice. cf. poverty law, constitutional and poverty law, statutory.",
+issue,20380,"indigents: assistance of psychiatrist Note: procedural protections for indigents because of their indigency. Typically in matters pertaining to criminal justice. cf. poverty law, constitutional and poverty law, statutory.",
+issue,20390,"indigents: miscellaneous Note: procedural protections for indigents because of their indigency. Typically in matters pertaining to criminal justice. cf. poverty law, constitutional and poverty law, statutory.",
+issue,20400,"liability, civil rights acts (cf. liability, governmental and liability, nongovernmental; cruel and unusual punishment, non-death penalty) Note: tort actions involving liability that are based on a civil rights act",
+issue,20410,miscellaneous civil rights (cf. comity: civil rights),
+issue,30010,"First Amendment, miscellaneous (cf. comity: First Amendment)",
+issue,30020,"commercial speech, excluding attorneys",
+issue,30030,"libel, defamation: defamation of public officials and public and private persons",
+issue,30040,"libel, privacy: true and false light invasions of privacy",
+issue,30050,legislative investigations: concerning internal security only,
+issue,30060,"federal or state internal security legislation: Smith, Internal Security, and related federal statutes",
+issue,30070,"loyalty oath or non-Communist affidavit (other than bar applicants, government employees, political party, or teacher)",
+issue,30080,"loyalty oath: bar applicants (cf. admission to bar, state or federal or U.S. Supreme Court)",
+issue,30090,loyalty oath: government employees,
+issue,30100,loyalty oath: political party,
+issue,30110,loyalty oath: teachers,
+issue,30120,security risks: denial of benefits or dismissal of employees for reasons other than failure to meet loyalty oath requirements,
+issue,30130,conscientious objectors (cf. military draftee or military active duty) to military service,
+issue,30140,campaign spending (cf. governmental corruption): Note: financing electoral costs other than as regulated by the Taft-Hartley Act. Typically involves the Federal Election Campaign Act,
+issue,30150,protest demonstrations (other than as pertains to sit-in demonstrations): demonstrations and other forms of protest based on First Amendment guarantees,
+issue,30160,free exercise of religion,
+issue,30170,establishment of religion (other than as pertains to parochiaid:),
+issue,30180,"parochiaid: government aid to religious schools, or religious requirements in public schools",
+issue,30190,"obscenity, state (cf. comity: privacy): including the regulation of sexually explicit material under the 21st Amendment",
+issue,30200,"obscenity, federal",
+issue,40010,"due process: miscellaneous (cf. loyalty oath), the residual code",
+issue,40020,due process: hearing or notice (other than as pertains to government employees or prisoners' rights) Note: hearing may be statutorily based,
+issue,40030,"due process: hearing, government employees",
+issue,40040,due process: prisoners' rights and defendants' rights,
+issue,40050,due process: impartial decision maker,
+issue,40060,due process: jurisdiction (jurisdiction over non-resident litigants),
+issue,40070,"due process: takings clause, or other non-constitutional governmental taking of property",
+issue,50010,"privacy (cf. libel, comity: privacy)",
+issue,50020,abortion: including contraceptives,
+issue,50030,right to die,
+issue,50040,Freedom of Information Act and related federal or state statutes or regulations,
+issue,60010,attorneys' and governmental employees' or officials' fees or compensation or licenses,
+issue,60020,"commercial speech, attorneys (cf. commercial speech)",
+issue,60030,"admission to a state or federal bar, disbarment, and attorney discipline (cf. loyalty oath: bar applicants)",
+issue,60040,"admission to, or disbarment from, Bar of the U.S. Supreme Court",
+issue,70010,arbitration (in the context of labor-management or employer-employee relations) (cf. arbitration),
+issue,70020,union antitrust: legality of anticompetitive union activity,
+issue,70030,union or closed shop: includes agency shop litigation,
+issue,70040,Fair Labor Standards Act,
+issue,70050,Occupational Safety and Health Act,
+issue,70060,union-union member dispute (except as pertains to union or closed shop),
+issue,70070,labor-management disputes: bargaining,
+issue,70080,labor-management disputes: employee discharge,
+issue,70090,labor-management disputes: distribution of union literature,
+issue,70100,labor-management disputes: representative election,
+issue,70110,labor-management disputes: antistrike injunction,
+issue,70120,labor-management disputes: jurisdictional dispute,
+issue,70130,labor-management disputes: right to organize,
+issue,70140,labor-management disputes: picketing,
+issue,70150,labor-management disputes: secondary activity,
+issue,70160,labor-management disputes: no-strike clause,
+issue,70170,labor-management disputes: union representatives,
+issue,70180,labor-management disputes: union trust funds (cf. ERISA),
+issue,70190,labor-management disputes: working conditions,
+issue,70200,labor-management disputes: miscellaneous dispute,
+issue,70210,miscellaneous union,
+issue,80010,antitrust (except in the context of mergers and union antitrust),
+issue,80020,mergers,
+issue,80030,bankruptcy (except in the context of priority of federal fiscal claims),
+issue,80040,sufficiency of evidence: typically in the context of a jury's determination of compensation for injury or death,
+issue,80050,election of remedies: legal remedies available to injured persons or things,
+issue,80060,"liability, governmental: tort or contract actions by or against government or governmental officials other than defense of criminal actions brought under a civil rights action.",
+issue,80070,"liability, other than as in sufficiency of evidence, election of remedies, punitive damages",
+issue,80080,"liability, punitive damages",
+issue,80090,Employee Retirement Income Security Act (cf. union trust funds),
+issue,80100,state or local government tax Note: those challenged on the basis of the supremacy clause and the 21st Amendment may also locate in national supremacy: intergovernmental tax immunity or national supremacy: state tax,
+issue,80105,state and territorial land claims Note: those challenged on the basis of the supremacy clause and the 21st Amendment may also locate in national supremacy: intergovernmental tax immunity or national supremacy: state tax,
+issue,80110,"state or local government regulation, especially of business (cf. federal pre-emption of state court jurisdiction, federal pre-emption of state legislation or regulation)",
+issue,80120,federal or state regulation of securities,
+issue,80130,"natural resources - environmental protection (cf. national supremacy: natural resources, national supremacy: pollution)",
+issue,80140,"corruption, governmental or governmental regulation of other than as in campaign spending",
+issue,80150,"zoning: constitutionality of such ordinances, or restrictions on owners' or lessors' use of real property",
+issue,80160,arbitration (other than as pertains to labor-management or employer-employee relations (cf. union arbitration),
+issue,80170,"federal or state consumer protection: typically under the Truth in Lending; Food, Drug and Cosmetic; and Consumer Protection Credit Acts",
+issue,80180,patents and copyrights: patent,
+issue,80190,patents and copyrights: copyright,
+issue,80200,patents and copyrights: trademark,
+issue,80210,patents and copyrights: patentability of computer processes,
+issue,80220,federal or state regulation of transportation regulation: railroad,
+issue,80230,federal and some few state regulations of transportation regulation: boat,
+issue,80240,"federal and some few state regulation of transportation regulation:truck, or motor carrier",
+issue,80250,federal and some few state regulation of transportation regulation: pipeline (cf. federal public utilities regulation: gas pipeline),
+issue,80260,federal and some few state regulation of transportation regulation: airline,
+issue,80270,federal and some few state regulation of public utilities regulation: electric power,
+issue,80280,federal and some few state regulation of public utilities regulation: nuclear power,
+issue,80290,federal and some few state regulation of public utilities regulation: oil producer,
+issue,80300,federal and some few state regulation of public utilities regulation: gas producer,
+issue,80310,federal and some few state regulation of public utilities regulation: gas pipeline (cf. federal transportation regulation: pipeline),
+issue,80320,federal and some few state regulation of public utilities regulation: radio and television (cf. cable television),
+issue,80330,federal and some few state regulation of public utilities regulation: cable television (cf. radio and television),
+issue,80340,federal and some few state regulations of public utilities regulation: telephone or telegraph company,
+issue,80350,miscellaneous economic regulation,
+issue,90010,"comity: civil rights Note: propriety of federal court deference to ongoing state judicial or state or federal quasi-judicial proceedings, the abstention doctrine, exhaustion of state provided remedies",
+issue,90020,"comity: criminal procedure Note: propriety of federal court deference to ongoing state judicial or state or federal quasi-judicial proceedings, the abstention doctrine, exhaustion of state provided remedies",
+issue,90030,"comity: First Amendment Note: propriety of federal court deference to ongoing state judicial or state or federal quasi-judicial proceedings, the abstention doctrine, exhaustion of state provided remedies",
+issue,90040,"comity: habeas corpus Note: propriety of federal court deference to ongoing state judicial or state or federal quasi-judicial proceedings, the abstention doctrine, exhaustion of state provided remedies",
+issue,90050,"comity: military Note: propriety of federal court deference to ongoing state judicial or state or federal quasi-judicial proceedings, the abstention doctrine, exhaustion of state provided remedies",
+issue,90060,"comity: obscenity Note: propriety of federal court deference to ongoing state judicial or state or federal quasi-judicial proceedings, the abstention doctrine, exhaustion of state provided remedies",
+issue,90070,"comity: privacy Note: propriety of federal court deference to ongoing state judicial or state or federal quasi-judicial proceedings, the abstention doctrine, exhaustion of state provided remedies",
+issue,90080,"comity: miscellaneous Note: propriety of federal court deference to ongoing state judicial or state or federal quasi-judicial proceedings, the abstention doctrine, exhaustion of state provided remedies",
+issue,90090,"comity primarily removal cases, civil procedure (cf. comity, criminal and First Amendment); deference to foreign judicial tribunals Note: propriety of federal court deference to ongoing state judicial or state or federal quasi-judicial proceedings, the abstention doctrine, exhaustion of state provided remedies",
+issue,90100,assessment of costs or damages: as part of a court order,
+issue,90110,"Federal Rules of Civil Procedure including Supreme Court Rules, application of the Federal Rules of Evidence, Federal Rules of Appellate Procedure in civil litigation, Circuit Court Rules, and state rules and admiralty rules",
+issue,90120,judicial review of administrative agency's or administrative official's actions and procedures,
+issue,90130,mootness (cf. standing to sue: live dispute),
+issue,90140,venue,
+issue,90150,no merits: writ improvidently granted Note: use only if the syllabus or the summary holding specifies one of the following bases.,
+issue,90160,"no merits: dismissed or affirmed for want of a substantial or properly presented federal question, or a nonsuit Note: use only if the syllabus or the summary holding specifies one of the following bases.",
+issue,90170,no merits: dismissed or affirmed for want of jurisdiction (cf. judicial administration: Supreme Court jurisdiction or authority on appeal from federal district courts or courts of appeals) Note: use only if the syllabus or the summary holding specifies one of the following bases.,
+issue,90180,no merits: adequate non-federal grounds for decision Note: use only if the syllabus or the summary holding specifies one of the following bases.,
+issue,90190,no merits: remand to determine basis of state or federal court decision (cf. judicial administration: state law) Note: use only if the syllabus or the summary holding specifies one of the following bases.,
+issue,90200,no merits: miscellaneous Note: use only if the syllabus or the summary holding specifies one of the following bases.,
+issue,90210,standing to sue: adversary parties,
+issue,90220,standing to sue: direct injury,
+issue,90230,standing to sue: legal injury,
+issue,90240,standing to sue: personal injury,
+issue,90250,standing to sue: justiciable question,
+issue,90260,standing to sue: live dispute,
+issue,90270,standing to sue: parens patriae standing,
+issue,90280,standing to sue: statutory standing,
+issue,90290,standing to sue: private or implied cause of action,
+issue,90300,standing to sue: taxpayer's suit,
+issue,90310,standing to sue: miscellaneous,
+issue,90320,judicial administration: jurisdiction or authority of federal district courts or territorial courts Note: jurisdiction of the federal courts or of the Supreme Court (cf. no merits: dismissed for want of jurisdiction),
+issue,90330,judicial administration: jurisdiction or authority of federal courts of appeals Note: jurisdiction of the federal courts or of the Supreme Court,
+issue,90340,"judicial administration: Supreme Court jurisdiction or authority on appeal or writ of error, from federal district courts or courts of appeals (cf. 753) Note: jurisdiction of the federal courts or of the Supreme Court",
+issue,90350,"judicial administration: Supreme Court jurisdiction or authority on appeal or writ of error, from highest state court Note: jurisdiction of the federal courts or of the Supreme Court",
+issue,90360,judicial administration: jurisdiction or authority of the Court of Claims Note: jurisdiction of the federal courts or of the Supreme Court,
+issue,90370,judicial administration: Supreme Court's original jurisdiction Note: jurisdiction of the federal courts or of the Supreme Court,
+issue,90380,judicial administration: review of non-final order Note: jurisdiction of the federal courts or of the Supreme Court,
+issue,90390,judicial administration: change in state law (cf. no merits: remand to determine basis of state court decision) Note: jurisdiction of the federal courts or of the Supreme Court,
+issue,90400,judicial administration: federal question (cf. no merits: dismissed for want of a substantial or properly presented federal question) Note: jurisdiction of the federal courts or of the Supreme Court,
+issue,90410,judicial administration: ancillary or pendent jurisdiction Note: jurisdiction of the federal courts or of the Supreme Court,
+issue,90420,"judicial administration: extraordinary relief (e.g., mandamus, injunction) Note: jurisdiction of the federal courts or of the Supreme Court",
+issue,90430,judicial administration: certification (cf. objection to reason for denial of certiorari or appeal) Note: jurisdiction of the federal courts or of the Supreme Court,
+issue,90440,"judicial administration: resolution of circuit conflict, or conflict between or among other courts Note: jurisdiction of the federal courts or of the Supreme Court",
+issue,90450,judicial administration: objection to reason for denial of certiorari or appeal Note: jurisdiction of the federal courts or of the Supreme Court,
+issue,90460,judicial administration: collateral estoppel or res judicata Note: jurisdiction of the federal courts or of the Supreme Court,
+issue,90470,judicial administration: interpleader Note: jurisdiction of the federal courts or of the Supreme Court,
+issue,90480,judicial administration: untimely filing Note: jurisdiction of the federal courts or of the Supreme Court,
+issue,90490,judicial administration: Act of State doctrine Note: jurisdiction of the federal courts or of the Supreme Court,
+issue,90500,judicial administration: miscellaneous Note: jurisdiction of the federal courts or of the Supreme Court,
+issue,90510,"Supreme Court's certiorari, writ of error, or appeals jurisdiction Note: jurisdiction of the federal courts or of the Supreme Court",
+issue,90520,"miscellaneous judicial power, especially diversity jurisdiction",
+issue,100010,federal-state ownership dispute (cf. Submerged Lands Act),
+issue,100020,federal pre-emption of state court jurisdiction Note: almost always found in the context of labor union activity. Does not involve constitutional interpretation. Rests rather on a primary jurisdiction rationale,
+issue,100030,federal pre-emption of state legislation or regulation. cf. state regulation of business. rarely involves union activity. Does not involve constitutional interpretation unless the Court says it does.,
+issue,100040,Submerged Lands Act (cf. federal-state ownership dispute),
+issue,100050,"national supremacy: commodities Note: in the context of federal-state conflicts involving the general welfare, supremacy, or interstate commerce clauses, the 11th or 21st Amendments, or the enforcement clause of the 14th Amendment. Distinguishable from federal pre-emption because of a constitutional basis for decision.",
+issue,100060,"national supremacy: intergovernmental tax immunity Note: in the context of federal-state conflicts involving the general welfare, supremacy, or interstate commerce clauses, the 11th or 21st Amendments, or the enforcement clause of the 14th Amendment. Distinguishable from federal pre-emption because of a constitutional basis for decision.",
+issue,100070,"national supremacy: marital and family relationships and property, including obligation of child support Note: in the context of federal-state conflicts involving the general welfare, supremacy, or interstate commerce clauses, the 11th or 21st Amendments, or the enforcement clause of the 14th Amendment. Distinguishable from federal pre-emption because of a constitutional basis for decision.",
+issue,100080,"national supremacy: natural resources (cf. natural resources - environmental protection) Note: in the context of federal-state conflicts involving the general welfare, supremacy, or interstate commerce clauses, the 11th or 21st Amendments, or the enforcement clause of the 14th Amendment. Distinguishable from federal pre-emption because of a constitutional basis for decision.",
+issue,100090,"national supremacy: pollution, air or water (cf. natural resources - environmental protection) Note: in the context of federal-state conflicts involving the general welfare, supremacy, or interstate commerce clauses, the 11th or 21st Amendments, or the enforcement clause of the 14th Amendment. Distinguishable from federal pre-emption because of a constitutional basis for decision.",
+issue,100100,"national supremacy: public utilities (cf. federal public utilities regulation) Note: in the context of federal-state conflicts involving the general welfare, supremacy, or interstate commerce clauses, the 11th or 21st Amendments, or the enforcement clause of the 14th Amendment. Distinguishable from federal pre-emption because of a constitutional basis for decision.",
+issue,100110,"national supremacy: state tax (cf. state tax) Note: in the context of federal-state conflicts involving the general welfare, supremacy, or interstate commerce clauses, the 11th or 21st Amendments, or the enforcement clause of the 14th Amendment. Distinguishable from federal pre-emption because of a constitutional basis for decision.",
+issue,100120,"national supremacy: miscellaneous Note: in the context of federal-state conflicts involving the general welfare, supremacy, or interstate commerce clauses, the 11th or 21st Amendments, or the enforcement clause of the 14th Amendment. Distinguishable from federal pre-emption because of a constitutional basis for decision.",
+issue,100130,"miscellaneous federalism Note: cf. Indians, state jurisdiction over; comity; adequate non-federal grounds for decision; remand to determine basis of state court decision; judicial administration: Supreme Court jurisdiction or authority on appeal from highest state court, change in state law, or ancillary or pendent jurisdiction",
+issue,110010,boundary dispute between states,
+issue,110020,non-real property dispute between states,
+issue,110030,miscellaneous interstate relations conflict,
+issue,110033,"incorporation of foreign territories Note: prior to 2014 Release 01, id = 10595",
+issue,120010,"federal taxation, typically under provisions of the Internal Revenue Code Note: except as pertains to federal taxation of gifts or priority of federal fiscal claims",
+issue,120020,"federal taxation of gifts, personal, business, or professional expenses",
+issue,120030,priority of federal fiscal claims: over those of the states or private entities,
+issue,120040,miscellaneous federal taxation (cf. national supremacy: state tax),
+issue,130010,legislative veto,
+issue,130015,"executive authority vis-a-vis congress or the states Note: prior to 2014 Release 01, id = 100035",
+issue,130020,miscellaneous,
+issue,140010,real property,
+issue,140020,personal property,
+issue,140030,contracts,
+issue,140040,evidence,
+issue,140050,civil procedure,
+issue,140060,torts,
+issue,140070,wills and trusts,
+issue,140080,commercial transactions,
+issueArea,1,Criminal Procedure,
+issueArea,2,Civil Rights,
+issueArea,3,First Amendment,
+issueArea,4,Due Process,
+issueArea,5,Privacy,
+issueArea,6,Attorneys,
+issueArea,7,Unions,
+issueArea,8,Economic Activity,
+issueArea,9,Judicial Power,
+issueArea,10,Federalism,
+issueArea,11,Interstate Relations,
+issueArea,12,Federal Taxation,
+issueArea,13,Miscellaneous,
+issueArea,14,Private Action,
+jurisdiction,1,cert,
+jurisdiction,2,appeal,
+jurisdiction,3,bail,
+jurisdiction,4,certification,
+jurisdiction,5,docketing fee,
+jurisdiction,6,rehearing or restored to calendar for reargument,
+jurisdiction,7,injunction,
+jurisdiction,8,mandamus,
+jurisdiction,9,original,
+jurisdiction,10,prohibition,
+jurisdiction,12,stay,
+jurisdiction,13,writ of error,
+jurisdiction,14,writ of habeas corpus,
+jurisdiction,15,"unspecified, other",
+justice,1,JJay,"Jay, John ( 10/19/1789 - 06/29/1795 )"
+justice,2,JRutledge1,"Rutledge, John ( 02/15/1790 - 03/05/1791 )"
+justice,3,WCushing,"Cushing, William ( 02/02/1790 - 09/13/1810 )"
+justice,4,JWilson,"Wilson, James ( 10/05/1789 - 08/21/1798 )"
+justice,5,JBlair,"Blair, John ( 02/02/1790 - 01/27/1796 )"
+justice,6,JIredell,"Iredell, James ( 05/12/1790 - 10/20/1799 )"
+justice,7,TJohnson,"Johnson, Thomas ( 09/19/1791 - 02/22/1793 )"
+justice,8,WPaterson,"Paterson, William ( 03/11/1793 - 09/09/1806 )"
+justice,9,JRutledge2,"Rutledge, John ( 08/12/1795 - 12/15/1795 )"
+justice,10,SChase,"Chase, Samuel ( 02/04/1796 - 06/19/1811 )"
+justice,11,OEllsworth,"Ellsworth, Oliver ( 03/08/1796 - 12/15/1800 )"
+justice,12,BWashington,"Washington, Bushrod ( 11/09/1798 - 11/26/1829 )"
+justice,13,AMoore,"Moore, Alfred ( 04/21/1800 - 01/26/1804 )"
+justice,14,JMarshall,"Marshall, John ( 02/04/1801 - 07/06/1835 )"
+justice,15,WJohnson,"Johnson, William ( 05/07/1804 - 08/04/1834 )"
+justice,16,HBLivingston,"Livingston, Henry ( 01/20/1807 - 03/18/1823 )"
+justice,17,TTodd,"Todd, Thomas ( 05/04/1807 - 02/07/1826 )"
+justice,18,GDuvall,"Duvall, Gabriel ( 11/23/1811 - 01/14/1835 )"
+justice,19,JStory,"Story, Joseph ( 02/03/1812 - 09/10/1845 )"
+justice,20,SThompson,"Thompson, Smith ( 09/01/1823 - 12/18/1843 )"
+justice,21,RTrimble,"Trimble, Robert ( 06/16/1826 - 08/25/1828 )"
+justice,22,JMcLean,"McLean, John ( 01/11/1830 - 04/04/1861 )"
+justice,23,HBaldwin,"Baldwin, Henry ( 01/18/1830 - 04/21/1844 )"
+justice,24,JMWayne,"Wayne, James ( 01/14/1835 - 07/05/1867 )"
+justice,25,RBTaney,"Taney, Roger ( 03/28/1836 - 10/12/1864 )"
+justice,26,PPBarbour,"Barbour, Philip ( 05/12/1836 - 02/25/1841 )"
+justice,27,JCatron,"Catron, John ( 05/01/1837 - 05/30/1865 )"
+justice,28,JMcKinley,"McKinley, John ( 04/22/1837 - 07/19/1852 )"
+justice,29,PVDaniel,"Daniel, Peter ( 01/10/1842 - 05/31/1860 )"
+justice,30,SNelson,"Nelson, Samuel ( 02/27/1845 - 11/28/1872 )"
+justice,31,LWoodbury,"Woodbury, Levi ( 09/23/1845 - 09/04/1851 )"
+justice,32,RCGrier,"Grier, Robert ( 08/10/1846 - 01/31/1870 )"
+justice,33,BRCurtis,"Curtis, Benjamin ( 10/10/1851 - 09/30/1857 )"
+justice,34,JACampbell,"Campbell, John ( 04/11/1853 - 04/30/1861 )"
+justice,35,NClifford,"Clifford, Nathan ( 01/21/1858 - 07/25/1881 )"
+justice,36,NHSwayne,"Swayne, Noah ( 01/27/1862 - 01/24/1881 )"
+justice,37,SFMiller,"Miller, Samuel ( 07/21/1862 - 10/13/1890 )"
+justice,38,DDavis,"Davis, David ( 10/17/1862 - 03/04/1877 )"
+justice,39,SJField,"Field, Stephen ( 05/20/1863 - 12/01/1897 )"
+justice,40,SPChase,"Chase, Salmon ( 12/15/1864 - 05/07/1873 )"
+justice,41,WStrong,"Strong, William ( 03/14/1870 - 12/14/1880 )"
+justice,42,JPBradley,"Bradley, Joseph ( 03/21/1870 - 01/22/1892 )"
+justice,43,WHunt,"Hunt, Ward ( 01/09/1873 - 01/27/1882 )"
+justice,44,MRWaite,"Waite, Morrison ( 03/04/1874 - 04/03/1888 )"
+justice,45,JHarlan1,"Harlan, John ( 12/10/1877 - 10/14/1911 )"
+justice,46,WBWoods,"Woods, William ( 01/05/1881 - 05/14/1887 )"
+justice,47,SMatthews,"Matthews, Stanley ( 05/17/1881 - 03/22/1889 )"
+justice,48,HGray,"Gray, Horace ( 01/09/1882 - 09/15/1902 )"
+justice,49,SBlatchford,"Blatchford, Samuel ( 04/03/1882 - 07/07/1893 )"
+justice,50,LQLamar,"Lamar, Lucius ( 01/18/1888 - 01/23/1893 )"
+justice,51,MWFuller,"Fuller, Melville ( 10/08/1888 - 07/04/1910 )"
+justice,52,DJBrewer,"Brewer, David ( 01/06/1890 - 03/28/1910 )"
+justice,53,HBBrown,"Brown, Henry ( 01/05/1891 - 05/28/1906 )"
+justice,54,GShiras,"Shiras, George ( 10/10/1892 - 02/23/1903 )"
+justice,55,HEJackson,"Jackson, Howell ( 03/04/1893 - 08/08/1895 )"
+justice,56,EDEWhite,"White, Edward ( 03/12/1894 - 05/19/1921 )"
+justice,57,RWPeckham,"Peckham, Rufus ( 01/06/1896 - 10/24/1909 )"
+justice,58,JMcKenna,"McKenna, Joseph ( 01/26/1898 - 01/05/1925 )"
+justice,59,OWHolmes,"Holmes, Oliver ( 08/11/1902 - 01/12/1932 )"
+justice,60,WRDay,"Day, William ( 03/02/1903 - 11/13/1922 )"
+justice,61,WHMoody,"Moody, William ( 12/17/1906 - 11/20/1910 )"
+justice,62,HHLurton,"Lurton, Horace ( 01/03/1910 - 07/12/1914 )"
+justice,63,CEHughes1,"Hughes, Charles ( 10/10/1910 - 06/10/1916 )"
+justice,64,WVanDevanter,"Van Devanter, Willis ( 01/03/1911 - 06/02/1937 )"
+justice,65,JRLamar,"Lamar, Joseph ( 01/03/1911 - 01/02/1916 )"
+justice,66,MPitney,"Pitney, Mahlon ( 03/18/1912 - 12/31/1922 )"
+justice,67,JCMcReynolds,"McReynolds, James ( 10/12/1914 - 01/31/1941 )"
+justice,68,LDBrandeis,"Brandeis, Louis ( 06/05/1916 - 02/13/1939 )"
+justice,69,JHClarke,"Clarke, John ( 10/09/1916 - 09/18/1922 )"
+justice,70,WHTaft,"Taft, William ( 07/11/1921 - 02/03/1930 )"
+justice,71,GSutherland,"Sutherland, George ( 10/02/1922 - 01/17/1938 )"
+justice,72,PButler,"Butler, Pierce ( 01/02/1923 - 11/16/1939 )"
+justice,73,ETSanford,"Sanford, Edward ( 02/19/1923 - 03/08/1930 )"
+justice,74,HFStone,"Stone, Harlan ( 03/02/1925 - 04/22/1946 )"
+justice,75,CEHughes2,"Hughes, Charles ( 02/24/1930 - 07/01/1941 )"
+justice,76,OJRoberts,"Roberts, Owen ( 06/02/1930 - 07/31/1945 )"
+justice,77,BNCardozo,"Cardozo, Benjamin ( 03/14/1932 - 07/09/1938 )"
+justice,78,HLBlack,"Black, Hugo ( 08/19/1937 - 09/17/1971 )"
+justice,79,SFReed,"Reed, Stanley ( 01/31/1938 - 02/25/1957 )"
+justice,80,FFrankfurter,"Frankfurter, Felix ( 01/30/1939 - 08/28/1962 )"
+justice,81,WODouglas,"Douglas, William ( 04/17/1939 - 11/12/1975 )"
+justice,82,FMurphy,"Murphy, Francis ( 02/05/1940 - 07/19/1949 )"
+justice,83,JFByrnes,"Byrnes, James ( 07/08/1941 - 10/03/1942 )"
+justice,84,RHJackson,"Jackson, Robert ( 07/11/1941 - 10/09/1954 )"
+justice,85,WBRutledge,"Rutledge, Wiley ( 02/15/1943 - 09/10/1949 )"
+justice,86,HHBurton,"Burton, Harold ( 10/01/1945 - 10/13/1958 )"
+justice,87,FMVinson,"Vinson, Fred ( 06/24/1946 - 09/08/1953 )"
+justice,88,TCClark,"Clark, Tom ( 08/24/1949 - 06/12/1967 )"
+justice,89,SMinton,"Minton, Sherman ( 10/12/1949 - 10/15/1956 )"
+justice,90,EWarren,"Warren, Earl ( 10/05/1953 - 06/23/1969 )"
+justice,91,JHarlan2,"Harlan, John ( 03/28/1955 - 09/23/1971 )"
+justice,92,WJBrennan,"Brennan, William ( 10/16/1956 - 07/20/1990 )"
+justice,93,CEWhittaker,"Whittaker, Charles ( 03/25/1957 - 03/31/1962 )"
+justice,94,PStewart,"Stewart, Potter ( 10/14/1958 - 07/03/1981 )"
+justice,95,BRWhite,"White, Byron ( 04/16/1962 - 06/28/1993 )"
+justice,96,AJGoldberg,"Goldberg, Arthur ( 10/01/1962 - 07/25/1965 )"
+justice,97,AFortas,"Fortas, Abe ( 10/04/1965 - 05/14/1969 )"
+justice,98,TMarshall,"Marshall, Thurgood ( 10/02/1967 - 10/01/1991 )"
+justice,99,WEBurger,"Burger, Warren ( 06/23/1969 - 09/26/1986 )"
+justice,100,HABlackmun,"Blackmun, Harry ( 06/09/1970 - 08/03/1994 )"
+justice,101,LFPowell,"Powell, Lewis ( 01/07/1972 - 06/26/1987 )"
+justice,102,WHRehnquist,"Rehnquist, William ( 01/07/1972 - 09/03/2005 )"
+justice,103,JPStevens,"Stevens, John ( 12/19/1975 - 06/29/2010 )"
+justice,104,SDOConnor,"O'Connor, Sandra ( 09/25/1981 - 01/31/2006 )"
+justice,105,AScalia,"Scalia, Antonin ( 09/26/1986 - 02/13/2016 )"
+justice,106,AMKennedy,"Kennedy, Anthony ( 02/18/1988 - 07/31/2018 )"
+justice,107,DHSouter,"Souter, David ( 10/09/1990 - 06/29/2009 )"
+justice,108,CThomas,"Thomas, Clarence ( 10/23/1991 - 00/00/0000 )"
+justice,109,RBGinsburg,"Ginsburg, Ruth ( 08/10/1993 - 09/18/2020 )"
+justice,110,SGBreyer,"Breyer, Stephen ( 08/03/1994 - 06/30/2022 )"
+justice,111,JGRoberts,"Roberts, John ( 09/29/2005 - 00/00/0000 )"
+justice,112,SAAlito,"Alito, Samuel ( 01/31/2006 - 00/00/0000 )"
+justice,113,SSotomayor,"Sotomayor, Sonia ( 08/08/2009 - 00/00/0000 )"
+justice,114,EKagan,"Kagan, Elena ( 08/07/2010 - 00/00/0000 )"
+justice,115,NMGorsuch,"Gorsuch, Neil ( 04/08/2017 - 00/00/0000 )"
+justice,116,BMKavanaugh,"Kavanaugh, Brett ( 10/06/2018 - 00/00/0000 )"
+justice,117,ACBarrett,"Barrett, Amy ( 10/27/2020 - 00/00/0000 )"
+justice,118,KBJackson,"Jackson, Ketanji ( 06/30/2022 - 00/00/0000 )"
+justiceName,1,JJay,"Jay, John ( 10/19/1789 - 06/29/1795 )"
+justiceName,2,JRutledge1,"Rutledge, John ( 02/15/1790 - 03/05/1791 )"
+justiceName,3,WCushing,"Cushing, William ( 02/02/1790 - 09/13/1810 )"
+justiceName,4,JWilson,"Wilson, James ( 10/05/1789 - 08/21/1798 )"
+justiceName,5,JBlair,"Blair, John ( 02/02/1790 - 01/27/1796 )"
+justiceName,6,JIredell,"Iredell, James ( 05/12/1790 - 10/20/1799 )"
+justiceName,7,TJohnson,"Johnson, Thomas ( 09/19/1791 - 02/22/1793 )"
+justiceName,8,WPaterson,"Paterson, William ( 03/11/1793 - 09/09/1806 )"
+justiceName,9,JRutledge2,"Rutledge, John ( 08/12/1795 - 12/15/1795 )"
+justiceName,10,SChase,"Chase, Samuel ( 02/04/1796 - 06/19/1811 )"
+justiceName,11,OEllsworth,"Ellsworth, Oliver ( 03/08/1796 - 12/15/1800 )"
+justiceName,12,BWashington,"Washington, Bushrod ( 11/09/1798 - 11/26/1829 )"
+justiceName,13,AMoore,"Moore, Alfred ( 04/21/1800 - 01/26/1804 )"
+justiceName,14,JMarshall,"Marshall, John ( 02/04/1801 - 07/06/1835 )"
+justiceName,15,WJohnson,"Johnson, William ( 05/07/1804 - 08/04/1834 )"
+justiceName,16,HBLivingston,"Livingston, Henry ( 01/20/1807 - 03/18/1823 )"
+justiceName,17,TTodd,"Todd, Thomas ( 05/04/1807 - 02/07/1826 )"
+justiceName,18,GDuvall,"Duvall, Gabriel ( 11/23/1811 - 01/14/1835 )"
+justiceName,19,JStory,"Story, Joseph ( 02/03/1812 - 09/10/1845 )"
+justiceName,20,SThompson,"Thompson, Smith ( 09/01/1823 - 12/18/1843 )"
+justiceName,21,RTrimble,"Trimble, Robert ( 06/16/1826 - 08/25/1828 )"
+justiceName,22,JMcLean,"McLean, John ( 01/11/1830 - 04/04/1861 )"
+justiceName,23,HBaldwin,"Baldwin, Henry ( 01/18/1830 - 04/21/1844 )"
+justiceName,24,JMWayne,"Wayne, James ( 01/14/1835 - 07/05/1867 )"
+justiceName,25,RBTaney,"Taney, Roger ( 03/28/1836 - 10/12/1864 )"
+justiceName,26,PPBarbour,"Barbour, Philip ( 05/12/1836 - 02/25/1841 )"
+justiceName,27,JCatron,"Catron, John ( 05/01/1837 - 05/30/1865 )"
+justiceName,28,JMcKinley,"McKinley, John ( 04/22/1837 - 07/19/1852 )"
+justiceName,29,PVDaniel,"Daniel, Peter ( 01/10/1842 - 05/31/1860 )"
+justiceName,30,SNelson,"Nelson, Samuel ( 02/27/1845 - 11/28/1872 )"
+justiceName,31,LWoodbury,"Woodbury, Levi ( 09/23/1845 - 09/04/1851 )"
+justiceName,32,RCGrier,"Grier, Robert ( 08/10/1846 - 01/31/1870 )"
+justiceName,33,BRCurtis,"Curtis, Benjamin ( 10/10/1851 - 09/30/1857 )"
+justiceName,34,JACampbell,"Campbell, John ( 04/11/1853 - 04/30/1861 )"
+justiceName,35,NClifford,"Clifford, Nathan ( 01/21/1858 - 07/25/1881 )"
+justiceName,36,NHSwayne,"Swayne, Noah ( 01/27/1862 - 01/24/1881 )"
+justiceName,37,SFMiller,"Miller, Samuel ( 07/21/1862 - 10/13/1890 )"
+justiceName,38,DDavis,"Davis, David ( 10/17/1862 - 03/04/1877 )"
+justiceName,39,SJField,"Field, Stephen ( 05/20/1863 - 12/01/1897 )"
+justiceName,40,SPChase,"Chase, Salmon ( 12/15/1864 - 05/07/1873 )"
+justiceName,41,WStrong,"Strong, William ( 03/14/1870 - 12/14/1880 )"
+justiceName,42,JPBradley,"Bradley, Joseph ( 03/21/1870 - 01/22/1892 )"
+justiceName,43,WHunt,"Hunt, Ward ( 01/09/1873 - 01/27/1882 )"
+justiceName,44,MRWaite,"Waite, Morrison ( 03/04/1874 - 04/03/1888 )"
+justiceName,45,JHarlan1,"Harlan, John ( 12/10/1877 - 10/14/1911 )"
+justiceName,46,WBWoods,"Woods, William ( 01/05/1881 - 05/14/1887 )"
+justiceName,47,SMatthews,"Matthews, Stanley ( 05/17/1881 - 03/22/1889 )"
+justiceName,48,HGray,"Gray, Horace ( 01/09/1882 - 09/15/1902 )"
+justiceName,49,SBlatchford,"Blatchford, Samuel ( 04/03/1882 - 07/07/1893 )"
+justiceName,50,LQLamar,"Lamar, Lucius ( 01/18/1888 - 01/23/1893 )"
+justiceName,51,MWFuller,"Fuller, Melville ( 10/08/1888 - 07/04/1910 )"
+justiceName,52,DJBrewer,"Brewer, David ( 01/06/1890 - 03/28/1910 )"
+justiceName,53,HBBrown,"Brown, Henry ( 01/05/1891 - 05/28/1906 )"
+justiceName,54,GShiras,"Shiras, George ( 10/10/1892 - 02/23/1903 )"
+justiceName,55,HEJackson,"Jackson, Howell ( 03/04/1893 - 08/08/1895 )"
+justiceName,56,EDEWhite,"White, Edward ( 03/12/1894 - 05/19/1921 )"
+justiceName,57,RWPeckham,"Peckham, Rufus ( 01/06/1896 - 10/24/1909 )"
+justiceName,58,JMcKenna,"McKenna, Joseph ( 01/26/1898 - 01/05/1925 )"
+justiceName,59,OWHolmes,"Holmes, Oliver ( 08/11/1902 - 01/12/1932 )"
+justiceName,60,WRDay,"Day, William ( 03/02/1903 - 11/13/1922 )"
+justiceName,61,WHMoody,"Moody, William ( 12/17/1906 - 11/20/1910 )"
+justiceName,62,HHLurton,"Lurton, Horace ( 01/03/1910 - 07/12/1914 )"
+justiceName,63,CEHughes1,"Hughes, Charles ( 10/10/1910 - 06/10/1916 )"
+justiceName,64,WVanDevanter,"Van Devanter, Willis ( 01/03/1911 - 06/02/1937 )"
+justiceName,65,JRLamar,"Lamar, Joseph ( 01/03/1911 - 01/02/1916 )"
+justiceName,66,MPitney,"Pitney, Mahlon ( 03/18/1912 - 12/31/1922 )"
+justiceName,67,JCMcReynolds,"McReynolds, James ( 10/12/1914 - 01/31/1941 )"
+justiceName,68,LDBrandeis,"Brandeis, Louis ( 06/05/1916 - 02/13/1939 )"
+justiceName,69,JHClarke,"Clarke, John ( 10/09/1916 - 09/18/1922 )"
+justiceName,70,WHTaft,"Taft, William ( 07/11/1921 - 02/03/1930 )"
+justiceName,71,GSutherland,"Sutherland, George ( 10/02/1922 - 01/17/1938 )"
+justiceName,72,PButler,"Butler, Pierce ( 01/02/1923 - 11/16/1939 )"
+justiceName,73,ETSanford,"Sanford, Edward ( 02/19/1923 - 03/08/1930 )"
+justiceName,74,HFStone,"Stone, Harlan ( 03/02/1925 - 04/22/1946 )"
+justiceName,75,CEHughes2,"Hughes, Charles ( 02/24/1930 - 07/01/1941 )"
+justiceName,76,OJRoberts,"Roberts, Owen ( 06/02/1930 - 07/31/1945 )"
+justiceName,77,BNCardozo,"Cardozo, Benjamin ( 03/14/1932 - 07/09/1938 )"
+justiceName,78,HLBlack,"Black, Hugo ( 08/19/1937 - 09/17/1971 )"
+justiceName,79,SFReed,"Reed, Stanley ( 01/31/1938 - 02/25/1957 )"
+justiceName,80,FFrankfurter,"Frankfurter, Felix ( 01/30/1939 - 08/28/1962 )"
+justiceName,81,WODouglas,"Douglas, William ( 04/17/1939 - 11/12/1975 )"
+justiceName,82,FMurphy,"Murphy, Francis ( 02/05/1940 - 07/19/1949 )"
+justiceName,83,JFByrnes,"Byrnes, James ( 07/08/1941 - 10/03/1942 )"
+justiceName,84,RHJackson,"Jackson, Robert ( 07/11/1941 - 10/09/1954 )"
+justiceName,85,WBRutledge,"Rutledge, Wiley ( 02/15/1943 - 09/10/1949 )"
+justiceName,86,HHBurton,"Burton, Harold ( 10/01/1945 - 10/13/1958 )"
+justiceName,87,FMVinson,"Vinson, Fred ( 06/24/1946 - 09/08/1953 )"
+justiceName,88,TCClark,"Clark, Tom ( 08/24/1949 - 06/12/1967 )"
+justiceName,89,SMinton,"Minton, Sherman ( 10/12/1949 - 10/15/1956 )"
+justiceName,90,EWarren,"Warren, Earl ( 10/05/1953 - 06/23/1969 )"
+justiceName,91,JHarlan2,"Harlan, John ( 03/28/1955 - 09/23/1971 )"
+justiceName,92,WJBrennan,"Brennan, William ( 10/16/1956 - 07/20/1990 )"
+justiceName,93,CEWhittaker,"Whittaker, Charles ( 03/25/1957 - 03/31/1962 )"
+justiceName,94,PStewart,"Stewart, Potter ( 10/14/1958 - 07/03/1981 )"
+justiceName,95,BRWhite,"White, Byron ( 04/16/1962 - 06/28/1993 )"
+justiceName,96,AJGoldberg,"Goldberg, Arthur ( 10/01/1962 - 07/25/1965 )"
+justiceName,97,AFortas,"Fortas, Abe ( 10/04/1965 - 05/14/1969 )"
+justiceName,98,TMarshall,"Marshall, Thurgood ( 10/02/1967 - 10/01/1991 )"
+justiceName,99,WEBurger,"Burger, Warren ( 06/23/1969 - 09/26/1986 )"
+justiceName,100,HABlackmun,"Blackmun, Harry ( 06/09/1970 - 08/03/1994 )"
+justiceName,101,LFPowell,"Powell, Lewis ( 01/07/1972 - 06/26/1987 )"
+justiceName,102,WHRehnquist,"Rehnquist, William ( 01/07/1972 - 09/03/2005 )"
+justiceName,103,JPStevens,"Stevens, John ( 12/19/1975 - 06/29/2010 )"
+justiceName,104,SDOConnor,"O'Connor, Sandra ( 09/25/1981 - 01/31/2006 )"
+justiceName,105,AScalia,"Scalia, Antonin ( 09/26/1986 - 02/13/2016 )"
+justiceName,106,AMKennedy,"Kennedy, Anthony ( 02/18/1988 - 07/31/2018 )"
+justiceName,107,DHSouter,"Souter, David ( 10/09/1990 - 06/29/2009 )"
+justiceName,108,CThomas,"Thomas, Clarence ( 10/23/1991 - 00/00/0000 )"
+justiceName,109,RBGinsburg,"Ginsburg, Ruth ( 08/10/1993 - 09/18/2020 )"
+justiceName,110,SGBreyer,"Breyer, Stephen ( 08/03/1994 - 06/30/2022 )"
+justiceName,111,JGRoberts,"Roberts, John ( 09/29/2005 - 00/00/0000 )"
+justiceName,112,SAAlito,"Alito, Samuel ( 01/31/2006 - 00/00/0000 )"
+justiceName,113,SSotomayor,"Sotomayor, Sonia ( 08/08/2009 - 00/00/0000 )"
+justiceName,114,EKagan,"Kagan, Elena ( 08/07/2010 - 00/00/0000 )"
+justiceName,115,NMGorsuch,"Gorsuch, Neil ( 04/08/2017 - 00/00/0000 )"
+justiceName,116,BMKavanaugh,"Kavanaugh, Brett ( 10/06/2018 - 00/00/0000 )"
+justiceName,117,ACBarrett,"Barrett, Amy ( 10/27/2020 - 00/00/0000 )"
+justiceName,118,KBJackson,"Jackson, Ketanji ( 06/30/2022 - 00/00/0000 )"
+lawSupp,100,"Article I, Section 1 (delegation of powers)",
+lawSupp,101,"Article I, Section 10 (state bill of attainder, ex post facto law, or bills of credit)",
+lawSupp,102,"Article I, Section 2, Paragraph 1 (composition of the House of Representatives)",
+lawSupp,103,"Article I, Section 2, Paragraph 3 (apportionment of Representatives)",
+lawSupp,104,"Article I, Section 4, Paragraph 1 (elections clause)",
+lawSupp,105,"Article I, Section 5, Paragraph 1 (congressional qualifications)",
+lawSupp,106,"Article I, Section 6, Paragraph 1 (speech or debate clause)",
+lawSupp,107,"Article I, Section 6, Paragraph 2 (civil appointments)",
+lawSupp,108,"Article I, Section 7, Paragraph 1 (origination clause)",
+lawSupp,109,"Article I, Section 7, Paragraph 2 (separation of powers)",
+lawSupp,110,"Article I, Section 8, Paragraph 1 (taxing, spending, general welfare, or uniformity clause)",
+lawSupp,111,"Article I, Section 8, Paragraph 3 (interstate commerce clause)",
+lawSupp,112,"Article I, Section 8, Paragraph 4 (bankruptcy clause)",
+lawSupp,113,"Article I, Section 8, Paragraph 7 (postal power)",
+lawSupp,114,"Article I, Section 8, Paragraph 8 (patent and copyright clause)",
+lawSupp,115,"Article I, Section 8, Paragraph 11 (war power)",
+lawSupp,116,"Article I, Section 8, Paragraph 14 (governance of the armed forces)",
+lawSupp,117,"Article I, Section 8, Paragraph 15 (call-up of militia)",
+lawSupp,118,"Article I, Section 8, Paragraph 16 (organizing the militia)",
+lawSupp,119,"Article I, Section 8, Paragraph 17 (governance of the District of Columbia and lands purchased from the states)",
+lawSupp,120,"Article I, Section 8, Paragraph 18 (necessary and proper clause)",
+lawSupp,121,"Article I, Section 9, Paragraph 2 (suspension of the writ of habeas corpus)",
+lawSupp,122,"Article I, Section 9, Paragraph 3 (bill of attainder or ex post facto law)",
+lawSupp,123,"Article I, Section 9, Paragraph 4 (direct tax)",
+lawSupp,124,"Article I, Section 9, Paragraph 5 (export clause)",
+lawSupp,125,"Article I, Section 9, Paragraph 6 (preference to ports)",
+lawSupp,126,"Article I, Section 9, Paragraph 7 (appropriations clause)",
+lawSupp,127,"Article I, Section 10 (state bill of attainder or ex post facto law)",
+lawSupp,128,"Article I, Section 10, Paragraph 1 (contract clause)",
+lawSupp,129,"Article I, Section 10, Paragraph 2 (export-import clause)",
+lawSupp,130,"Article I, Section 10, Paragraph 3 (compact clause)",
+lawSupp,131,"Article II, Section 1 (executive power)",
+lawSupp,132,"Article II, Section 1, Paragraph 8 (oath provision)",
+lawSupp,133,"Article II, Section 2 (commander-in-chief)",
+lawSupp,134,"Article II, Section 2, Paragraph 1 (presidential pardoning power)",
+lawSupp,135,"Article II, Section 2, Paragraph 2 (appointments clause)",
+lawSupp,136,"Article III, Section 1, Paragraph 1 (judicial power)",
+lawSupp,137,"Article III, Section 1, Paragraph 2 (good behavior and compensation clause of federal judges)",
+lawSupp,138,"Article III, Section 2 (extent of judicial power)",
+lawSupp,139,"Article III, Section 2, Paragraph 1 (case or controversy requirement)",
+lawSupp,140,"Article III, Section 2, Paragraph 2 (original jurisdiction)",
+lawSupp,141,"Article III, Section 2, Paragraph 3 (vicinage requirement)",
+lawSupp,142,"Article III, Section 3 (treason clause)",
+lawSupp,143,"Article IV, Section 1 (full faith and credit clause)",
+lawSupp,144,"Article IV, Section 2, Paragraph 1 (privileges and immunities clause)",
+lawSupp,145,"Article IV, Section 2, Paragraph 2 (extradition clause)",
+lawSupp,146,"Article IV, Section 3, Paragraph 2 (property clause)",
+lawSupp,147,"Article IV, Section 4 (guarantee clause)",
+lawSupp,148,"Article VI, Section 2 (supremacy clause)",
+lawSupp,149,"Article VI, Section 3 (oath provision)",
+lawSupp,150,Amendment Clause,
+lawSupp,151,"Article V, Section 1 (courts)",
+lawSupp,152,'contract clause' (No Article to be added),
+lawSupp,153,"'freedom of contract' (Again, no article)",
+lawSupp,200,"First Amendment (speech, press, and assembly)",
+lawSupp,201,First Amendment (association),
+lawSupp,202,First Amendment (free exercise of religion),
+lawSupp,203,First Amendment (establishment of religion),
+lawSupp,204,First Amendment (petition clause),
+lawSupp,205,Fourth Amendment,
+lawSupp,206,Fifth Amendment (double jeopardy),
+lawSupp,207,Fifth Amendment (due process),
+lawSupp,208,Fifth Amendment (grand jury),
+lawSupp,209,Fifth Amendment (Miranda warnings),
+lawSupp,210,Fifth Amendment (self-incrimination),
+lawSupp,211,Fifth Amendment (takings clause),
+lawSupp,212,Fifth Amendment (equal protection),
+lawSupp,213,"Sixth Amendment (right to confront and cross-examine, compulsory process)",
+lawSupp,214,Sixth Amendment (right to counsel),
+lawSupp,215,Sixth Amendment (right to trial by jury),
+lawSupp,216,Sixth Amendment (speedy trial),
+lawSupp,217,Sixth Amendment (other provisions),
+lawSupp,218,Seventh Amendment,
+lawSupp,219,Eighth Amendment (prohibition of excessive bail),
+lawSupp,220,Eighth Amendment (prohibition of excessive fines),
+lawSupp,221,Eighth Amendment (cruel and unusual punishment),
+lawSupp,222,Ninth Amendment,
+lawSupp,223,Tenth Amendment,
+lawSupp,224,Eleventh Amendment,
+lawSupp,225,Twelfth Amendment,
+lawSupp,226,Thirteenth Amendment (both sections 1 and 2),
+lawSupp,227,Fourteenth Amendment (privileges and immunities clause),
+lawSupp,228,Fourteenth Amendment (reduction in representation clause),
+lawSupp,229,Fourteenth Amendment (citizenship clause),
+lawSupp,230,Fourteenth Amendment (due process),
+lawSupp,231,Fourteenth Amendment (equal protection),
+lawSupp,232,Fourteenth Amendment (enforcement clause),
+lawSupp,233,Fifteenth Amendment (other provisions),
+lawSupp,234,Fifteenth Amendment (enforcement clause),
+lawSupp,235,Sixteenth Amendment,
+lawSupp,236,Seventeenth Amendment,
+lawSupp,237,Twenty-First Amendment,
+lawSupp,238,Twenty-Fourth Amendment,
+lawSupp,239,Second Amendment,
+lawSupp,240,Fourteenth Amendment (due process and equal protection),
+lawSupp,241,Fourteenth Amendment (takings clause),
+lawSupp,300,Americans with Disabilities Act,
+lawSupp,302,Age Discrimination in Employment,
+lawSupp,303,"Aid to Families with Dependent Children provisions of the Social Security Act, plus amendments",
+lawSupp,304,"Clean Air, plus amendments",
+lawSupp,305,"Administrative Procedure, or Administrative Orders Review",
+lawSupp,306,Atomic Energy,
+lawSupp,307,"Bankruptcy Code, Bankruptcy Act or Rules, or Bankruptcy Reform Act of 1978",
+lawSupp,308,Medicaid provisions of the Social Security Act,
+lawSupp,309,Medicare provisions of the Social Security Act,
+lawSupp,310,Clayton,
+lawSupp,311,Reconstruction Civil Rights Acts (42 U.S.C. § 1978),
+lawSupp,312,Reconstruction Civil Rights Acts (42 U.S.C. § 1981),
+lawSupp,313,Reconstruction Civil Rights Acts (42 U.S.C. § 1982),
+lawSupp,314,Reconstruction Civil Rights Acts (42 U.S.C. § 1983),
+lawSupp,315,Reconstruction Civil Rights Acts (42 U.S.C. § 1985),
+lawSupp,316,Reconstruction Civil Rights Acts (42 U.S.C. § 1986),
+lawSupp,317,Civil Rights Act of 1964 (public accommodations),
+lawSupp,318,Civil Rights Act of 1957,
+lawSupp,319,Civil Rights Act of 1991,
+lawSupp,320,Statutory provisions of the District of Columbia,
+lawSupp,321,Equal Access to Justice,
+lawSupp,322,Education Amendments of 1972,
+lawSupp,323,"Employee Retirement Income Security, as amended",
+lawSupp,324,Elementary and Secondary Education,
+lawSupp,325,Federal False Claims,
+lawSupp,326,"Communication Act of 1934, as amended",
+lawSupp,327,Federal Employees' Compensation,
+lawSupp,328,Civil Rights Attorney's Fees Awards,
+lawSupp,329,"Federal Employers' Liability, as amended",
+lawSupp,330,Federal Election Campaign,
+lawSupp,331,Family Educational Rights and Privacy (Buckley Amendment),
+lawSupp,332,"Federal Food, Drug, and Cosmetic, and related statutes",
+lawSupp,333,"Federal Insecticide, Fungicide, and Rodenticide",
+lawSupp,334,Fair Labor Standards,
+lawSupp,335,"Freedom of Information, Sunshine, or Privacy Act",
+lawSupp,336,Federal Power,
+lawSupp,337,Federal Trade Commission,
+lawSupp,338,"Federal Water Pollution Control (Clean Water), plus amendments",
+lawSupp,339,"Omnibus Crime Control and Safe Streets, National Firearms, Organized Crime Control, Comprehensive Crime Control, or Gun Control Acts",
+lawSupp,340,"Education of the Handicapped, Education for All Handicapped Children, or Individuals with Disabilities Education Acts, or related statutes, as amended",
+lawSupp,341,28 U.S.C. § 2241-2255 (habeas corpus),
+lawSupp,342,Fair Housing,
+lawSupp,343,"Interstate Commerce, as amended",
+lawSupp,344,"Immigration and Naturalization, Immigration, Nationality, or Illegal Immigration Reform and Immigrant Responsibility Acts, as amended",
+lawSupp,345,Internal Revenue Code and pre-IRC revenue acts,
+lawSupp,346,Internal Security (also see 369),
+lawSupp,347,Jencks,
+lawSupp,348,"Jones, or Death on the High Seas",
+lawSupp,349,Longshoremen and Harbor Workers' Compensation,
+lawSupp,350,Labor-Management Relations,
+lawSupp,351,Labor-Management Reporting and Disclosure,
+lawSupp,352,Motor Carrier,
+lawSupp,353,Miller,
+lawSupp,354,National Environmental Policy,
+lawSupp,355,"Natural Gas, or Natural Gas Policy Acts",
+lawSupp,356,"National Labor Relations, as amended",
+lawSupp,357,Norris-LaGuardia,
+lawSupp,358,Occupational Safety and Health,
+lawSupp,359,Public Utility Regulatory Policy,
+lawSupp,360,Rehabilitation,
+lawSupp,361,Religious Freedom Restoration,
+lawSupp,362,Racketeer Influenced and Corrupt Organizations,
+lawSupp,363,Railway Labor,
+lawSupp,364,Robinson-Patman,
+lawSupp,365,"Securities Act of 1933, the Securities and Exchange Act of 1934, or the Williams Act",
+lawSupp,366,"Selective Service, Military Selective Service, or Universal Military Service and Training Acts",
+lawSupp,367,Sherman,
+lawSupp,368,Submerged Lands Acts,
+lawSupp,369,"Smith, Subversive Activities Control, Communist Control, or other similar federal legislation (also see 346)",
+lawSupp,370,"Social Security, as amended, including Social Security Disability Benefits Reform Act",
+lawSupp,371,Supplemental Security Income,
+lawSupp,372,State Law,
+lawSupp,373,Truth in Lending,
+lawSupp,374,"Federal Tort Claims, or Alien Tort Statute",
+lawSupp,375,Tucker,
+lawSupp,376,"Trading with the Enemy Act, as amended",
+lawSupp,377,Universal Code of Military Justice,
+lawSupp,378,"Voting Rights Act of 1965, plus amendments",
+lawSupp,379,Reconstruction Civil Rights Acts (42 U.S.C. § 1971),
+lawSupp,380,Reconstruction Civil Rights Acts (42 U.S.C. § 1999),
+lawSupp,381,Civil Rights Act of 1964 (Title II),
+lawSupp,382,Civil Rights Act of 1964 (Title IV),
+lawSupp,383,Civil Rights Act of 1964 (other),
+lawSupp,384,Civil Rights Act of 1964 (Title VII),
+lawSupp,385,Civil Rights Act of 1964 (Title IX),
+lawSupp,387,Civil Rights Act of 1964 (Title VI),
+lawSupp,388,Federal Arbitration Act,
+lawSupp,389,Judiciary Act of 1789,
+lawSupp,400,"Federal Rules of Civil Procedure, including Appellate Procedure, or relevant rules of a circuit court Judicial Code, and admiralty rules",
+lawSupp,401,"Federal Rules of Criminal Procedure, or relevant rules of a circuit court",
+lawSupp,402,Federal Rules of Evidence,
+lawSupp,403,Supreme Court Rules,
+lawSupp,500,Abstention Doctrine,
+lawSupp,501,Retroactive application of a constitutional right,
+lawSupp,502,Exclusionary Rule (Fourth Amendment),
+lawSupp,503,Exclusionary Rule (Right to Counsel),
+lawSupp,504,Exclusionary Rule (Miranda warnings),
+lawSupp,505,Harmless Error,
+lawSupp,506,Res Judicata,
+lawSupp,507,Estoppel,
+lawSupp,508,Writ Improvidently Granted,
+lawSupp,509,Treaty,
+lawSupp,510,Interstate Compact,
+lawSupp,511,Executive Order,
+lawSupp,512,Territory Statute,
+lawSupp,513,International Law,
+lawSupp,514,Emergency Price Control,
+lawSupp,600,Infrequently litigated statutes,
+lawSupp,800,State or Local Law Regulation,
+lawSupp,900,No Legal Provision,
+lawType,1,Constitution,
+lawType,2,Constitutional Amendment,
+lawType,3,Federal Statute,
+lawType,4,Court Rules,
+lawType,5,Other,
+lawType,6,Infrequently litigated statutes,
+lawType,8,State or local law or regulation,
+lawType,9,No Legal Provision,
+lcDisagreement,0,no mention that dissent occurred,
+lcDisagreement,1,dissent in ct whose dec the sct reviewed,
+lcDisposition,1,"stay, petition, or motion granted",
+lcDisposition,2,affirmed,
+lcDisposition,3,reversed,
+lcDisposition,4,reversed and remanded,
+lcDisposition,5,vacated and remanded,
+lcDisposition,6,affirmed and reversed (or vacated) in part,
+lcDisposition,7,affirmed and reversed (or vacated) in part and remanded,
+lcDisposition,8,vacated,
+lcDisposition,9,petition denied or appeal dismissed,
+lcDisposition,10,modify,
+lcDisposition,11,remand,
+lcDisposition,12,unusual disposition,
+lcDispositionDirection,1,conservative,
+lcDispositionDirection,2,liberal,
+lcDispositionDirection,3,unspecifiable,
+majOpinAssigner,1,JJay,"Jay, John ( 10/19/1789 - 06/29/1795 )"
+majOpinAssigner,2,JRutledge1,"Rutledge, John ( 02/15/1790 - 03/05/1791 )"
+majOpinAssigner,3,WCushing,"Cushing, William ( 02/02/1790 - 09/13/1810 )"
+majOpinAssigner,4,JWilson,"Wilson, James ( 10/05/1789 - 08/21/1798 )"
+majOpinAssigner,5,JBlair,"Blair, John ( 02/02/1790 - 01/27/1796 )"
+majOpinAssigner,6,JIredell,"Iredell, James ( 05/12/1790 - 10/20/1799 )"
+majOpinAssigner,7,TJohnson,"Johnson, Thomas ( 09/19/1791 - 02/22/1793 )"
+majOpinAssigner,8,WPaterson,"Paterson, William ( 03/11/1793 - 09/09/1806 )"
+majOpinAssigner,9,JRutledge2,"Rutledge, John ( 08/12/1795 - 12/15/1795 )"
+majOpinAssigner,10,SChase,"Chase, Samuel ( 02/04/1796 - 06/19/1811 )"
+majOpinAssigner,11,OEllsworth,"Ellsworth, Oliver ( 03/08/1796 - 12/15/1800 )"
+majOpinAssigner,12,BWashington,"Washington, Bushrod ( 11/09/1798 - 11/26/1829 )"
+majOpinAssigner,13,AMoore,"Moore, Alfred ( 04/21/1800 - 01/26/1804 )"
+majOpinAssigner,14,JMarshall,"Marshall, John ( 02/04/1801 - 07/06/1835 )"
+majOpinAssigner,15,WJohnson,"Johnson, William ( 05/07/1804 - 08/04/1834 )"
+majOpinAssigner,16,HBLivingston,"Livingston, Henry ( 01/20/1807 - 03/18/1823 )"
+majOpinAssigner,17,TTodd,"Todd, Thomas ( 05/04/1807 - 02/07/1826 )"
+majOpinAssigner,18,GDuvall,"Duvall, Gabriel ( 11/23/1811 - 01/14/1835 )"
+majOpinAssigner,19,JStory,"Story, Joseph ( 02/03/1812 - 09/10/1845 )"
+majOpinAssigner,20,SThompson,"Thompson, Smith ( 09/01/1823 - 12/18/1843 )"
+majOpinAssigner,21,RTrimble,"Trimble, Robert ( 06/16/1826 - 08/25/1828 )"
+majOpinAssigner,22,JMcLean,"McLean, John ( 01/11/1830 - 04/04/1861 )"
+majOpinAssigner,23,HBaldwin,"Baldwin, Henry ( 01/18/1830 - 04/21/1844 )"
+majOpinAssigner,24,JMWayne,"Wayne, James ( 01/14/1835 - 07/05/1867 )"
+majOpinAssigner,25,RBTaney,"Taney, Roger ( 03/28/1836 - 10/12/1864 )"
+majOpinAssigner,26,PPBarbour,"Barbour, Philip ( 05/12/1836 - 02/25/1841 )"
+majOpinAssigner,27,JCatron,"Catron, John ( 05/01/1837 - 05/30/1865 )"
+majOpinAssigner,28,JMcKinley,"McKinley, John ( 04/22/1837 - 07/19/1852 )"
+majOpinAssigner,29,PVDaniel,"Daniel, Peter ( 01/10/1842 - 05/31/1860 )"
+majOpinAssigner,30,SNelson,"Nelson, Samuel ( 02/27/1845 - 11/28/1872 )"
+majOpinAssigner,31,LWoodbury,"Woodbury, Levi ( 09/23/1845 - 09/04/1851 )"
+majOpinAssigner,32,RCGrier,"Grier, Robert ( 08/10/1846 - 01/31/1870 )"
+majOpinAssigner,33,BRCurtis,"Curtis, Benjamin ( 10/10/1851 - 09/30/1857 )"
+majOpinAssigner,34,JACampbell,"Campbell, John ( 04/11/1853 - 04/30/1861 )"
+majOpinAssigner,35,NClifford,"Clifford, Nathan ( 01/21/1858 - 07/25/1881 )"
+majOpinAssigner,36,NHSwayne,"Swayne, Noah ( 01/27/1862 - 01/24/1881 )"
+majOpinAssigner,37,SFMiller,"Miller, Samuel ( 07/21/1862 - 10/13/1890 )"
+majOpinAssigner,38,DDavis,"Davis, David ( 10/17/1862 - 03/04/1877 )"
+majOpinAssigner,39,SJField,"Field, Stephen ( 05/20/1863 - 12/01/1897 )"
+majOpinAssigner,40,SPChase,"Chase, Salmon ( 12/15/1864 - 05/07/1873 )"
+majOpinAssigner,41,WStrong,"Strong, William ( 03/14/1870 - 12/14/1880 )"
+majOpinAssigner,42,JPBradley,"Bradley, Joseph ( 03/21/1870 - 01/22/1892 )"
+majOpinAssigner,43,WHunt,"Hunt, Ward ( 01/09/1873 - 01/27/1882 )"
+majOpinAssigner,44,MRWaite,"Waite, Morrison ( 03/04/1874 - 04/03/1888 )"
+majOpinAssigner,45,JHarlan1,"Harlan, John ( 12/10/1877 - 10/14/1911 )"
+majOpinAssigner,46,WBWoods,"Woods, William ( 01/05/1881 - 05/14/1887 )"
+majOpinAssigner,47,SMatthews,"Matthews, Stanley ( 05/17/1881 - 03/22/1889 )"
+majOpinAssigner,48,HGray,"Gray, Horace ( 01/09/1882 - 09/15/1902 )"
+majOpinAssigner,49,SBlatchford,"Blatchford, Samuel ( 04/03/1882 - 07/07/1893 )"
+majOpinAssigner,50,LQLamar,"Lamar, Lucius ( 01/18/1888 - 01/23/1893 )"
+majOpinAssigner,51,MWFuller,"Fuller, Melville ( 10/08/1888 - 07/04/1910 )"
+majOpinAssigner,52,DJBrewer,"Brewer, David ( 01/06/1890 - 03/28/1910 )"
+majOpinAssigner,53,HBBrown,"Brown, Henry ( 01/05/1891 - 05/28/1906 )"
+majOpinAssigner,54,GShiras,"Shiras, George ( 10/10/1892 - 02/23/1903 )"
+majOpinAssigner,55,HEJackson,"Jackson, Howell ( 03/04/1893 - 08/08/1895 )"
+majOpinAssigner,56,EDEWhite,"White, Edward ( 03/12/1894 - 05/19/1921 )"
+majOpinAssigner,57,RWPeckham,"Peckham, Rufus ( 01/06/1896 - 10/24/1909 )"
+majOpinAssigner,58,JMcKenna,"McKenna, Joseph ( 01/26/1898 - 01/05/1925 )"
+majOpinAssigner,59,OWHolmes,"Holmes, Oliver ( 08/11/1902 - 01/12/1932 )"
+majOpinAssigner,60,WRDay,"Day, William ( 03/02/1903 - 11/13/1922 )"
+majOpinAssigner,61,WHMoody,"Moody, William ( 12/17/1906 - 11/20/1910 )"
+majOpinAssigner,62,HHLurton,"Lurton, Horace ( 01/03/1910 - 07/12/1914 )"
+majOpinAssigner,63,CEHughes1,"Hughes, Charles ( 10/10/1910 - 06/10/1916 )"
+majOpinAssigner,64,WVanDevanter,"Van Devanter, Willis ( 01/03/1911 - 06/02/1937 )"
+majOpinAssigner,65,JRLamar,"Lamar, Joseph ( 01/03/1911 - 01/02/1916 )"
+majOpinAssigner,66,MPitney,"Pitney, Mahlon ( 03/18/1912 - 12/31/1922 )"
+majOpinAssigner,67,JCMcReynolds,"McReynolds, James ( 10/12/1914 - 01/31/1941 )"
+majOpinAssigner,68,LDBrandeis,"Brandeis, Louis ( 06/05/1916 - 02/13/1939 )"
+majOpinAssigner,69,JHClarke,"Clarke, John ( 10/09/1916 - 09/18/1922 )"
+majOpinAssigner,70,WHTaft,"Taft, William ( 07/11/1921 - 02/03/1930 )"
+majOpinAssigner,71,GSutherland,"Sutherland, George ( 10/02/1922 - 01/17/1938 )"
+majOpinAssigner,72,PButler,"Butler, Pierce ( 01/02/1923 - 11/16/1939 )"
+majOpinAssigner,73,ETSanford,"Sanford, Edward ( 02/19/1923 - 03/08/1930 )"
+majOpinAssigner,74,HFStone,"Stone, Harlan ( 03/02/1925 - 04/22/1946 )"
+majOpinAssigner,75,CEHughes2,"Hughes, Charles ( 02/24/1930 - 07/01/1941 )"
+majOpinAssigner,76,OJRoberts,"Roberts, Owen ( 06/02/1930 - 07/31/1945 )"
+majOpinAssigner,77,BNCardozo,"Cardozo, Benjamin ( 03/14/1932 - 07/09/1938 )"
+majOpinAssigner,78,HLBlack,"Black, Hugo ( 08/19/1937 - 09/17/1971 )"
+majOpinAssigner,79,SFReed,"Reed, Stanley ( 01/31/1938 - 02/25/1957 )"
+majOpinAssigner,80,FFrankfurter,"Frankfurter, Felix ( 01/30/1939 - 08/28/1962 )"
+majOpinAssigner,81,WODouglas,"Douglas, William ( 04/17/1939 - 11/12/1975 )"
+majOpinAssigner,82,FMurphy,"Murphy, Francis ( 02/05/1940 - 07/19/1949 )"
+majOpinAssigner,83,JFByrnes,"Byrnes, James ( 07/08/1941 - 10/03/1942 )"
+majOpinAssigner,84,RHJackson,"Jackson, Robert ( 07/11/1941 - 10/09/1954 )"
+majOpinAssigner,85,WBRutledge,"Rutledge, Wiley ( 02/15/1943 - 09/10/1949 )"
+majOpinAssigner,86,HHBurton,"Burton, Harold ( 10/01/1945 - 10/13/1958 )"
+majOpinAssigner,87,FMVinson,"Vinson, Fred ( 06/24/1946 - 09/08/1953 )"
+majOpinAssigner,88,TCClark,"Clark, Tom ( 08/24/1949 - 06/12/1967 )"
+majOpinAssigner,89,SMinton,"Minton, Sherman ( 10/12/1949 - 10/15/1956 )"
+majOpinAssigner,90,EWarren,"Warren, Earl ( 10/05/1953 - 06/23/1969 )"
+majOpinAssigner,91,JHarlan2,"Harlan, John ( 03/28/1955 - 09/23/1971 )"
+majOpinAssigner,92,WJBrennan,"Brennan, William ( 10/16/1956 - 07/20/1990 )"
+majOpinAssigner,93,CEWhittaker,"Whittaker, Charles ( 03/25/1957 - 03/31/1962 )"
+majOpinAssigner,94,PStewart,"Stewart, Potter ( 10/14/1958 - 07/03/1981 )"
+majOpinAssigner,95,BRWhite,"White, Byron ( 04/16/1962 - 06/28/1993 )"
+majOpinAssigner,96,AJGoldberg,"Goldberg, Arthur ( 10/01/1962 - 07/25/1965 )"
+majOpinAssigner,97,AFortas,"Fortas, Abe ( 10/04/1965 - 05/14/1969 )"
+majOpinAssigner,98,TMarshall,"Marshall, Thurgood ( 10/02/1967 - 10/01/1991 )"
+majOpinAssigner,99,WEBurger,"Burger, Warren ( 06/23/1969 - 09/26/1986 )"
+majOpinAssigner,100,HABlackmun,"Blackmun, Harry ( 06/09/1970 - 08/03/1994 )"
+majOpinAssigner,101,LFPowell,"Powell, Lewis ( 01/07/1972 - 06/26/1987 )"
+majOpinAssigner,102,WHRehnquist,"Rehnquist, William ( 01/07/1972 - 09/03/2005 )"
+majOpinAssigner,103,JPStevens,"Stevens, John ( 12/19/1975 - 06/29/2010 )"
+majOpinAssigner,104,SDOConnor,"O'Connor, Sandra ( 09/25/1981 - 01/31/2006 )"
+majOpinAssigner,105,AScalia,"Scalia, Antonin ( 09/26/1986 - 02/13/2016 )"
+majOpinAssigner,106,AMKennedy,"Kennedy, Anthony ( 02/18/1988 - 07/31/2018 )"
+majOpinAssigner,107,DHSouter,"Souter, David ( 10/09/1990 - 06/29/2009 )"
+majOpinAssigner,108,CThomas,"Thomas, Clarence ( 10/23/1991 - 00/00/0000 )"
+majOpinAssigner,109,RBGinsburg,"Ginsburg, Ruth ( 08/10/1993 - 09/18/2020 )"
+majOpinAssigner,110,SGBreyer,"Breyer, Stephen ( 08/03/1994 - 06/30/2022 )"
+majOpinAssigner,111,JGRoberts,"Roberts, John ( 09/29/2005 - 00/00/0000 )"
+majOpinAssigner,112,SAAlito,"Alito, Samuel ( 01/31/2006 - 00/00/0000 )"
+majOpinAssigner,113,SSotomayor,"Sotomayor, Sonia ( 08/08/2009 - 00/00/0000 )"
+majOpinAssigner,114,EKagan,"Kagan, Elena ( 08/07/2010 - 00/00/0000 )"
+majOpinAssigner,115,NMGorsuch,"Gorsuch, Neil ( 04/08/2017 - 00/00/0000 )"
+majOpinAssigner,116,BMKavanaugh,"Kavanaugh, Brett ( 10/06/2018 - 00/00/0000 )"
+majOpinAssigner,117,ACBarrett,"Barrett, Amy ( 10/27/2020 - 00/00/0000 )"
+majOpinAssigner,118,KBJackson,"Jackson, Ketanji ( 06/30/2022 - 00/00/0000 )"
+majOpinWriter,1,JJay,"Jay, John ( 10/19/1789 - 06/29/1795 )"
+majOpinWriter,2,JRutledge1,"Rutledge, John ( 02/15/1790 - 03/05/1791 )"
+majOpinWriter,3,WCushing,"Cushing, William ( 02/02/1790 - 09/13/1810 )"
+majOpinWriter,4,JWilson,"Wilson, James ( 10/05/1789 - 08/21/1798 )"
+majOpinWriter,5,JBlair,"Blair, John ( 02/02/1790 - 01/27/1796 )"
+majOpinWriter,6,JIredell,"Iredell, James ( 05/12/1790 - 10/20/1799 )"
+majOpinWriter,7,TJohnson,"Johnson, Thomas ( 09/19/1791 - 02/22/1793 )"
+majOpinWriter,8,WPaterson,"Paterson, William ( 03/11/1793 - 09/09/1806 )"
+majOpinWriter,9,JRutledge2,"Rutledge, John ( 08/12/1795 - 12/15/1795 )"
+majOpinWriter,10,SChase,"Chase, Samuel ( 02/04/1796 - 06/19/1811 )"
+majOpinWriter,11,OEllsworth,"Ellsworth, Oliver ( 03/08/1796 - 12/15/1800 )"
+majOpinWriter,12,BWashington,"Washington, Bushrod ( 11/09/1798 - 11/26/1829 )"
+majOpinWriter,13,AMoore,"Moore, Alfred ( 04/21/1800 - 01/26/1804 )"
+majOpinWriter,14,JMarshall,"Marshall, John ( 02/04/1801 - 07/06/1835 )"
+majOpinWriter,15,WJohnson,"Johnson, William ( 05/07/1804 - 08/04/1834 )"
+majOpinWriter,16,HBLivingston,"Livingston, Henry ( 01/20/1807 - 03/18/1823 )"
+majOpinWriter,17,TTodd,"Todd, Thomas ( 05/04/1807 - 02/07/1826 )"
+majOpinWriter,18,GDuvall,"Duvall, Gabriel ( 11/23/1811 - 01/14/1835 )"
+majOpinWriter,19,JStory,"Story, Joseph ( 02/03/1812 - 09/10/1845 )"
+majOpinWriter,20,SThompson,"Thompson, Smith ( 09/01/1823 - 12/18/1843 )"
+majOpinWriter,21,RTrimble,"Trimble, Robert ( 06/16/1826 - 08/25/1828 )"
+majOpinWriter,22,JMcLean,"McLean, John ( 01/11/1830 - 04/04/1861 )"
+majOpinWriter,23,HBaldwin,"Baldwin, Henry ( 01/18/1830 - 04/21/1844 )"
+majOpinWriter,24,JMWayne,"Wayne, James ( 01/14/1835 - 07/05/1867 )"
+majOpinWriter,25,RBTaney,"Taney, Roger ( 03/28/1836 - 10/12/1864 )"
+majOpinWriter,26,PPBarbour,"Barbour, Philip ( 05/12/1836 - 02/25/1841 )"
+majOpinWriter,27,JCatron,"Catron, John ( 05/01/1837 - 05/30/1865 )"
+majOpinWriter,28,JMcKinley,"McKinley, John ( 04/22/1837 - 07/19/1852 )"
+majOpinWriter,29,PVDaniel,"Daniel, Peter ( 01/10/1842 - 05/31/1860 )"
+majOpinWriter,30,SNelson,"Nelson, Samuel ( 02/27/1845 - 11/28/1872 )"
+majOpinWriter,31,LWoodbury,"Woodbury, Levi ( 09/23/1845 - 09/04/1851 )"
+majOpinWriter,32,RCGrier,"Grier, Robert ( 08/10/1846 - 01/31/1870 )"
+majOpinWriter,33,BRCurtis,"Curtis, Benjamin ( 10/10/1851 - 09/30/1857 )"
+majOpinWriter,34,JACampbell,"Campbell, John ( 04/11/1853 - 04/30/1861 )"
+majOpinWriter,35,NClifford,"Clifford, Nathan ( 01/21/1858 - 07/25/1881 )"
+majOpinWriter,36,NHSwayne,"Swayne, Noah ( 01/27/1862 - 01/24/1881 )"
+majOpinWriter,37,SFMiller,"Miller, Samuel ( 07/21/1862 - 10/13/1890 )"
+majOpinWriter,38,DDavis,"Davis, David ( 10/17/1862 - 03/04/1877 )"
+majOpinWriter,39,SJField,"Field, Stephen ( 05/20/1863 - 12/01/1897 )"
+majOpinWriter,40,SPChase,"Chase, Salmon ( 12/15/1864 - 05/07/1873 )"
+majOpinWriter,41,WStrong,"Strong, William ( 03/14/1870 - 12/14/1880 )"
+majOpinWriter,42,JPBradley,"Bradley, Joseph ( 03/21/1870 - 01/22/1892 )"
+majOpinWriter,43,WHunt,"Hunt, Ward ( 01/09/1873 - 01/27/1882 )"
+majOpinWriter,44,MRWaite,"Waite, Morrison ( 03/04/1874 - 04/03/1888 )"
+majOpinWriter,45,JHarlan1,"Harlan, John ( 12/10/1877 - 10/14/1911 )"
+majOpinWriter,46,WBWoods,"Woods, William ( 01/05/1881 - 05/14/1887 )"
+majOpinWriter,47,SMatthews,"Matthews, Stanley ( 05/17/1881 - 03/22/1889 )"
+majOpinWriter,48,HGray,"Gray, Horace ( 01/09/1882 - 09/15/1902 )"
+majOpinWriter,49,SBlatchford,"Blatchford, Samuel ( 04/03/1882 - 07/07/1893 )"
+majOpinWriter,50,LQLamar,"Lamar, Lucius ( 01/18/1888 - 01/23/1893 )"
+majOpinWriter,51,MWFuller,"Fuller, Melville ( 10/08/1888 - 07/04/1910 )"
+majOpinWriter,52,DJBrewer,"Brewer, David ( 01/06/1890 - 03/28/1910 )"
+majOpinWriter,53,HBBrown,"Brown, Henry ( 01/05/1891 - 05/28/1906 )"
+majOpinWriter,54,GShiras,"Shiras, George ( 10/10/1892 - 02/23/1903 )"
+majOpinWriter,55,HEJackson,"Jackson, Howell ( 03/04/1893 - 08/08/1895 )"
+majOpinWriter,56,EDEWhite,"White, Edward ( 03/12/1894 - 05/19/1921 )"
+majOpinWriter,57,RWPeckham,"Peckham, Rufus ( 01/06/1896 - 10/24/1909 )"
+majOpinWriter,58,JMcKenna,"McKenna, Joseph ( 01/26/1898 - 01/05/1925 )"
+majOpinWriter,59,OWHolmes,"Holmes, Oliver ( 08/11/1902 - 01/12/1932 )"
+majOpinWriter,60,WRDay,"Day, William ( 03/02/1903 - 11/13/1922 )"
+majOpinWriter,61,WHMoody,"Moody, William ( 12/17/1906 - 11/20/1910 )"
+majOpinWriter,62,HHLurton,"Lurton, Horace ( 01/03/1910 - 07/12/1914 )"
+majOpinWriter,63,CEHughes1,"Hughes, Charles ( 10/10/1910 - 06/10/1916 )"
+majOpinWriter,64,WVanDevanter,"Van Devanter, Willis ( 01/03/1911 - 06/02/1937 )"
+majOpinWriter,65,JRLamar,"Lamar, Joseph ( 01/03/1911 - 01/02/1916 )"
+majOpinWriter,66,MPitney,"Pitney, Mahlon ( 03/18/1912 - 12/31/1922 )"
+majOpinWriter,67,JCMcReynolds,"McReynolds, James ( 10/12/1914 - 01/31/1941 )"
+majOpinWriter,68,LDBrandeis,"Brandeis, Louis ( 06/05/1916 - 02/13/1939 )"
+majOpinWriter,69,JHClarke,"Clarke, John ( 10/09/1916 - 09/18/1922 )"
+majOpinWriter,70,WHTaft,"Taft, William ( 07/11/1921 - 02/03/1930 )"
+majOpinWriter,71,GSutherland,"Sutherland, George ( 10/02/1922 - 01/17/1938 )"
+majOpinWriter,72,PButler,"Butler, Pierce ( 01/02/1923 - 11/16/1939 )"
+majOpinWriter,73,ETSanford,"Sanford, Edward ( 02/19/1923 - 03/08/1930 )"
+majOpinWriter,74,HFStone,"Stone, Harlan ( 03/02/1925 - 04/22/1946 )"
+majOpinWriter,75,CEHughes2,"Hughes, Charles ( 02/24/1930 - 07/01/1941 )"
+majOpinWriter,76,OJRoberts,"Roberts, Owen ( 06/02/1930 - 07/31/1945 )"
+majOpinWriter,77,BNCardozo,"Cardozo, Benjamin ( 03/14/1932 - 07/09/1938 )"
+majOpinWriter,78,HLBlack,"Black, Hugo ( 08/19/1937 - 09/17/1971 )"
+majOpinWriter,79,SFReed,"Reed, Stanley ( 01/31/1938 - 02/25/1957 )"
+majOpinWriter,80,FFrankfurter,"Frankfurter, Felix ( 01/30/1939 - 08/28/1962 )"
+majOpinWriter,81,WODouglas,"Douglas, William ( 04/17/1939 - 11/12/1975 )"
+majOpinWriter,82,FMurphy,"Murphy, Francis ( 02/05/1940 - 07/19/1949 )"
+majOpinWriter,83,JFByrnes,"Byrnes, James ( 07/08/1941 - 10/03/1942 )"
+majOpinWriter,84,RHJackson,"Jackson, Robert ( 07/11/1941 - 10/09/1954 )"
+majOpinWriter,85,WBRutledge,"Rutledge, Wiley ( 02/15/1943 - 09/10/1949 )"
+majOpinWriter,86,HHBurton,"Burton, Harold ( 10/01/1945 - 10/13/1958 )"
+majOpinWriter,87,FMVinson,"Vinson, Fred ( 06/24/1946 - 09/08/1953 )"
+majOpinWriter,88,TCClark,"Clark, Tom ( 08/24/1949 - 06/12/1967 )"
+majOpinWriter,89,SMinton,"Minton, Sherman ( 10/12/1949 - 10/15/1956 )"
+majOpinWriter,90,EWarren,"Warren, Earl ( 10/05/1953 - 06/23/1969 )"
+majOpinWriter,91,JHarlan2,"Harlan, John ( 03/28/1955 - 09/23/1971 )"
+majOpinWriter,92,WJBrennan,"Brennan, William ( 10/16/1956 - 07/20/1990 )"
+majOpinWriter,93,CEWhittaker,"Whittaker, Charles ( 03/25/1957 - 03/31/1962 )"
+majOpinWriter,94,PStewart,"Stewart, Potter ( 10/14/1958 - 07/03/1981 )"
+majOpinWriter,95,BRWhite,"White, Byron ( 04/16/1962 - 06/28/1993 )"
+majOpinWriter,96,AJGoldberg,"Goldberg, Arthur ( 10/01/1962 - 07/25/1965 )"
+majOpinWriter,97,AFortas,"Fortas, Abe ( 10/04/1965 - 05/14/1969 )"
+majOpinWriter,98,TMarshall,"Marshall, Thurgood ( 10/02/1967 - 10/01/1991 )"
+majOpinWriter,99,WEBurger,"Burger, Warren ( 06/23/1969 - 09/26/1986 )"
+majOpinWriter,100,HABlackmun,"Blackmun, Harry ( 06/09/1970 - 08/03/1994 )"
+majOpinWriter,101,LFPowell,"Powell, Lewis ( 01/07/1972 - 06/26/1987 )"
+majOpinWriter,102,WHRehnquist,"Rehnquist, William ( 01/07/1972 - 09/03/2005 )"
+majOpinWriter,103,JPStevens,"Stevens, John ( 12/19/1975 - 06/29/2010 )"
+majOpinWriter,104,SDOConnor,"O'Connor, Sandra ( 09/25/1981 - 01/31/2006 )"
+majOpinWriter,105,AScalia,"Scalia, Antonin ( 09/26/1986 - 02/13/2016 )"
+majOpinWriter,106,AMKennedy,"Kennedy, Anthony ( 02/18/1988 - 07/31/2018 )"
+majOpinWriter,107,DHSouter,"Souter, David ( 10/09/1990 - 06/29/2009 )"
+majOpinWriter,108,CThomas,"Thomas, Clarence ( 10/23/1991 - 00/00/0000 )"
+majOpinWriter,109,RBGinsburg,"Ginsburg, Ruth ( 08/10/1993 - 09/18/2020 )"
+majOpinWriter,110,SGBreyer,"Breyer, Stephen ( 08/03/1994 - 06/30/2022 )"
+majOpinWriter,111,JGRoberts,"Roberts, John ( 09/29/2005 - 00/00/0000 )"
+majOpinWriter,112,SAAlito,"Alito, Samuel ( 01/31/2006 - 00/00/0000 )"
+majOpinWriter,113,SSotomayor,"Sotomayor, Sonia ( 08/08/2009 - 00/00/0000 )"
+majOpinWriter,114,EKagan,"Kagan, Elena ( 08/07/2010 - 00/00/0000 )"
+majOpinWriter,115,NMGorsuch,"Gorsuch, Neil ( 04/08/2017 - 00/00/0000 )"
+majOpinWriter,116,BMKavanaugh,"Kavanaugh, Brett ( 10/06/2018 - 00/00/0000 )"
+majOpinWriter,117,ACBarrett,"Barrett, Amy ( 10/27/2020 - 00/00/0000 )"
+majOpinWriter,118,KBJackson,"Jackson, Ketanji ( 06/30/2022 - 00/00/0000 )"
+majority,1,dissent,
+majority,2,majority,
+naturalCourt,101,Jay 1,"October 05, 1789 - May 11, 1790"
+naturalCourt,102,Jay 2,"May 12, 1790 - August 05, 1792"
+naturalCourt,103,Jay 3,"August 06, 1792 - March 10, 1793"
+naturalCourt,104,Jay 4,"March 11, 1793 - August 11, 1795"
+naturalCourt,201,Rutledge 1,"August 12, 1795 - December 15, 1795"
+naturalCourt,202,No Chief (Post-Rutledge),"February 04, 1796 - March 07, 1796"
+naturalCourt,301,Ellsworth 1,"March 08, 1796 - November 08, 1798"
+naturalCourt,302,Ellsworth 2,"November 09, 1798 - April 20, 1800"
+naturalCourt,303,Ellsworth 3,"April 21, 1800 - February 03, 1801"
+naturalCourt,401,Marshall 1,"February 04, 1801 - May 06, 1804"
+naturalCourt,402,Marshall 2,"May 07, 1804 - January 19, 1807"
+naturalCourt,403,Marshall 3,"January 20, 1807 - May 03, 1807"
+naturalCourt,404,Marshall 4,"May 04, 1807 - November 22, 1811"
+naturalCourt,405,Marshall 5,"November 23, 1811 - February 02, 1812"
+naturalCourt,406,Marshall 6,"February 03, 1812 - August 31, 1823"
+naturalCourt,407,Marshall 7,"September 01, 1823 - June 15, 1826"
+naturalCourt,408,Marshall 8,"June 16, 1826 - January 10, 1830"
+naturalCourt,409,Marshall 9,"January 11, 1830 - January 13, 1835"
+naturalCourt,410,Marshall 10,"January 14, 1835 - March 27, 1836"
+naturalCourt,501,Taney 1,"March 28, 1836 - May 11, 1836"
+naturalCourt,502,Taney 2,"May 12, 1836 - April 30, 1837"
+naturalCourt,503,Taney 3,"May 01, 1837 - January 08, 1838"
+naturalCourt,504,Taney 4,"January 09, 1838 - January 09, 1842"
+naturalCourt,505,Taney 5,"January 10, 1842 - February 26, 1845"
+naturalCourt,506,Taney 6,"February 27, 1845 - September 22, 1845"
+naturalCourt,507,Taney 7,"September 23, 1845 - August 09, 1846"
+naturalCourt,508,Taney 8,"August 10, 1846 - October 09, 1851"
+naturalCourt,509,Taney 9,"October 10, 1851 - April 10, 1853"
+naturalCourt,510,Taney 10,"April 11, 1853 - January 20, 1858"
+naturalCourt,511,Taney 11,"January 21, 1858 - January 26, 1862"
+naturalCourt,512,Taney 12,"January 27, 1862 - July 20, 1862"
+naturalCourt,513,Taney 13,"July 21, 1862 - December 09, 1862"
+naturalCourt,514,Taney 14,"December 10, 1862 - May 19, 1863"
+naturalCourt,515,Taney 15,"May 20, 1863 - December 14, 1864"
+naturalCourt,601,Chase 1,"December 15, 1864 - March 13, 1870"
+naturalCourt,602,Chase 2,"March 14, 1870 - January 08, 1873"
+naturalCourt,603,Chase 3,"January 09, 1873 - March 03, 1874"
+naturalCourt,701,Waite 1,"March 04, 1874 - December 09, 1877"
+naturalCourt,702,Waite 2,"December 10, 1877 - January 04, 1881"
+naturalCourt,703,Waite 3,"January 05, 1881 - May 16, 1881"
+naturalCourt,704,Waite 4,"May 17, 1881 - January 08, 1882"
+naturalCourt,705,Waite 5,"January 09, 1882 - April 02, 1882"
+naturalCourt,706,Waite 6,"April 03, 1882 - January 17, 1888"
+naturalCourt,707,Waite 7,"January 18, 1888 - October 07, 1888"
+naturalCourt,801,Fuller 1,"October 08, 1888 - January 05, 1890"
+naturalCourt,802,Fuller 2,"January 06, 1890 - January 04, 1891"
+naturalCourt,803,Fuller 3,"January 05, 1891 - October 09, 1892"
+naturalCourt,804,Fuller 4,"October 10, 1892 - March 03, 1893"
+naturalCourt,805,Fuller 5,"March 04, 1893 - March 11, 1894"
+naturalCourt,806,Fuller 6,"March 12, 1894 - January 05, 1896"
+naturalCourt,807,Fuller 7,"January 06, 1896 - January 25, 1898"
+naturalCourt,808,Fuller 8,"January 26, 1898 - December 07, 1902"
+naturalCourt,809,Fuller 9,"December 08, 1902 - March 01, 1903"
+naturalCourt,810,Fuller 10,"March 02, 1903 - December 16, 1906"
+naturalCourt,811,Fuller 11,"December 17, 1906 - January 02, 1910"
+naturalCourt,812,Fuller 12,"January 03, 1910 - October 09, 1910"
+naturalCourt,813,No Chief (Post-Fuller),"October 10, 1910 - December 18, 1910"
+naturalCourt,901,White 1,"December 19, 1910 - March 17, 1912"
+naturalCourt,902,White 2,"March 18, 1912 - October 11, 1914"
+naturalCourt,903,White 3,"October 12, 1914 - June 04, 1916"
+naturalCourt,904,White 4,"June 05, 1916 - October 08, 1916"
+naturalCourt,905,White 5,"October 09, 1916 - July 10, 1921"
+naturalCourt,1001,Taft 1,"July 11, 1921 - October 01, 1922"
+naturalCourt,1002,Taft 2,"October 02, 1922 - January 01, 1923"
+naturalCourt,1003,Taft 3,"January 02, 1923 - February 18, 1923"
+naturalCourt,1004,Taft 4,"February 19, 1923 - March 01, 1925"
+naturalCourt,1005,Taft 5,"March 02, 1925 - February 23, 1930"
+naturalCourt,1101,Hughes 1,"February 24, 1930 - June 01, 1930"
+naturalCourt,1102,Hughes 2,"June 02, 1930 - March 13, 1932"
+naturalCourt,1103,Hughes 3,"March 14, 1932 - August 18, 1937"
+naturalCourt,1104,Hughes 4,"August 19, 1937 - January 30, 1938"
+naturalCourt,1105,Hughes 5,"January 31, 1938 - January 29, 1939"
+naturalCourt,1106,Hughes 6,"January 30, 1939 - April 16, 1939"
+naturalCourt,1107,Hughes 7,"April 17, 1939 - February 04, 1940"
+naturalCourt,1108,Hughes 8,"February 05, 1940 - July 02, 1941"
+naturalCourt,1201,Stone 1,"July 03, 1941 - February 15, 1943"
+naturalCourt,1202,Stone 2,"February 16, 1943 - September 30, 1945"
+naturalCourt,1203,Stone 3,"October 01, 1945 - June 23, 1946"
+naturalCourt,1301,Vinson 1,"June 24, 1946 - August 23, 1949"
+naturalCourt,1302,Vinson 2,"August 24, 1949 - October 11, 1949"
+naturalCourt,1303,Vinson 3,"October 12, 1949 - October 04, 1953"
+naturalCourt,1401,Warren 1,"October 05, 1953 - October 08, 1954"
+naturalCourt,1402,Warren 2,"October 09, 1954 - March 27, 1955"
+naturalCourt,1403,Warren 3,"March 28, 1955 - October 15, 1956"
+naturalCourt,1404,Warren 4,"October 16, 1956 - February 24, 1957"
+naturalCourt,1405,Warren 5,"February 25, 1957 - October 13, 1958"
+naturalCourt,1406,Warren 6,"October 14, 1958 - March 24, 1962"
+naturalCourt,1407,Warren 7,"March 25, 1962 - September 30, 1962"
+naturalCourt,1408,Warren 8,"October 01, 1962 - October 03, 1965"
+naturalCourt,1409,Warren 9,"October 04, 1965 - October 01, 1967"
+naturalCourt,1410,Warren 10,"October 02, 1967 - May 13, 1969"
+naturalCourt,1411,Warren 11,"May 14, 1969 - June 22, 1969"
+naturalCourt,1501,Burger 1,"June 23, 1969 - June 08, 1970"
+naturalCourt,1502,Burger 2,"June 09, 1970 - September 22, 1971"
+naturalCourt,1503,Burger 3,"September 23, 1971 - January 06, 1972"
+naturalCourt,1504,Burger 4,"January 07, 1972 - November 11, 1975"
+naturalCourt,1505,Burger 5,"November 12, 1975 - December 18, 1975"
+naturalCourt,1506,Burger 6,"December 19, 1975 - September 24, 1981"
+naturalCourt,1507,Burger 7,"September 25, 1981 - September 25, 1986"
+naturalCourt,1601,Rehnquist 1,"September 26, 1986 - June 25, 1987"
+naturalCourt,1602,Rehnquist 2,"June 26, 1987 - February 17, 1988"
+naturalCourt,1603,Rehnquist 3,"February 18, 1988 - September 30, 1990"
+naturalCourt,1604,Rehnquist 4,"October 01, 1990 - October 06, 1991"
+naturalCourt,1605,Rehnquist 5,"October 07, 1991 - August 09, 1993"
+naturalCourt,1606,Rehnquist 6,"August 10, 1993 - August 02, 1994"
+naturalCourt,1607,Rehnquist 7,"August 03, 1994 - September 28, 2005"
+naturalCourt,1701,Roberts 1,"September 29, 2005 - January 30, 2006"
+naturalCourt,1702,Roberts 2,"January 31, 2006 - August 08, 2009"
+naturalCourt,1703,Roberts 3,"August 09, 2009 - August 06, 2010"
+naturalCourt,1704,Roberts 4,"August 07, 2010 - February 13, 2016"
+naturalCourt,1705,Roberts 5,"February 14, 2016 - April 09, 2017"
+naturalCourt,1706,Roberts 6,"April 10, 2017 - October 05, 2018"
+naturalCourt,1707,Roberts 7,"October 06, 2018 - September 18, 2020"
+naturalCourt,1708,Roberts 8,"September 19, 2020 - October 26, 2020"
+naturalCourt,1709,Roberts 9,"October 27, 2020 - June 29, 2022"
+naturalCourt,1710,Roberts 10,"June 30, 2022 -"
+opinion,1,justice wrote no opinion,
+opinion,2,justice wrote an opinion,
+opinion,3,justice co-authored an opinion,
+partyWinning,0,no favorable disposition for petitioning party apparent,
+partyWinning,1,petitioning party received a favorable disposition,
+partyWinning,2,favorable disposition for petitioning party unclear,
+petitioner,1,"attorney general of the United States, or his office",
+petitioner,2,specified state board or department of education,
+petitioner,3,"city, town, township, village, or borough government or governmental unit",
+petitioner,4,"state commission, board, committee, or authority",
+petitioner,5,"county government or county governmental unit, except school district",
+petitioner,6,court or judicial district,
+petitioner,7,state department or agency,
+petitioner,8,governmental employee or job applicant,
+petitioner,9,female governmental employee or job applicant,
+petitioner,10,minority governmental employee or job applicant,
+petitioner,11,minority female governmental employee or job applicant,
+petitioner,12,not listed among agencies in the first Administrative Action variable,
+petitioner,13,retired or former governmental employee,
+petitioner,14,U.S. House of Representatives,
+petitioner,15,interstate compact,
+petitioner,16,judge,
+petitioner,17,"state legislature, house, or committee",
+petitioner,18,"local governmental unit other than a county, city, town, township, village, or borough",
+petitioner,19,"governmental official, or an official of an agency established under an interstate compact",
+petitioner,20,state or U.S. supreme court,
+petitioner,21,local school district or board of education,
+petitioner,22,U.S. Senate,
+petitioner,23,U.S. senator,
+petitioner,24,foreign nation or instrumentality,
+petitioner,25,"state or local governmental taxpayer, or executor of the estate of",
+petitioner,26,state college or university,
+petitioner,27,United States,
+petitioner,28,State,
+petitioner,100,"person accused, indicted, or suspected of crime",
+petitioner,101,advertising business or agency,
+petitioner,102,"agent, fiduciary, trustee, or executor",
+petitioner,103,"airplane manufacturer, or manufacturer of parts of airplanes",
+petitioner,104,airline,
+petitioner,105,"distributor, importer, or exporter of alcoholic beverages",
+petitioner,106,"alien, person subject to a denaturalization proceeding, or one whose citizenship is revoked",
+petitioner,107,American Medical Association,
+petitioner,108,National Railroad Passenger Corp.,
+petitioner,109,"amusement establishment, or recreational facility",
+petitioner,110,"arrested person, or pretrial detainee",
+petitioner,111,"attorney, or person acting as such;includes bar applicant or law student, or law firm or bar association",
+petitioner,112,"author, copyright holder",
+petitioner,113,"bank, savings and loan, credit union, investment company",
+petitioner,114,"bankrupt person or business, or business in reorganization",
+petitioner,115,"establishment serving liquor by the glass, or package liquor store",
+petitioner,116,"water transportation, stevedore",
+petitioner,117,"bookstore, newsstand, printer, bindery, purveyor or distributor of books or magazines",
+petitioner,118,"brewery, distillery",
+petitioner,119,"broker, stock exchange, investment or securities firm",
+petitioner,120,construction industry,
+petitioner,121,bus or motorized passenger transportation vehicle,
+petitioner,122,"business, corporation",
+petitioner,123,"buyer, purchaser",
+petitioner,124,cable TV,
+petitioner,125,car dealer,
+petitioner,126,person convicted of crime,
+petitioner,127,"tangible property, other than real estate, including contraband",
+petitioner,128,chemical company,
+petitioner,129,"child, children, including adopted or illegitimate",
+petitioner,130,"religious organization, institution, or person",
+petitioner,131,private club or facility,
+petitioner,132,coal company or coal mine operator,
+petitioner,133,"computer business or manufacturer, hardware or software",
+petitioner,134,"consumer, consumer organization",
+petitioner,135,"creditor, including institution appearing as such; e.g., a finance company",
+petitioner,136,person allegedly criminally insane or mentally incompetent to stand trial,
+petitioner,137,defendant,
+petitioner,138,debtor,
+petitioner,139,real estate developer,
+petitioner,140,disabled person or disability benefit claimant,
+petitioner,141,distributor,
+petitioner,142,"person subject to selective service, including conscientious objector",
+petitioner,143,drug manufacturer,
+petitioner,144,"druggist, pharmacist, pharmacy",
+petitioner,145,"employee, or job applicant, including beneficiaries of",
+petitioner,146,"employer-employee trust agreement, employee health and welfare fund, or multi-employer pension plan",
+petitioner,147,electric equipment manufacturer,
+petitioner,148,"electric or hydroelectric power utility, power cooperative, or gas and electric company",
+petitioner,149,eleemosynary institution or person,
+petitioner,150,environmental organization,
+petitioner,151,"employer. If employer's relations with employees are governed by the nature of the employer's business (e.g., railroad, boat), rather than labor law generally, the more specific designation is used in place of Employer.",
+petitioner,152,"farmer, farm worker, or farm organization",
+petitioner,153,father,
+petitioner,154,female employee or job applicant,
+petitioner,155,female,
+petitioner,156,"movie, play, pictorial representation, theatrical production, actor, or exhibitor or distributor of",
+petitioner,157,fisherman or fishing company,
+petitioner,158,"food, meat packing, or processing company, stockyard",
+petitioner,159,foreign (non-American) nongovernmental entity,
+petitioner,160,franchiser,
+petitioner,161,franchisee,
+petitioner,162,"lesbian, gay, bisexual, transexual person or organization",
+petitioner,163,person who guarantees another's obligations,
+petitioner,164,"handicapped individual, or organization of devoted to",
+petitioner,165,"health organization or person, nursing home, medical clinic or laboratory, chiropractor",
+petitioner,166,"heir, or beneficiary, or person so claiming to be",
+petitioner,167,"hospital, medical center",
+petitioner,168,"husband, or ex-husband",
+petitioner,169,involuntarily committed mental patient,
+petitioner,170,"Indian, including Indian tribe or nation",
+petitioner,171,"insurance company, or surety",
+petitioner,172,"inventor, patent assigner, trademark owner or holder",
+petitioner,173,investor,
+petitioner,174,"injured person or legal entity, nonphysically and non-employment related",
+petitioner,175,juvenile,
+petitioner,176,government contractor,
+petitioner,177,"holder of a license or permit, or applicant therefor",
+petitioner,178,magazine,
+petitioner,179,male,
+petitioner,180,medical or Medicaid claimant,
+petitioner,181,medical supply or manufacturing co.,
+petitioner,182,racial or ethnic minority employee or job applicant,
+petitioner,183,minority female employee or job applicant,
+petitioner,184,manufacturer,
+petitioner,185,"management, executive officer, or director, of business entity",
+petitioner,186,"military personnel, or dependent of, including reservist",
+petitioner,187,"mining company or miner, excluding coal, oil, or pipeline company",
+petitioner,188,mother,
+petitioner,189,auto manufacturer,
+petitioner,190,"newspaper, newsletter, journal of opinion, news service",
+petitioner,191,"radio and television network, except cable tv",
+petitioner,192,nonprofit organization or business,
+petitioner,193,nonresident,
+petitioner,194,nuclear power plant or facility,
+petitioner,195,"owner, landlord, or claimant to ownership, fee interest, or possession of land as well as chattels",
+petitioner,196,shareholders to whom a tender offer is made,
+petitioner,197,tender offer,
+petitioner,198,"oil company, or natural gas producer",
+petitioner,199,"elderly person, or organization dedicated to the elderly",
+petitioner,200,out of state noncriminal defendant,
+petitioner,201,political action committee,
+petitioner,202,parent or parents,
+petitioner,203,parking lot or service,
+petitioner,204,patient of a health professional,
+petitioner,205,"telephone, telecommunications, or telegraph company",
+petitioner,206,"physician, MD or DO, dentist, or medical society",
+petitioner,207,public interest organization,
+petitioner,208,"physically injured person, including wrongful death, who is not an employee",
+petitioner,209,pipe line company,
+petitioner,210,"package, luggage, container",
+petitioner,211,"political candidate, activist, committee, party, party member, organization, or elected official",
+petitioner,212,"indigent, needy, welfare recipient",
+petitioner,213,indigent defendant,
+petitioner,214,private person,
+petitioner,215,"prisoner, inmate of penal institution",
+petitioner,216,"professional organization, business, or person",
+petitioner,217,"probationer, or parolee",
+petitioner,218,"protester, demonstrator, picketer or pamphleteer (non-employment related), or non-indigent loiterer",
+petitioner,219,public utility,
+petitioner,220,"publisher, publishing company",
+petitioner,221,radio station,
+petitioner,222,racial or ethnic minority,
+petitioner,223,person or organization protesting racial or ethnic segregation or discrimination,
+petitioner,224,racial or ethnic minority student or applicant for admission to an educational institution,
+petitioner,225,realtor,
+petitioner,226,"journalist, columnist, member of the news media",
+petitioner,227,resident,
+petitioner,228,"restaurant, food vendor",
+petitioner,229,"retarded person, or mental incompetent",
+petitioner,230,retired or former employee,
+petitioner,231,railroad,
+petitioner,232,"private school, college, or university",
+petitioner,233,seller or vendor,
+petitioner,234,"shipper, including importer and exporter",
+petitioner,235,"shopping center, mall",
+petitioner,236,"spouse, or former spouse",
+petitioner,237,"stockholder, shareholder, or bondholder",
+petitioner,238,retail business or outlet,
+petitioner,239,"student, or applicant for admission to an educational institution",
+petitioner,240,"taxpayer or executor of taxpayer's estate, federal only",
+petitioner,241,tenant or lessee,
+petitioner,242,"theater, studio",
+petitioner,243,"forest products, lumber, or logging company",
+petitioner,244,"person traveling or wishing to travel abroad, or overseas travel agent",
+petitioner,245,"trucking company, or motor carrier",
+petitioner,246,television station,
+petitioner,247,union member,
+petitioner,248,unemployed person or unemployment compensation applicant or claimant,
+petitioner,249,"union, labor organization, or official of",
+petitioner,250,veteran,
+petitioner,251,"voter, prospective voter, elector, or a nonelective official seeking reapportionment or redistricting of legislative districts (POL)",
+petitioner,252,wholesale trade,
+petitioner,253,"wife, or ex-wife",
+petitioner,254,"witness, or person under subpoena",
+petitioner,255,network,
+petitioner,256,slave,
+petitioner,257,slave-owner,
+petitioner,258,bank of the united states,
+petitioner,259,timber company,
+petitioner,260,u.s. job applicants or employees,
+petitioner,301,Army and Air Force Exchange Service,
+petitioner,302,Atomic Energy Commission,
+petitioner,303,Secretary or administrative unit or personnel of the U.S. Air Force,
+petitioner,304,Department or Secretary of Agriculture,
+petitioner,305,Alien Property Custodian,
+petitioner,306,Secretary or administrative unit or personnel of the U.S. Army,
+petitioner,307,Board of Immigration Appeals,
+petitioner,308,Bureau of Indian Affairs,
+petitioner,310,Bonneville Power Administration,
+petitioner,311,Benefits Review Board,
+petitioner,312,Civil Aeronautics Board,
+petitioner,313,Bureau of the Census,
+petitioner,314,Central Intelligence Agency,
+petitioner,315,Commodity Futures Trading Commission,
+petitioner,316,Department or Secretary of Commerce,
+petitioner,317,Comptroller of Currency,
+petitioner,318,Consumer Product Safety Commission,
+petitioner,319,Civil Rights Commission,
+petitioner,320,"Civil Service Commission, U.S.",
+petitioner,321,Customs Service or Commissioner of Customs,
+petitioner,322,Defense Base Closure and REalignment Commission,
+petitioner,323,Drug Enforcement Agency,
+petitioner,324,Department or Secretary of Defense (and Department or Secretary of War),
+petitioner,325,Department or Secretary of Energy,
+petitioner,326,Department or Secretary of the Interior,
+petitioner,327,Department of Justice or Attorney General,
+petitioner,328,Department or Secretary of State,
+petitioner,329,Department or Secretary of Transportation,
+petitioner,330,Department or Secretary of Education,
+petitioner,331,"U.S. Employees' Compensation Commission, or Commissioner",
+petitioner,332,Equal Employment Opportunity Commission,
+petitioner,333,Environmental Protection Agency or Administrator,
+petitioner,334,Federal Aviation Agency or Administration,
+petitioner,335,Federal Bureau of Investigation or Director,
+petitioner,336,Federal Bureau of Prisons,
+petitioner,337,Farm Credit Administration,
+petitioner,338,"Federal Communications Commission (including a predecessor, Federal Radio Commission)",
+petitioner,339,Federal Credit Union Administration,
+petitioner,340,Food and Drug Administration,
+petitioner,341,Federal Deposit Insurance Corporation,
+petitioner,342,Federal Energy Administration,
+petitioner,343,Federal Election Commission,
+petitioner,344,Federal Energy Regulatory Commission,
+petitioner,345,Federal Housing Administration,
+petitioner,346,Federal Home Loan Bank Board,
+petitioner,347,Federal Labor Relations Authority,
+petitioner,348,Federal Maritime Board,
+petitioner,349,Federal Maritime Commission,
+petitioner,350,Farmers Home Administration,
+petitioner,351,Federal Parole Board,
+petitioner,352,Federal Power Commission,
+petitioner,353,Federal Railroad Administration,
+petitioner,354,Federal Reserve Board of Governors,
+petitioner,355,Federal Reserve System,
+petitioner,356,Federal Savings and Loan Insurance Corporation,
+petitioner,357,Federal Trade Commission,
+petitioner,358,"Federal Works Administration, or Administrator",
+petitioner,359,General Accounting Office,
+petitioner,360,Comptroller General,
+petitioner,361,General Services Administration,
+petitioner,362,"Department or Secretary of Health, Education and Welfare",
+petitioner,363,Department or Secretary of Health and Human Services,
+petitioner,364,Department or Secretary of Housing and Urban Development,
+petitioner,366,Interstate Commerce Commission,
+petitioner,367,Indian Claims Commission,
+petitioner,368,"Immigration and Naturalization Service, or Director of, or District Director of, or Immigration and Naturalization Enforcement",
+petitioner,369,"Internal Revenue Service, Collector, Commissioner, or District Director of",
+petitioner,370,Information Security Oversight Office,
+petitioner,371,Department or Secretary of Labor,
+petitioner,372,Loyalty Review Board,
+petitioner,373,Legal Services Corporation,
+petitioner,374,Merit Systems Protection Board,
+petitioner,375,Multistate Tax Commission,
+petitioner,376,National Aeronautics and Space Administration,
+petitioner,377,Secretary or administrative unit of the U.S. Navy,
+petitioner,378,National Credit Union Administration,
+petitioner,379,National Endowment for the Arts,
+petitioner,380,National Enforcement Commission,
+petitioner,381,National Highway Traffic Safety Administration,
+petitioner,382,"National Labor Relations Board, or regional office or officer",
+petitioner,383,National Mediation Board,
+petitioner,384,National Railroad Adjustment Board,
+petitioner,385,Nuclear Regulatory Commission,
+petitioner,386,National Security Agency,
+petitioner,387,Office of Economic Opportunity,
+petitioner,388,Office of Management and Budget,
+petitioner,389,"Office of Price Administration, or Price Administrator",
+petitioner,390,Office of Personnel Management,
+petitioner,391,Occupational Safety and Health Administration,
+petitioner,392,Occupational Safety and Health Review Commission,
+petitioner,393,Office of Workers' Compensation Programs,
+petitioner,394,"Patent Office, or Commissioner of, or Board of Appeals of",
+petitioner,395,Pay Board (established under the Economic Stabilization Act of 1970),
+petitioner,396,Pension Benefit Guaranty Corporation,
+petitioner,397,U.S. Public Health Service,
+petitioner,398,Postal Rate Commission,
+petitioner,399,Provider Reimbursement Review Board,
+petitioner,400,Renegotiation Board,
+petitioner,401,Railroad Adjustment Board,
+petitioner,402,Railroad Retirement Board,
+petitioner,403,Subversive Activities Control Board,
+petitioner,404,Small Business Administration,
+petitioner,405,Securities and Exchange Commission,
+petitioner,406,Social Security Administration or Commissioner,
+petitioner,407,Selective Service System,
+petitioner,408,Department or Secretary of the Treasury,
+petitioner,409,Tennessee Valley Authority,
+petitioner,410,United States Forest Service,
+petitioner,411,United States Parole Commission,
+petitioner,412,"Postal Service and Post Office, or Postmaster General, or Postmaster",
+petitioner,413,United States Sentencing Commission,
+petitioner,414,Veterans' Administration,
+petitioner,415,War Production Board,
+petitioner,416,Wage Stabilization Board,
+petitioner,417,General Land Office of Commissioners,
+petitioner,418,Transportation Security Administration,
+petitioner,419,Surface Transportation Board,
+petitioner,420,U.S. Shipping Board Emergency Fleet Corp.,
+petitioner,421,Reconstruction Finance Corp.,
+petitioner,422,Department or Secretary of Homeland Security,
+petitioner,501,Unidentifiable,
+petitioner,600,International Entity,
+petitionerState,1,Alabama,
+petitionerState,2,Alaska,
+petitionerState,3,American Samoa,
+petitionerState,4,Arizona,
+petitionerState,5,Arkansas,
+petitionerState,6,California,
+petitionerState,7,Colorado,
+petitionerState,8,Connecticut,
+petitionerState,9,Delaware,
+petitionerState,10,District of Columbia,
+petitionerState,11,Federated States of Micronesia,
+petitionerState,12,Florida,
+petitionerState,13,Georgia,
+petitionerState,14,Guam,
+petitionerState,15,Hawaii,
+petitionerState,16,Idaho,
+petitionerState,17,Illinois,
+petitionerState,18,Indiana,
+petitionerState,19,Iowa,
+petitionerState,20,Kansas,
+petitionerState,21,Kentucky,
+petitionerState,22,Louisiana,
+petitionerState,23,Maine,
+petitionerState,24,Marshall Islands,
+petitionerState,25,Maryland,
+petitionerState,26,Massachusetts,
+petitionerState,27,Michigan,
+petitionerState,28,Minnesota,
+petitionerState,29,Mississippi,
+petitionerState,30,Missouri,
+petitionerState,31,Montana,
+petitionerState,32,Nebraska,
+petitionerState,33,Nevada,
+petitionerState,34,New Hampshire,
+petitionerState,35,New Jersey,
+petitionerState,36,New Mexico,
+petitionerState,37,New York,
+petitionerState,38,North Carolina,
+petitionerState,39,North Dakota,
+petitionerState,40,Northern Mariana Islands,
+petitionerState,41,Ohio,
+petitionerState,42,Oklahoma,
+petitionerState,43,Oregon,
+petitionerState,44,Palau,
+petitionerState,45,Pennsylvania,
+petitionerState,46,Puerto Rico,
+petitionerState,47,Rhode Island,
+petitionerState,48,South Carolina,
+petitionerState,49,South Dakota,
+petitionerState,50,Tennessee,
+petitionerState,51,Texas,
+petitionerState,52,Utah,
+petitionerState,53,Vermont,
+petitionerState,54,Virgin Islands,
+petitionerState,55,Virginia,
+petitionerState,56,Washington,
+petitionerState,57,West Virginia,
+petitionerState,58,Wisconsin,
+petitionerState,59,Wyoming,
+petitionerState,60,United States,
+petitionerState,61,Interstate Compact,
+petitionerState,62,Philippines,
+petitionerState,63,Indian,
+petitionerState,64,Dakota,
+precedentAlteration,0,no determinable alteration of precedent,
+precedentAlteration,1,precedent altered,
+respondent,1,"attorney general of the United States, or his office",
+respondent,2,specified state board or department of education,
+respondent,3,"city, town, township, village, or borough government or governmental unit",
+respondent,4,"state commission, board, committee, or authority",
+respondent,5,"county government or county governmental unit, except school district",
+respondent,6,court or judicial district,
+respondent,7,state department or agency,
+respondent,8,governmental employee or job applicant,
+respondent,9,female governmental employee or job applicant,
+respondent,10,minority governmental employee or job applicant,
+respondent,11,minority female governmental employee or job applicant,
+respondent,12,not listed among agencies in the first Administrative Action variable,
+respondent,13,retired or former governmental employee,
+respondent,14,U.S. House of Representatives,
+respondent,15,interstate compact,
+respondent,16,judge,
+respondent,17,"state legislature, house, or committee",
+respondent,18,"local governmental unit other than a county, city, town, township, village, or borough",
+respondent,19,"governmental official, or an official of an agency established under an interstate compact",
+respondent,20,state or U.S. supreme court,
+respondent,21,local school district or board of education,
+respondent,22,U.S. Senate,
+respondent,23,U.S. senator,
+respondent,24,foreign nation or instrumentality,
+respondent,25,"state or local governmental taxpayer, or executor of the estate of",
+respondent,26,state college or university,
+respondent,27,United States,
+respondent,28,State,
+respondent,100,"person accused, indicted, or suspected of crime",
+respondent,101,advertising business or agency,
+respondent,102,"agent, fiduciary, trustee, or executor",
+respondent,103,"airplane manufacturer, or manufacturer of parts of airplanes",
+respondent,104,airline,
+respondent,105,"distributor, importer, or exporter of alcoholic beverages",
+respondent,106,"alien, person subject to a denaturalization proceeding, or one whose citizenship is revoked",
+respondent,107,American Medical Association,
+respondent,108,National Railroad Passenger Corp.,
+respondent,109,"amusement establishment, or recreational facility",
+respondent,110,"arrested person, or pretrial detainee",
+respondent,111,"attorney, or person acting as such;includes bar applicant or law student, or law firm or bar association",
+respondent,112,"author, copyright holder",
+respondent,113,"bank, savings and loan, credit union, investment company",
+respondent,114,"bankrupt person or business, or business in reorganization",
+respondent,115,"establishment serving liquor by the glass, or package liquor store",
+respondent,116,"water transportation, stevedore",
+respondent,117,"bookstore, newsstand, printer, bindery, purveyor or distributor of books or magazines",
+respondent,118,"brewery, distillery",
+respondent,119,"broker, stock exchange, investment or securities firm",
+respondent,120,construction industry,
+respondent,121,bus or motorized passenger transportation vehicle,
+respondent,122,"business, corporation",
+respondent,123,"buyer, purchaser",
+respondent,124,cable TV,
+respondent,125,car dealer,
+respondent,126,person convicted of crime,
+respondent,127,"tangible property, other than real estate, including contraband",
+respondent,128,chemical company,
+respondent,129,"child, children, including adopted or illegitimate",
+respondent,130,"religious organization, institution, or person",
+respondent,131,private club or facility,
+respondent,132,coal company or coal mine operator,
+respondent,133,"computer business or manufacturer, hardware or software",
+respondent,134,"consumer, consumer organization",
+respondent,135,"creditor, including institution appearing as such; e.g., a finance company",
+respondent,136,person allegedly criminally insane or mentally incompetent to stand trial,
+respondent,137,defendant,
+respondent,138,debtor,
+respondent,139,real estate developer,
+respondent,140,disabled person or disability benefit claimant,
+respondent,141,distributor,
+respondent,142,"person subject to selective service, including conscientious objector",
+respondent,143,drug manufacturer,
+respondent,144,"druggist, pharmacist, pharmacy",
+respondent,145,"employee, or job applicant, including beneficiaries of",
+respondent,146,"employer-employee trust agreement, employee health and welfare fund, or multi-employer pension plan",
+respondent,147,electric equipment manufacturer,
+respondent,148,"electric or hydroelectric power utility, power cooperative, or gas and electric company",
+respondent,149,eleemosynary institution or person,
+respondent,150,environmental organization,
+respondent,151,"employer. If employer's relations with employees are governed by the nature of the employer's business (e.g., railroad, boat), rather than labor law generally, the more specific designation is used in place of Employer.",
+respondent,152,"farmer, farm worker, or farm organization",
+respondent,153,father,
+respondent,154,female employee or job applicant,
+respondent,155,female,
+respondent,156,"movie, play, pictorial representation, theatrical production, actor, or exhibitor or distributor of",
+respondent,157,fisherman or fishing company,
+respondent,158,"food, meat packing, or processing company, stockyard",
+respondent,159,foreign (non-American) nongovernmental entity,
+respondent,160,franchiser,
+respondent,161,franchisee,
+respondent,162,"lesbian, gay, bisexual, transexual person or organization",
+respondent,163,person who guarantees another's obligations,
+respondent,164,"handicapped individual, or organization of devoted to",
+respondent,165,"health organization or person, nursing home, medical clinic or laboratory, chiropractor",
+respondent,166,"heir, or beneficiary, or person so claiming to be",
+respondent,167,"hospital, medical center",
+respondent,168,"husband, or ex-husband",
+respondent,169,involuntarily committed mental patient,
+respondent,170,"Indian, including Indian tribe or nation",
+respondent,171,"insurance company, or surety",
+respondent,172,"inventor, patent assigner, trademark owner or holder",
+respondent,173,investor,
+respondent,174,"injured person or legal entity, nonphysically and non-employment related",
+respondent,175,juvenile,
+respondent,176,government contractor,
+respondent,177,"holder of a license or permit, or applicant therefor",
+respondent,178,magazine,
+respondent,179,male,
+respondent,180,medical or Medicaid claimant,
+respondent,181,medical supply or manufacturing co.,
+respondent,182,racial or ethnic minority employee or job applicant,
+respondent,183,minority female employee or job applicant,
+respondent,184,manufacturer,
+respondent,185,"management, executive officer, or director, of business entity",
+respondent,186,"military personnel, or dependent of, including reservist",
+respondent,187,"mining company or miner, excluding coal, oil, or pipeline company",
+respondent,188,mother,
+respondent,189,auto manufacturer,
+respondent,190,"newspaper, newsletter, journal of opinion, news service",
+respondent,191,"radio and television network, except cable tv",
+respondent,192,nonprofit organization or business,
+respondent,193,nonresident,
+respondent,194,nuclear power plant or facility,
+respondent,195,"owner, landlord, or claimant to ownership, fee interest, or possession of land as well as chattels",
+respondent,196,shareholders to whom a tender offer is made,
+respondent,197,tender offer,
+respondent,198,"oil company, or natural gas producer",
+respondent,199,"elderly person, or organization dedicated to the elderly",
+respondent,200,out of state noncriminal defendant,
+respondent,201,political action committee,
+respondent,202,parent or parents,
+respondent,203,parking lot or service,
+respondent,204,patient of a health professional,
+respondent,205,"telephone, telecommunications, or telegraph company",
+respondent,206,"physician, MD or DO, dentist, or medical society",
+respondent,207,public interest organization,
+respondent,208,"physically injured person, including wrongful death, who is not an employee",
+respondent,209,pipe line company,
+respondent,210,"package, luggage, container",
+respondent,211,"political candidate, activist, committee, party, party member, organization, or elected official",
+respondent,212,"indigent, needy, welfare recipient",
+respondent,213,indigent defendant,
+respondent,214,private person,
+respondent,215,"prisoner, inmate of penal institution",
+respondent,216,"professional organization, business, or person",
+respondent,217,"probationer, or parolee",
+respondent,218,"protester, demonstrator, picketer or pamphleteer (non-employment related), or non-indigent loiterer",
+respondent,219,public utility,
+respondent,220,"publisher, publishing company",
+respondent,221,radio station,
+respondent,222,racial or ethnic minority,
+respondent,223,person or organization protesting racial or ethnic segregation or discrimination,
+respondent,224,racial or ethnic minority student or applicant for admission to an educational institution,
+respondent,225,realtor,
+respondent,226,"journalist, columnist, member of the news media",
+respondent,227,resident,
+respondent,228,"restaurant, food vendor",
+respondent,229,"retarded person, or mental incompetent",
+respondent,230,retired or former employee,
+respondent,231,railroad,
+respondent,232,"private school, college, or university",
+respondent,233,seller or vendor,
+respondent,234,"shipper, including importer and exporter",
+respondent,235,"shopping center, mall",
+respondent,236,"spouse, or former spouse",
+respondent,237,"stockholder, shareholder, or bondholder",
+respondent,238,retail business or outlet,
+respondent,239,"student, or applicant for admission to an educational institution",
+respondent,240,"taxpayer or executor of taxpayer's estate, federal only",
+respondent,241,tenant or lessee,
+respondent,242,"theater, studio",
+respondent,243,"forest products, lumber, or logging company",
+respondent,244,"person traveling or wishing to travel abroad, or overseas travel agent",
+respondent,245,"trucking company, or motor carrier",
+respondent,246,television station,
+respondent,247,union member,
+respondent,248,unemployed person or unemployment compensation applicant or claimant,
+respondent,249,"union, labor organization, or official of",
+respondent,250,veteran,
+respondent,251,"voter, prospective voter, elector, or a nonelective official seeking reapportionment or redistricting of legislative districts (POL)",
+respondent,252,wholesale trade,
+respondent,253,"wife, or ex-wife",
+respondent,254,"witness, or person under subpoena",
+respondent,255,network,
+respondent,256,slave,
+respondent,257,slave-owner,
+respondent,258,bank of the united states,
+respondent,259,timber company,
+respondent,260,u.s. job applicants or employees,
+respondent,301,Army and Air Force Exchange Service,
+respondent,302,Atomic Energy Commission,
+respondent,303,Secretary or administrative unit or personnel of the U.S. Air Force,
+respondent,304,Department or Secretary of Agriculture,
+respondent,305,Alien Property Custodian,
+respondent,306,Secretary or administrative unit or personnel of the U.S. Army,
+respondent,307,Board of Immigration Appeals,
+respondent,308,Bureau of Indian Affairs,
+respondent,310,Bonneville Power Administration,
+respondent,311,Benefits Review Board,
+respondent,312,Civil Aeronautics Board,
+respondent,313,Bureau of the Census,
+respondent,314,Central Intelligence Agency,
+respondent,315,Commodity Futures Trading Commission,
+respondent,316,Department or Secretary of Commerce,
+respondent,317,Comptroller of Currency,
+respondent,318,Consumer Product Safety Commission,
+respondent,319,Civil Rights Commission,
+respondent,320,"Civil Service Commission, U.S.",
+respondent,321,Customs Service or Commissioner of Customs,
+respondent,322,Defense Base Closure and REalignment Commission,
+respondent,323,Drug Enforcement Agency,
+respondent,324,Department or Secretary of Defense (and Department or Secretary of War),
+respondent,325,Department or Secretary of Energy,
+respondent,326,Department or Secretary of the Interior,
+respondent,327,Department of Justice or Attorney General,
+respondent,328,Department or Secretary of State,
+respondent,329,Department or Secretary of Transportation,
+respondent,330,Department or Secretary of Education,
+respondent,331,"U.S. Employees' Compensation Commission, or Commissioner",
+respondent,332,Equal Employment Opportunity Commission,
+respondent,333,Environmental Protection Agency or Administrator,
+respondent,334,Federal Aviation Agency or Administration,
+respondent,335,Federal Bureau of Investigation or Director,
+respondent,336,Federal Bureau of Prisons,
+respondent,337,Farm Credit Administration,
+respondent,338,"Federal Communications Commission (including a predecessor, Federal Radio Commission)",
+respondent,339,Federal Credit Union Administration,
+respondent,340,Food and Drug Administration,
+respondent,341,Federal Deposit Insurance Corporation,
+respondent,342,Federal Energy Administration,
+respondent,343,Federal Election Commission,
+respondent,344,Federal Energy Regulatory Commission,
+respondent,345,Federal Housing Administration,
+respondent,346,Federal Home Loan Bank Board,
+respondent,347,Federal Labor Relations Authority,
+respondent,348,Federal Maritime Board,
+respondent,349,Federal Maritime Commission,
+respondent,350,Farmers Home Administration,
+respondent,351,Federal Parole Board,
+respondent,352,Federal Power Commission,
+respondent,353,Federal Railroad Administration,
+respondent,354,Federal Reserve Board of Governors,
+respondent,355,Federal Reserve System,
+respondent,356,Federal Savings and Loan Insurance Corporation,
+respondent,357,Federal Trade Commission,
+respondent,358,"Federal Works Administration, or Administrator",
+respondent,359,General Accounting Office,
+respondent,360,Comptroller General,
+respondent,361,General Services Administration,
+respondent,362,"Department or Secretary of Health, Education and Welfare",
+respondent,363,Department or Secretary of Health and Human Services,
+respondent,364,Department or Secretary of Housing and Urban Development,
+respondent,366,Interstate Commerce Commission,
+respondent,367,Indian Claims Commission,
+respondent,368,"Immigration and Naturalization Service, or Director of, or District Director of, or Immigration and Naturalization Enforcement",
+respondent,369,"Internal Revenue Service, Collector, Commissioner, or District Director of",
+respondent,370,Information Security Oversight Office,
+respondent,371,Department or Secretary of Labor,
+respondent,372,Loyalty Review Board,
+respondent,373,Legal Services Corporation,
+respondent,374,Merit Systems Protection Board,
+respondent,375,Multistate Tax Commission,
+respondent,376,National Aeronautics and Space Administration,
+respondent,377,Secretary or administrative unit of the U.S. Navy,
+respondent,378,National Credit Union Administration,
+respondent,379,National Endowment for the Arts,
+respondent,380,National Enforcement Commission,
+respondent,381,National Highway Traffic Safety Administration,
+respondent,382,"National Labor Relations Board, or regional office or officer",
+respondent,383,National Mediation Board,
+respondent,384,National Railroad Adjustment Board,
+respondent,385,Nuclear Regulatory Commission,
+respondent,386,National Security Agency,
+respondent,387,Office of Economic Opportunity,
+respondent,388,Office of Management and Budget,
+respondent,389,"Office of Price Administration, or Price Administrator",
+respondent,390,Office of Personnel Management,
+respondent,391,Occupational Safety and Health Administration,
+respondent,392,Occupational Safety and Health Review Commission,
+respondent,393,Office of Workers' Compensation Programs,
+respondent,394,"Patent Office, or Commissioner of, or Board of Appeals of",
+respondent,395,Pay Board (established under the Economic Stabilization Act of 1970),
+respondent,396,Pension Benefit Guaranty Corporation,
+respondent,397,U.S. Public Health Service,
+respondent,398,Postal Rate Commission,
+respondent,399,Provider Reimbursement Review Board,
+respondent,400,Renegotiation Board,
+respondent,401,Railroad Adjustment Board,
+respondent,402,Railroad Retirement Board,
+respondent,403,Subversive Activities Control Board,
+respondent,404,Small Business Administration,
+respondent,405,Securities and Exchange Commission,
+respondent,406,Social Security Administration or Commissioner,
+respondent,407,Selective Service System,
+respondent,408,Department or Secretary of the Treasury,
+respondent,409,Tennessee Valley Authority,
+respondent,410,United States Forest Service,
+respondent,411,United States Parole Commission,
+respondent,412,"Postal Service and Post Office, or Postmaster General, or Postmaster",
+respondent,413,United States Sentencing Commission,
+respondent,414,Veterans' Administration,
+respondent,415,War Production Board,
+respondent,416,Wage Stabilization Board,
+respondent,417,General Land Office of Commissioners,
+respondent,418,Transportation Security Administration,
+respondent,419,Surface Transportation Board,
+respondent,420,U.S. Shipping Board Emergency Fleet Corp.,
+respondent,421,Reconstruction Finance Corp.,
+respondent,422,Department or Secretary of Homeland Security,
+respondent,501,Unidentifiable,
+respondent,600,International Entity,
+respondentState,1,Alabama,
+respondentState,2,Alaska,
+respondentState,3,American Samoa,
+respondentState,4,Arizona,
+respondentState,5,Arkansas,
+respondentState,6,California,
+respondentState,7,Colorado,
+respondentState,8,Connecticut,
+respondentState,9,Delaware,
+respondentState,10,District of Columbia,
+respondentState,11,Federated States of Micronesia,
+respondentState,12,Florida,
+respondentState,13,Georgia,
+respondentState,14,Guam,
+respondentState,15,Hawaii,
+respondentState,16,Idaho,
+respondentState,17,Illinois,
+respondentState,18,Indiana,
+respondentState,19,Iowa,
+respondentState,20,Kansas,
+respondentState,21,Kentucky,
+respondentState,22,Louisiana,
+respondentState,23,Maine,
+respondentState,24,Marshall Islands,
+respondentState,25,Maryland,
+respondentState,26,Massachusetts,
+respondentState,27,Michigan,
+respondentState,28,Minnesota,
+respondentState,29,Mississippi,
+respondentState,30,Missouri,
+respondentState,31,Montana,
+respondentState,32,Nebraska,
+respondentState,33,Nevada,
+respondentState,34,New Hampshire,
+respondentState,35,New Jersey,
+respondentState,36,New Mexico,
+respondentState,37,New York,
+respondentState,38,North Carolina,
+respondentState,39,North Dakota,
+respondentState,40,Northern Mariana Islands,
+respondentState,41,Ohio,
+respondentState,42,Oklahoma,
+respondentState,43,Oregon,
+respondentState,44,Palau,
+respondentState,45,Pennsylvania,
+respondentState,46,Puerto Rico,
+respondentState,47,Rhode Island,
+respondentState,48,South Carolina,
+respondentState,49,South Dakota,
+respondentState,50,Tennessee,
+respondentState,51,Texas,
+respondentState,52,Utah,
+respondentState,53,Vermont,
+respondentState,54,Virgin Islands,
+respondentState,55,Virginia,
+respondentState,56,Washington,
+respondentState,57,West Virginia,
+respondentState,58,Wisconsin,
+respondentState,59,Wyoming,
+respondentState,60,United States,
+respondentState,61,Interstate Compact,
+respondentState,62,Philippines,
+respondentState,63,Indian,
+respondentState,64,Dakota,
+secondAgreement,1,JJay,"Jay, John ( 10/19/1789 - 06/29/1795 )"
+secondAgreement,2,JRutledge1,"Rutledge, John ( 02/15/1790 - 03/05/1791 )"
+secondAgreement,3,WCushing,"Cushing, William ( 02/02/1790 - 09/13/1810 )"
+secondAgreement,4,JWilson,"Wilson, James ( 10/05/1789 - 08/21/1798 )"
+secondAgreement,5,JBlair,"Blair, John ( 02/02/1790 - 01/27/1796 )"
+secondAgreement,6,JIredell,"Iredell, James ( 05/12/1790 - 10/20/1799 )"
+secondAgreement,7,TJohnson,"Johnson, Thomas ( 09/19/1791 - 02/22/1793 )"
+secondAgreement,8,WPaterson,"Paterson, William ( 03/11/1793 - 09/09/1806 )"
+secondAgreement,9,JRutledge2,"Rutledge, John ( 08/12/1795 - 12/15/1795 )"
+secondAgreement,10,SChase,"Chase, Samuel ( 02/04/1796 - 06/19/1811 )"
+secondAgreement,11,OEllsworth,"Ellsworth, Oliver ( 03/08/1796 - 12/15/1800 )"
+secondAgreement,12,BWashington,"Washington, Bushrod ( 11/09/1798 - 11/26/1829 )"
+secondAgreement,13,AMoore,"Moore, Alfred ( 04/21/1800 - 01/26/1804 )"
+secondAgreement,14,JMarshall,"Marshall, John ( 02/04/1801 - 07/06/1835 )"
+secondAgreement,15,WJohnson,"Johnson, William ( 05/07/1804 - 08/04/1834 )"
+secondAgreement,16,HBLivingston,"Livingston, Henry ( 01/20/1807 - 03/18/1823 )"
+secondAgreement,17,TTodd,"Todd, Thomas ( 05/04/1807 - 02/07/1826 )"
+secondAgreement,18,GDuvall,"Duvall, Gabriel ( 11/23/1811 - 01/14/1835 )"
+secondAgreement,19,JStory,"Story, Joseph ( 02/03/1812 - 09/10/1845 )"
+secondAgreement,20,SThompson,"Thompson, Smith ( 09/01/1823 - 12/18/1843 )"
+secondAgreement,21,RTrimble,"Trimble, Robert ( 06/16/1826 - 08/25/1828 )"
+secondAgreement,22,JMcLean,"McLean, John ( 01/11/1830 - 04/04/1861 )"
+secondAgreement,23,HBaldwin,"Baldwin, Henry ( 01/18/1830 - 04/21/1844 )"
+secondAgreement,24,JMWayne,"Wayne, James ( 01/14/1835 - 07/05/1867 )"
+secondAgreement,25,RBTaney,"Taney, Roger ( 03/28/1836 - 10/12/1864 )"
+secondAgreement,26,PPBarbour,"Barbour, Philip ( 05/12/1836 - 02/25/1841 )"
+secondAgreement,27,JCatron,"Catron, John ( 05/01/1837 - 05/30/1865 )"
+secondAgreement,28,JMcKinley,"McKinley, John ( 04/22/1837 - 07/19/1852 )"
+secondAgreement,29,PVDaniel,"Daniel, Peter ( 01/10/1842 - 05/31/1860 )"
+secondAgreement,30,SNelson,"Nelson, Samuel ( 02/27/1845 - 11/28/1872 )"
+secondAgreement,31,LWoodbury,"Woodbury, Levi ( 09/23/1845 - 09/04/1851 )"
+secondAgreement,32,RCGrier,"Grier, Robert ( 08/10/1846 - 01/31/1870 )"
+secondAgreement,33,BRCurtis,"Curtis, Benjamin ( 10/10/1851 - 09/30/1857 )"
+secondAgreement,34,JACampbell,"Campbell, John ( 04/11/1853 - 04/30/1861 )"
+secondAgreement,35,NClifford,"Clifford, Nathan ( 01/21/1858 - 07/25/1881 )"
+secondAgreement,36,NHSwayne,"Swayne, Noah ( 01/27/1862 - 01/24/1881 )"
+secondAgreement,37,SFMiller,"Miller, Samuel ( 07/21/1862 - 10/13/1890 )"
+secondAgreement,38,DDavis,"Davis, David ( 10/17/1862 - 03/04/1877 )"
+secondAgreement,39,SJField,"Field, Stephen ( 05/20/1863 - 12/01/1897 )"
+secondAgreement,40,SPChase,"Chase, Salmon ( 12/15/1864 - 05/07/1873 )"
+secondAgreement,41,WStrong,"Strong, William ( 03/14/1870 - 12/14/1880 )"
+secondAgreement,42,JPBradley,"Bradley, Joseph ( 03/21/1870 - 01/22/1892 )"
+secondAgreement,43,WHunt,"Hunt, Ward ( 01/09/1873 - 01/27/1882 )"
+secondAgreement,44,MRWaite,"Waite, Morrison ( 03/04/1874 - 04/03/1888 )"
+secondAgreement,45,JHarlan1,"Harlan, John ( 12/10/1877 - 10/14/1911 )"
+secondAgreement,46,WBWoods,"Woods, William ( 01/05/1881 - 05/14/1887 )"
+secondAgreement,47,SMatthews,"Matthews, Stanley ( 05/17/1881 - 03/22/1889 )"
+secondAgreement,48,HGray,"Gray, Horace ( 01/09/1882 - 09/15/1902 )"
+secondAgreement,49,SBlatchford,"Blatchford, Samuel ( 04/03/1882 - 07/07/1893 )"
+secondAgreement,50,LQLamar,"Lamar, Lucius ( 01/18/1888 - 01/23/1893 )"
+secondAgreement,51,MWFuller,"Fuller, Melville ( 10/08/1888 - 07/04/1910 )"
+secondAgreement,52,DJBrewer,"Brewer, David ( 01/06/1890 - 03/28/1910 )"
+secondAgreement,53,HBBrown,"Brown, Henry ( 01/05/1891 - 05/28/1906 )"
+secondAgreement,54,GShiras,"Shiras, George ( 10/10/1892 - 02/23/1903 )"
+secondAgreement,55,HEJackson,"Jackson, Howell ( 03/04/1893 - 08/08/1895 )"
+secondAgreement,56,EDEWhite,"White, Edward ( 03/12/1894 - 05/19/1921 )"
+secondAgreement,57,RWPeckham,"Peckham, Rufus ( 01/06/1896 - 10/24/1909 )"
+secondAgreement,58,JMcKenna,"McKenna, Joseph ( 01/26/1898 - 01/05/1925 )"
+secondAgreement,59,OWHolmes,"Holmes, Oliver ( 08/11/1902 - 01/12/1932 )"
+secondAgreement,60,WRDay,"Day, William ( 03/02/1903 - 11/13/1922 )"
+secondAgreement,61,WHMoody,"Moody, William ( 12/17/1906 - 11/20/1910 )"
+secondAgreement,62,HHLurton,"Lurton, Horace ( 01/03/1910 - 07/12/1914 )"
+secondAgreement,63,CEHughes1,"Hughes, Charles ( 10/10/1910 - 06/10/1916 )"
+secondAgreement,64,WVanDevanter,"Van Devanter, Willis ( 01/03/1911 - 06/02/1937 )"
+secondAgreement,65,JRLamar,"Lamar, Joseph ( 01/03/1911 - 01/02/1916 )"
+secondAgreement,66,MPitney,"Pitney, Mahlon ( 03/18/1912 - 12/31/1922 )"
+secondAgreement,67,JCMcReynolds,"McReynolds, James ( 10/12/1914 - 01/31/1941 )"
+secondAgreement,68,LDBrandeis,"Brandeis, Louis ( 06/05/1916 - 02/13/1939 )"
+secondAgreement,69,JHClarke,"Clarke, John ( 10/09/1916 - 09/18/1922 )"
+secondAgreement,70,WHTaft,"Taft, William ( 07/11/1921 - 02/03/1930 )"
+secondAgreement,71,GSutherland,"Sutherland, George ( 10/02/1922 - 01/17/1938 )"
+secondAgreement,72,PButler,"Butler, Pierce ( 01/02/1923 - 11/16/1939 )"
+secondAgreement,73,ETSanford,"Sanford, Edward ( 02/19/1923 - 03/08/1930 )"
+secondAgreement,74,HFStone,"Stone, Harlan ( 03/02/1925 - 04/22/1946 )"
+secondAgreement,75,CEHughes2,"Hughes, Charles ( 02/24/1930 - 07/01/1941 )"
+secondAgreement,76,OJRoberts,"Roberts, Owen ( 06/02/1930 - 07/31/1945 )"
+secondAgreement,77,BNCardozo,"Cardozo, Benjamin ( 03/14/1932 - 07/09/1938 )"
+secondAgreement,78,HLBlack,"Black, Hugo ( 08/19/1937 - 09/17/1971 )"
+secondAgreement,79,SFReed,"Reed, Stanley ( 01/31/1938 - 02/25/1957 )"
+secondAgreement,80,FFrankfurter,"Frankfurter, Felix ( 01/30/1939 - 08/28/1962 )"
+secondAgreement,81,WODouglas,"Douglas, William ( 04/17/1939 - 11/12/1975 )"
+secondAgreement,82,FMurphy,"Murphy, Francis ( 02/05/1940 - 07/19/1949 )"
+secondAgreement,83,JFByrnes,"Byrnes, James ( 07/08/1941 - 10/03/1942 )"
+secondAgreement,84,RHJackson,"Jackson, Robert ( 07/11/1941 - 10/09/1954 )"
+secondAgreement,85,WBRutledge,"Rutledge, Wiley ( 02/15/1943 - 09/10/1949 )"
+secondAgreement,86,HHBurton,"Burton, Harold ( 10/01/1945 - 10/13/1958 )"
+secondAgreement,87,FMVinson,"Vinson, Fred ( 06/24/1946 - 09/08/1953 )"
+secondAgreement,88,TCClark,"Clark, Tom ( 08/24/1949 - 06/12/1967 )"
+secondAgreement,89,SMinton,"Minton, Sherman ( 10/12/1949 - 10/15/1956 )"
+secondAgreement,90,EWarren,"Warren, Earl ( 10/05/1953 - 06/23/1969 )"
+secondAgreement,91,JHarlan2,"Harlan, John ( 03/28/1955 - 09/23/1971 )"
+secondAgreement,92,WJBrennan,"Brennan, William ( 10/16/1956 - 07/20/1990 )"
+secondAgreement,93,CEWhittaker,"Whittaker, Charles ( 03/25/1957 - 03/31/1962 )"
+secondAgreement,94,PStewart,"Stewart, Potter ( 10/14/1958 - 07/03/1981 )"
+secondAgreement,95,BRWhite,"White, Byron ( 04/16/1962 - 06/28/1993 )"
+secondAgreement,96,AJGoldberg,"Goldberg, Arthur ( 10/01/1962 - 07/25/1965 )"
+secondAgreement,97,AFortas,"Fortas, Abe ( 10/04/1965 - 05/14/1969 )"
+secondAgreement,98,TMarshall,"Marshall, Thurgood ( 10/02/1967 - 10/01/1991 )"
+secondAgreement,99,WEBurger,"Burger, Warren ( 06/23/1969 - 09/26/1986 )"
+secondAgreement,100,HABlackmun,"Blackmun, Harry ( 06/09/1970 - 08/03/1994 )"
+secondAgreement,101,LFPowell,"Powell, Lewis ( 01/07/1972 - 06/26/1987 )"
+secondAgreement,102,WHRehnquist,"Rehnquist, William ( 01/07/1972 - 09/03/2005 )"
+secondAgreement,103,JPStevens,"Stevens, John ( 12/19/1975 - 06/29/2010 )"
+secondAgreement,104,SDOConnor,"O'Connor, Sandra ( 09/25/1981 - 01/31/2006 )"
+secondAgreement,105,AScalia,"Scalia, Antonin ( 09/26/1986 - 02/13/2016 )"
+secondAgreement,106,AMKennedy,"Kennedy, Anthony ( 02/18/1988 - 07/31/2018 )"
+secondAgreement,107,DHSouter,"Souter, David ( 10/09/1990 - 06/29/2009 )"
+secondAgreement,108,CThomas,"Thomas, Clarence ( 10/23/1991 - 00/00/0000 )"
+secondAgreement,109,RBGinsburg,"Ginsburg, Ruth ( 08/10/1993 - 09/18/2020 )"
+secondAgreement,110,SGBreyer,"Breyer, Stephen ( 08/03/1994 - 06/30/2022 )"
+secondAgreement,111,JGRoberts,"Roberts, John ( 09/29/2005 - 00/00/0000 )"
+secondAgreement,112,SAAlito,"Alito, Samuel ( 01/31/2006 - 00/00/0000 )"
+secondAgreement,113,SSotomayor,"Sotomayor, Sonia ( 08/08/2009 - 00/00/0000 )"
+secondAgreement,114,EKagan,"Kagan, Elena ( 08/07/2010 - 00/00/0000 )"
+secondAgreement,115,NMGorsuch,"Gorsuch, Neil ( 04/08/2017 - 00/00/0000 )"
+secondAgreement,116,BMKavanaugh,"Kavanaugh, Brett ( 10/06/2018 - 00/00/0000 )"
+secondAgreement,117,ACBarrett,"Barrett, Amy ( 10/27/2020 - 00/00/0000 )"
+secondAgreement,118,KBJackson,"Jackson, Ketanji ( 06/30/2022 - 00/00/0000 )"
+splitVote,1,first vote on issue/legal provision,
+splitVote,2,second vote on issue/legal provision,
+threeJudgeFdc,0,no mention that a 3-judge ct heard case,
+threeJudgeFdc,1,3-judge district ct heard case,
+vote,1,voted with majority or plurality,
+vote,2,dissent,
+vote,3,regular concurrence,
+vote,4,special concurrence,
+vote,5,judgment of the Court,
+vote,6,"dissent from a denial or dismissal of certiorari , or dissent from summary affirmation of an appeal",
+vote,7,jurisdictional dissent,
+vote,8,justice participated in an equally divided vote,
+voteUnclear,0,vote clearly specified,
+voteUnclear,1,the vote in the case not clear,

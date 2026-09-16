@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# Supreme Court Database (Washington University), modern (1946-) release 2026_01 and Legacy (1791-1945).
+# http://scdb.wustl.edu/data.php  -- CSV zips, one per unit of analysis.
+set -uo pipefail
+cd "$(dirname "$0")"
+REL=${SCDB_RELEASE:-2026_01}
+LEG=${SCDB_LEGACY:-Legacy_07}
+for unit in caseCentered_Citation caseCentered_Docket caseCentered_LegalProvision caseCentered_Vote \
+            justiceCentered_Citation justiceCentered_Docket justiceCentered_LegalProvision justiceCentered_Vote; do
+  for ver in "$REL" "$LEG"; do
+    f="data/raw/SCDB_${ver}_${unit}.csv.zip"
+    [[ -s "$f" ]] && continue
+    curl -L --retry 5 -sS -A "Mozilla/5.0 (datapond-maintenance)" -o "$f.part" "http://scdb.wustl.edu/_brickFiles/${ver}/SCDB_${ver}_${unit}.csv.zip" \
+      && python3 -c "import zipfile,sys; sys.exit(0 if zipfile.is_zipfile('$f.part') else 1)" && mv "$f.part" "$f" && echo "ok $f $(stat -c %s "$f")" || { rm -f "$f.part"; echo "FAIL $f"; }
+  done
+done
